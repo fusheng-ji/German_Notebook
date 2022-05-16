@@ -770,13 +770,14 @@
 
 #### Uhrzeitangabe 钟点作时间状语
 
-钟点在语句中常用作状语。钟点作状语时必须在钟点词或词组前加介词um，对其提问用疑问词wann或词组Um wie viel Uhr。
+钟点在语句中常用作状语。钟点作状语时必须在钟点词或词组前加介词**um**，对其提问用疑问词**wann**或词组**Um wie viel Uhr**。
 
 |   Q   | ==Wann== geht Kai zum unterricht?          | 凯什么时候去上课？     |
 | :---: | ------------------------------------------ | ---------------------- |
 | **A** | Um halb acht.                              | 七点半                 |
 | **Q** | **==Um wie viel Uhr== geht Lea ins Büro?** | **雷亚几点去办公室？** |
 | **A** | Um zehn nach sieben.                       | 7点10分                |
+|       | Um Sieben Uhr frühstücken wir.             | 我们在七点吃早餐。     |
 
 | Q     | Hast du jetzt Zeit?                  |
 | ----- | ------------------------------------ |
@@ -784,6 +785,33 @@
 
 | Flug 4077 aus Florenz landet in 10 Minuten. | die Minute,-n   landen 降落 |
 | ------------------------------------------- | --------------------------- |
+
+#### Die Tageszelten 时间的表达
+
+|                    |                |      每天       |
+| :----------------: | :------------: | :-------------: |
+|   **der Morgen**   |    **早上**    |   **morgens**   |
+| **der Vormittag**  |    **上午**    | **vormittags**  |
+|   **der Mittag**   |    **中午**    |   **mittags**   |
+| **der Nachmittag** |    **下午**    | **nachmittags** |
+|   **der Abend**    | **傍晚，晚上** |   **abends**    |
+|   **die Nacht**    |    **夜晚**    |   **nachts**    |
+
+#### Die Wochentage 一周的表达
+
+| Montag  | Dienstag  | Mittwoch  | Donnerstag  | Freitag  | Samstag/Sonnabend | Sonntag  |
+| :-----: | :-------: | :-------: | :---------: | :------: | :---------------: | :------: |
+|   MO    |    DI     |    MI     |     DO      |    FR    |        SA         |    SO    |
+| montags | dienstags | mittwochs | donnerstags | freitags |     samstags      | sonntags |
+
+| Wochenende | Samstag und Sonntag |
+| ---------- | ------------------- |
+
+#### Zeitangbe
+
+| Punkt | kurz vor | kurz nach |  gegen   |
+| :---: | :------: | :-------: | :------: |
+| 整点  | 不到几点 | 刚过几点  | 几点左右 |
 
 ### die Nummer,-n
 
