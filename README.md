@@ -1,5 +1,4 @@
-# German_Notebook
-# Phonetische
+# **Phonetische**
 
 1. 元音在下列情况下发长音
 
@@ -333,14 +332,14 @@
 
 6. 泛指的抽象名词
 
-   | Ich habe Zeit / Geld / Geduld / Hunger / Durst.       |
-   | ----------------------------------------------------- |
-   | 我有时间/金钱/耐心/饥饿/饥渴                          |
-   | die Zeit, das Geld, die Geduld, der Hunger, der Durst |
-   | **Ich habe Unterricht.**                              |
-   | 我有课。                                              |
-   | **Ich habe eine Stunde /zwei Stunden Unterricht.**    |
-   | 我有一/两节的课程。                                   |
+   | Ich habe Zeit / Geld / Geduld / Hunger / Durst/ Lust.        |
+   | ------------------------------------------------------------ |
+   | 我有时间/金钱/耐心/饥饿/饥渴/兴趣。                          |
+   | die Zeit, das Geld, die Geduld, der Hunger, der Durst, die Lust |
+   | **Ich habe Unterricht.**                                     |
+   | 我有课。                                                     |
+   | **Ich habe eine Stunde /zwei Stunden Unterricht.**           |
+   | 我有一/两节的课程。                                          |
 
 7. 表示学科的名词
 
@@ -484,6 +483,91 @@
    |          |           |    die Türkei (f)     |   In die Türkei    |   In der Türkei    |
    |          |           |    die Ukraine (f)    |   In die Ukraine   |   In der Ukraine   |
 
+## Modalverben 情态助动词
+
+### Konjugation der Modalverben 情态助动词的变位形式
+
+|      | möchten<br />客气地想 | wollen<br />想 | müssen<br />必须（义务） | dürfen<br />可以（被允许） | können<br />可以（有能力） | sollen<br />应该 |
+| :--: | :-------------------: | :------------: | :----------------------: | :------------------------: | :------------------------: | :--------------: |
+| ich  |      **möchte**       |  ==**will**==  |       ==**muss**==       |        ==**darf**==        |        ==**kann**==        |     ==soll==     |
+|  du  |   ==**möchtest**==    |   ==willst==   |      ==**musst**==       |       ==**darst**==        |       ==**kannst**==       |      sollst      |
+|  er  |                       |                |                          |                            |                            |                  |
+| sie  |      **möchte**       |    **will**    |         **muss**         |          **darf**          |          **kann**          |       soll       |
+|  es  |                       |                |                          |                            |                            |                  |
+| wir  |        möchten        |     wollen     |          müssen          |           dürfen           |           können           |      sollen      |
+| ihr  |      **möchtet**      |     wollt      |          müsst           |           dürft            |           könnt            |      sollt       |
+| sie  |        möchten        |     wollen     |          müssen          |           dürfen           |           können           |      sollen      |
+| Sie  |        möchten        |     wollen     |          müssen          |           dürfen           |           können           |      sollen      |
+
+说明：
+
+1. 表示说话者对某一动作或状态的态度
+2. 不单独做谓语，句子中还有实义动词，本身仅作为助动词
+3. 情态动词变位，实义动词以原型放在句尾
+4. 情态动词与实义动词共同构成句子框架结构
+5. 情态助动词属于特殊变位动词，其**第一人称单数与第三人称单数的变位形式相同**
+6. 情态助动词现在时复数及尊称Sie的情况下，变位形式与规则动词相同
+
+### Verbstellung der Modalverben 情态动词再句中的位置
+
+#### im Aussagesatz 在陈述句中
+
+|     Ⅰ      |   Ⅱ    |     Ⅲ      |  Ende   |        |
+| :--------: | :----: | :--------: | :-----: | ------ |
+|   Stefan   | möchte |    Bier    | kaufen. |        |
+|    Ich     |  wil   | Schokolade | essen.  |        |
+|    Ich     | möchte | **liber**  |  Reis   | essen. |
+| Die Kinder | müssen | zur Schule | gehen.  |        |
+|            |        |            |         |        |
+
+#### im Fragesatz 在疑问句中
+
+|   Ⅰ    |     Ⅱ      |      Ⅲ      |   Ende    | Antwort                          |
+| :----: | :--------: | :---------: | :-------: | -------------------------------- |
+|  Was   |   möchte   |   Monika    | trinken?  | Sie möchte Kaffee trinken.       |
+| Möchte |   Monika   |     Tee     | trinken?  | Nein. Sie möchte Kaffee trinken. |
+|  Was   |    will    | die Tochter |  essen?   | Sie will schokolade essen.       |
+|  Will  | die Tocher | Schokolade  |  essen?   | Ja. / Nein,                      |
+| Welche |  Sprachen  |   kannst    |    du     | sprechen?                        |
+| Kannst |     du     |   Deutsch   | sprechen? |                                  |
+|  Darf  |    ich     |    hier     | rauchen?  |                                  |
+
+说明：
+
+1. 情态助动词一般与实义动词连用。
+2. ==在陈述句与疑问句中情态助动词放在句子第二位，并随主语进行变位。==
+3. ==在一般疑问句中，情态助动词位于句子第一位，并进行相应变位。==
+4. 与情态动词连用的实义动词永远以动词原形位于句末。
+
+### Gebrauch der Modalverben 情态助动词的用法
+
+| möchten (Wunsch, Plan, Absicht - höflicher Ausdruck)         | 客气地表达某种愿望、打算或意图                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Ich möchte bitte ein Kilo Kartoffeln.                        | 我想要一千克土豆。                                           |
+| Ich möchte ihn morgen besuchen.                              | 我想明天去拜访他。                                           |
+| **wollen (starker Wunsch, Plan, Absicht)**                   | **表达某种强烈的愿望、打算或意图**                           |
+| Ich will jetzt keine Hausaufgaben machen.                    | 我现在不想做作业。                                           |
+| Ich will in Deutschland Physik studieren.                    | 我要在德国学物理。                                           |
+| **müssen (Pflicht, Befehl, Notwendigkeit)**                  | **表达某种义务、命令或必要性**                               |
+| Mit 6 Jahren müssen alle Kinder yur Schule gehen.            | 孩子们六岁都得上学。                                         |
+| Herr Müller sagt: "Sie müssen die Modalverben lernen."       | 米勒先生说：“你必须学情态助动词。”                           |
+| Hans ist krank. Er muss zu Hause bleiben.                    | 汉斯生病了。他不得不待在家里。                               |
+| **dürfen (Erlaubnis, Verbot, höfliche Frage)**               | **表示某种许可、禁令（否定句）或在一般疑问句中客气地征得对方许可** |
+| Man darf hier parken.                                        | 这里可以停车。                                               |
+| Hier dürfen Sie nicht rauchen.                               | 您不准在这抽烟。                                             |
+| Darf ich im Bus rauchen? <br/>Nein, Sie dürfen nicht rauchen. | 我可以在车里抽烟吗？<br/>不可以，您不准在这抽烟。            |
+| **können (Fähigkeit, Möglichkeit, Erlaubnis)**               | **表示某种能力、可能性或许可。**                             |
+| Meine Tochter ist 3 Jahre alt. Sie kann laufen. Aber sie kann nicht schreiben. | 我女儿三岁了。她会走路了、但她不会写字。                     |
+| Können Sie mich morgen besuchen? <br/>Nein, ich kann Sie morgen nicht besuchen.Ich habe keine Zeit. | 您明天能来看我吗？<br/>不能，明天我不能来看您。我没时间。    |
+| Kann ich hier schwimmen?<br/>Ja, Sie ==**können**== hier schwimmen. <br />Nein, Sie dürfen hier nicht schwimmen. | 我能在这游泳吗？<br/>可以，您可以在这里游泳。<br />不行，您不允许在这里游泳。<br />口语中经常用**können**来代替**dürfen** |
+| **sollen (Weitergabe einer Information; Auftrag; Bitte um einen Rat; moralische Verpflichtung)** | **转述他人的话；表达别人委托的任务；征求对方意见；表述道德方面的义务** |
+| Arzthelferin: Sie sollen viel Obst essen und viel Wasser trinken. Das hat der Arzt gesagt. | 医生助理：医生说过，您该多吃水果多喝水。                     |
+| Die sekretärin soll Kaffee machen.                           | 女秘书得煮咖啡。（老板给的任务）                             |
+| Kannst du mich morgen besuchen? <br/>Ja. Wann soll ich kommen?<br/>Um drei. | 你明天能来看我吗？<br/>可以。要我什么时间来呢？<br/>三点。   |
+| Man soll Rücksicht auf andere Menschen nehmen.               | 每个人都应该顾及他人。                                       |
+
+
+
 # Notizen
 
 ## das Land, die Länder und die Sprache, -n und  die Leute
@@ -542,29 +626,157 @@
 | **A** | **In Indien benutzt man Indisch und Englisch.**    |
 | **Q** | **Sind Sie Chinese?**                              |
 | **A** | **Ja, ich bin Chinese.**                           |
+| **Q** | **Welche Sprachen kannst du sprechen?**            |
 
 ## die Zahl, -en
 
 | Wie bitte?/Wiederholen Sie bitte! | 没听清，请重复一遍 |
 | :-------------------------------: | :----------------: |
 
-|      |                       |      |                       |      |                                        |       |                                            |
-| :--: | :-------------------: | :--: | :-------------------: | :--: | :------------------------------------: | ----- | :----------------------------------------: |
-|  0   |         null          |  10  |         zehn          |  20  |                zwanzig                 | 30    |                  dreißig                   |
-|  1   |         eins          |  11  |          elf          |  21  |             einundzwanzig              | 40    |                  vierzig                   |
-|  2   |         zwei          |  12  |         zwölf         |  22  |             zweiundzwanzig             | 50    |                  fünfzig                   |
-|  3   |         drei          |  13  |       dreizehn        |  23  |             dreiundzwanzig             | 60    |                **sechzig**                 |
-|  4   |         vier          |  14  |       vierzehn        |  24  |             vierundzwanzig             | 70    |                **siebzig**                 |
-|  5   |         fünf          |  15  |       fünfzehn        |  25  |             fünfundzwanzig             | 80    |                  achtzig                   |
-|  6   |         sechs         |  16  |     **sechzehn**      |  26  |            sechsundzwanzig             | 90    |                  neunzig                   |
-|  7   |        sieben         |  17  |      **sibzehn**      |  27  |            siebenundzwanzig            | 100   |                (ein)hundert                |
-|  8   |         acht          |  18  |       achtzehn        |  28  |             achtundzwanzig             | 101   |            einhundert(und)eins             |
-|  9   |         neun          |  19  |       neunzehn        |  29  |             neunundzwanzig             | 121   |          einhunderteinundzwanzig           |
-| 134  | hundertvierunddreißig | 195  | hundertfünfundneunzig | 1000 |               eintausend               | 10000 |                zehntausend                 |
-|      |                       |      |                       | 1963 | tausend<br/>neunhundert dreiundsechzig | 3875  | dreitausend<br/>achthundert fünfundsiebzig |
-|      |                       |      |                       |      |                                        |       |                                            |
+|      |  0-12  |      |    13-19     |      |      20-29       |      |    30-90    |
+| :--: | :----: | :--: | :----------: | :--: | :--------------: | ---- | :---------: |
+|  0   |  null  |  13  |   dreizehn   |  20  |     zwanzig      | 30   |   dreißig   |
+|  1   |  eins  |  14  |   vierzehn   |  21  |  einundzwanzig   | 40   |   vierzig   |
+|  2   |  zwei  |  15  |   fünfzehn   |  22  |  zweiundzwanzig  | 50   |   fünfzig   |
+|  3   |  drei  |  16  | **sechzehn** |  23  |  dreiundzwanzig  | 60   | **sechzig** |
+|  4   |  vier  |  17  | **sibzehn**  |  24  |  vierundzwanzig  | 70   | **siebzig** |
+|  5   |  fünf  |  18  |   achtzehn   |  25  |  fünfundzwanzig  | 80   |   achtzig   |
+|  6   | sechs  |  19  |   neunzehn   |  26  | sechsundzwanzig  | 90   |   neunzig   |
+|  7   | sieben |      |              |  27  | siebenundzwanzig |      |             |
+|  8   |  acht  |      |              |  28  |  achtundzwanzig  |      |             |
+|  9   |  neun  |      |              |  29  |  neunundzwanzig  |      |             |
+|  10  |  zehn  |      |              |      |                  |      |             |
+|  11  |  elf   |      |              |      |                  |      |             |
+|  12  | zwölf  |      |              |      |                  |      |             |
+
+|      |    100-900    |      |          101-999          |
+| :--: | :-----------: | :--: | :-----------------------: |
+| 100  | (ein)hundert  | 101  |     (ein)hunderteins      |
+| 200  |  zweihundert  | 299  | zweihundertneunundneunzig |
+| 300  |  dreihundert  | 307  |     dreihundertsieben     |
+| 400  |  vierhundert  | 412  |     vierhundertzwölf      |
+| 500  |  fünfhundert  | 534  | funfhundertvierunddreißig |
+| 600  | sechshundert  | 619  |   sechshundertneunzehn    |
+| 700  | siebenhundert | 705  |     siebenhundertfunf     |
+| 800  |  achthundert  | 825  | achthundertfünfundzwanzig |
+| 900  |  neunhundert  | 901  |      neunhunderteins      |
+
+|                          |             1 000-1 000 000 000             |
+| :----------------------: | :-----------------------------------------: |
+|          1 000           |                (ein) tausend                |
+|          1 001           |              (ein) tausendeins              |
+|          3 022           |          dreitausendzweiundzwanzig          |
+|          5 121           |     füfntausendeinhunderterinundzwanzig     |
+|          7 415           |       sibentausendvierhundertfünfzehn       |
+|          10 000          |                 zehntausend                 |
+|          20 084          |        zwanzigtausendvierundachtzig         |
+|          43 005          |           dreiundviertausendfünf            |
+|          95 712          |   fünfundneunzigtausendsiebenhundertzwölf   |
+|         100 000          |            (ein) hunderttausend             |
+|         100 007          |         (ein) hunderttausendsieben          |
+|         200 433          | zweihunderttausendvierhundertdreiunddreißig |
+|         307 000          |          dreihundertsiebentausend           |
+|         434 010          |    vierhundertvierunddreißigtausendzehn     |
+|    1 Mio. (1 000 000)    |                eine Million                 |
+|   1,5 Mio. (1 500 000)   |          eins Komma fünf Millionen          |
+|  1 Mrd. (1 000 000 000)  |               eine Milliarde                |
+| 4,9 Mrd. (4 900 000 000) |         vier Komma neun Milliarden          |
+
+说明：
+
+1. Million和Milliarde是阴性名词，要大写，当与1以上的数词连用时要用其复数形式Millionen和Milliarden
+2. 在朗读时要注意数词"1"，在末尾时读"eins"，如2 001 = zweitausendeins；当不在末尾时读"ein"，如2 041 = zweitausendeinundvierzig。
+
+|      |   加减乘除   |
+| :--: | :----------: |
+|  +   |     plus     |
+|  -   |    minus     |
+|  ×   |     mal      |
+| ÷,:  |    durch     |
+|  =   | ist (gleich) |
+|  .   |    Punkt     |
+|  ,   |    Komma     |
+
+
 
 ### die Zeit,-en
+
+#### die Uhrzeit,-en
+
+| Q     | Wie viel Uhr ist es? | 几点了？     |
+| ----- | -------------------- | ------------ |
+| **A** | Es ist drei Uhr.     | 3点          |
+| **Q** | **Wie spät ist es?** | **几点了？** |
+| **A** | Es ist fünfzehn Uhr. | 15点         |
+| **A** | Es ist drei.         | 3点          |
+
+说明：
+
+1. **Wie viel Uhr** 和 **Wie spät** 是疑问词组，放在句首，充当句子的表语；
+
+   ist是系动词，放在句子第二位；
+
+   es是非人称代词，充当句子主语，置于动词之后，不可缺少。
+
+2. 上面三个陈述句中，Es作为非人称代词主语位于句首，不可缺少；
+
+   ist是系动词，至于句子的第二位；
+
+   drei Uhr，fünfzehn Uhr，drei 分别是表语。
+
+| Uhrzeiten | offiziell Uhrzeit                   | inoffizielle Uhrzeit                                    |
+| :-------: | ----------------------------------- | ------------------------------------------------------- |
+|           | 先小时后分钟                        | 先分钟后小时<br />（过几分钟用nach，差几分钟用vor）     |
+|   1:00    | Es ist ein Uhr.                     | Es ist eins.                                            |
+|   10:00   | Es ist zehn Uhr.                    | Es ist zehn.                                            |
+|   14:00   | Es ist vierzehn Uhr.                | Es ist zwei.                                            |
+|   20:00   | Es ist zwanzig Uhr.                 | Es ist acht.                                            |
+|           |                                     |                                                         |
+|   8:30    | Es ist acht Uhr dreißig.            | Es ist halb neun.                                       |
+|   6:30    | Es ist sechs Uhr dreißig.           | Es ist halb sieben.                                     |
+|   18:30   | Es ist achtzehn Uhr dreißig.        | Es ist halb sieben.                                     |
+|           |                                     |                                                         |
+|   4:15    | Es ist ver Uhr fünfzehn.            | Es ist Viertel nach vier.                               |
+|   16:15   | Es ist sechzehn Uhr fünfzehn.       | Es ist Viertel nach vier.                               |
+|           |                                     |                                                         |
+|   8:45    | Es ist acht Uhr fünfundvierzig.     | Es ist Viertel vor neun.                                |
+|   20:45   | Es ist zwanzig Uhr fünfundvierzig.  | Es ist Vietel vor neun.                                 |
+|           |                                     |                                                         |
+|   8:08    | Es ist acht Uhr acht.               | Es ist acht nach acht.                                  |
+|   0:03    | Es ist nul Uhr drei.                | Es ist drei nach zwölf.                                 |
+|   5:50    | Es ist fünf Uhr fünfzig.            | Es ist zehn vor sechs.                                  |
+|   10:23   | Es ist zehn Uhr dreiundzwanzig.     | Es ist sieben vor hale elf.                             |
+|   16:35   | Es ist sechzehn Uhr fünfunddreißig. | Es ist fünf nach halb fünf.                             |
+|   1:20    | Es ist ein Uhr zwanzig.             | Es ist zwanzig nach eins./ Es ist zehn vor halb zwei.   |
+|   23:40   | Es ist dreiundzwanzig Uhr vierzig.  | Es ist zwanzig vor zwölf./ Es ist zehn nach halb zwölf. |
+
+1. 整点
+   1. 官方表达法在钟点数字后必须加上Uhr一词，ein是数词，不是不定冠词，不需要加词尾。
+   2. **非官方表达法**表达钟点时**只能使用12以内的数字**，不用Uhr一词。
+2. 半点
+   1. 非官方表达法中**半点用halb表示**，**钟点数用+1的方式**，比如8:30中，8+1=9，那么就用neun这个数字，并置于halb之后。
+3. x点一刻
+   1. 非官方表达法表达x点一刻时用**Viertel nach**
+4. x点三刻
+   1. 非官方表达法表达x点三刻时用**Viertel vor**
+5. x点x分
+   1. 官方表达法表发某点某分时，钟点数在前，分钟数在后，钟点数字的后面要用Uhr一词
+   2. 非官方表达法：
+      1. 表达某点1至19分时，用nach，分钟数置于nach之前，钟点数置于nach后面
+      2. 表达某点41至59分时，用vor，分钟数置于vor之前，钟点数置于vor后面
+      3. 表达某点21至29分时，用vor halb，分钟数置于vor halb之前，钟点数置于vor halb后面
+      4. 表达某点20分时，既可以采用nach加正点数字如eins，也可以采用vor加某点半的词组如halb zwei
+      5. 表达某点40分时，既可以采用vor加正点数字如zwölf，也可以采用nach加某点半的词组如halb zwölf
+
+#### Uhrzeitangabe 钟点作时间状语
+
+钟点在语句中常用作状语。钟点作状语时必须在钟点词或词组前加介词um，对其提问用疑问词wann或词组Um wie viel Uhr。
+
+|   Q   | ==Wann== geht Kai zum unterricht?          | 凯什么时候去上课？     |
+| :---: | ------------------------------------------ | ---------------------- |
+| **A** | Um halb acht.                              | 七点半                 |
+| **Q** | **==Um wie viel Uhr== geht Lea ins Büro?** | **雷亚几点去办公室？** |
+| **A** | Um zehn nach sieben.                       | 7点10分                |
 
 | Q     | Hast du jetzt Zeit?                  |
 | ----- | ------------------------------------ |
@@ -575,9 +787,14 @@
 
 ### die Nummer,-n
 
-| Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |
-| ----- | :-------------------------------------------: |
-| **A** |         **Meine Nummer ist ........**         |
+| Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |        |
+| ----- | :-------------------------------------------: | ------ |
+| **A** |         **Meine Nummer ist ........**         |        |
+|       |          **Du sollst sie anrufen.**           |        |
+|       |             **Ich rufe dich an.**             |        |
+|       |          **Ich habe xxxx gewählt.**           |        |
+|       |                Telecomauskunft                | 查号台 |
+|       |      Ich hätte gern die Nummer von xxxx.      |        |
 
 ## Selbestvorstellung
 
@@ -719,6 +936,9 @@
 | **Q** | **Hast du Geschwister?**                                     |
 | **A** | **Ja, ich hebe einen Bruder und zwei Schwestern.**           |
 
+| **Das ist vielleicht ihre Mutter.** | **这可能是她的母亲。** |
+| ----------------------------------- | ---------------------- |
+
 ### die Familienstand
 
 |          verheiratet           |                        已婚                        |
@@ -766,18 +986,20 @@
 | ------------------------------------------------------------ | ------------------------------------- |
 | **Gitarre / Klavier / Violine / Karten / Schach / Tromptete spielen** | **弹吉他/钢琴/小提琴/纸牌/象棋/喇叭** |
 
-|   Q   | Was ist seine Hobby? /Was sind deine Hobbys?/ Was macht er gern?/ Welche Hobbys hast du? |                          |
+|       | Wir sprechen ünber Hobbys.                                   | 我们在讨论兴趣。         |
 | :---: | ------------------------------------------------------------ | ------------------------ |
+| **Q** | **Was ist seine Hobby? /Was sind deine Hobbys?<br/> Was macht er gern?/ Welche Hobbys hast du?** |                          |
 | **A** | **Seine Hobbys sind XXX. / Er spielt gern Fußball.**         |                          |
 |       | **Ihre Hobbys sind Gitarre spielen und Musik hören.**        | 她的兴趣是弹吉他和听歌。 |
 |       | **Ich spiele gern Fußball.**                                 | 我喜欢踢足球。           |
-|       | **Ich spiele / mache gern Computerspiele.**                  | 我喜欢玩电脑游戏。       |
+|       | **Ich höre gerne Popmusi/klassische Musik.**                 | 我喜欢听流行/古典音乐。  |
+|       | **Ich spiele / mache gern Computerspiele.**<br/>**Mein Hobby ist Computerspiele machen.** | 我喜欢玩电脑游戏。       |
 |       | **Ich spiele Spielzeug.**                                    | 我玩游戏。               |
-|       | **Mein Hobby ist Computerspiele machen.**                    |                          |
-|       | Ich laufe/jogge gern.                                        |                          |
-|       | Ich mache gern Sport.                                        |                          |
-|       | Er singt gern im Chor.                                       |                          |
-|       | Er programmiere gerne / schreibt gern Programm.              |                          |
+|       | **Ich laufe/jogge gern.**                                    | 我喜欢跑步。             |
+|       | **Ich mache gern Sport.**                                    | 我喜欢做运动。           |
+|       | **Er singt gern im Chor.**                                   | 他喜欢在合唱团唱歌。     |
+|       | **Er programmiere gerne / schreibt gern Programm.**          | 他喜欢写程序。           |
+|       | **Ich spiele gern Computer / surfe gern im Internet.**       | 我喜欢玩电脑/上网冲浪。  |
 | **Q** | **Liest du gerne/gern Liebesromane?**                        |                          |
 | **A** | **Ja, ich lese gerne Liebesromane.**                         |                          |
 |       |                                                              |                          |
@@ -836,74 +1058,171 @@
 
 ## der Einkaufen
 
-|                                       |      |
-| :-----------------------------------: | :--: |
-|          die Wassermelone,-n          |      |
-|              der Kaffee               |      |
-|            die Erdbeere,-n            |      |
-|         die Wurst, die Würste         |      |
-|           das Mineralwasser           |      |
-|               der Käse                |      |
-|                der Tee                |      |
-|             die Coca-Cola             |      |
-|             der Kuchen,-              |      |
-|               der Reis                |      |
-|          der Saft, die Säfte          |      |
-|             die Orange,-n             |      |
-|         der Apfel, die Äpfel          |      |
-|             die Banane,-n             |      |
-|               die Milch               |      |
-|               das Bier                |      |
-|              der Joghurt              |      |
-| der Wein,-e  der Rotwein der Weißwein |      |
-|             der Salat,-e              |      |
-|             der Chinakohl             |      |
-|           die Kartoffel,-n            |      |
-|            die Schokolade             |      |
-|              die Butter               |      |
-|           die Marnelade,-n            |      |
-|            der Blumenkohl             |      |
-|             die Tomate,-n             |      |
-|              das Ei,-er               |      |
-|         das Huhn, die Hühner          |      |
-|             der Fisch,-e              |      |
-|            das Rindfleisch            |      |
-|          das Schweinefleisch          |      |
-|            das Lammfeisch             |      |
-|             die Nudel.-n              |      |
-|              das Brot,-e              |      |
-|               das Salz                |      |
-|               der Honig               |      |
-|              der Zucker               |      |
+|             Lebensimittel             |        食品        |
+| :-----------------------------------: | :----------------: |
+|          die Wassermelone,-n          |        西瓜        |
+|              der Kaffee               |        咖啡        |
+|            die Erdbeere,-n            |        草莓        |
+|         die Wurst, die Würste         |        香肠        |
+|           das Mineralwasser           |       矿泉水       |
+|               der Käse                |        奶酪        |
+|                der Tee                |         茶         |
+|             die Coca-Cola             |        可乐        |
+|             der Kuchen,-              |        蛋糕        |
+|               der Reis                |         米         |
+|          der Saft, die Säfte          |        果汁        |
+|             die Orange,-n             |        橙子        |
+|         der Apfel, die Äpfel          |        苹果        |
+|             die Banane,-n             |        香蕉        |
+|               die Milch               |        牛奶        |
+|               das Bier                |        啤酒        |
+|              der Joghurt              |        酸奶        |
+| der Wein,-e  der Rotwein der Weißwein | 葡萄酒、红酒、白酒 |
+|             der Salat,-e              |        生菜        |
+|             der Chinakohl             |       大白菜       |
+|           die Kartoffel,-n            |        土豆        |
+|            die Schokolade             |       巧克力       |
+|              die Butter               |        黄油        |
+|           die Marnelade,-n            |        果酱        |
+|            der Blumenkohl             |        花菜        |
+|             die Tomate,-n             |        番茄        |
+|              das Ei,-er               |        鸡蛋        |
+|         das Huhn, die Hühner          |        母鸡        |
+|             der Fisch,-e              |         鱼         |
+|            das Rindfleisch            |        牛肉        |
+|          das Schweinefleisch          |        猪肉        |
+|            das Lammfeisch             |        羊肉        |
+|             die Nudel.-n              |        面条        |
+|              das Brot,-e              |        面包        |
+|            das Brötchen,-             |       小面包       |
+|               das Salz                |         盐         |
+|               der Honig               |        蜂蜜        |
+|              der Zucker               |       白砂糖       |
+
+|        分类         |        |
+| :-----------------: | :----: |
+|      das Obst       |  水果  |
+|    das Gemüse,-     |  蔬菜  |
+| das Milchprodukt,-e | 奶制品 |
+|     die Fleisch     |   肉   |
+|    die Wurst,-e     |  香肠  |
+|   das Geflügel,-    |  家禽  |
+|  das Getränke, -e   |  饮料  |
 
 | Welche Getränke trinkst du (nicht) gern? | 你喜欢喝什么饮料？ |
 | ---------------------------------------- | ------------------ |
 | **Was trinkst du (nicht) gern?**         | **你喜欢喝什么？** |
 | **Was isst du (nicht) gern?**            | **你喜欢吃什么？** |
-|                                          |                    |
+| Ich esse gern XXXX.                      |                    |
 
-| Welche Lebensmittel kaufen Sie wo? |            |
-| ---------------------------------- | ---------- |
-| auf dem Markt                      | 在露天市场 |
-| im Supermarkt                      | 在超市     |
-| beim Bäcker / in der Bäkerei       | 在面包房   |
-| in der Fleischerei                 | 在肉铺     |
+| Welche Lebensmittel kaufen Sie wo?                           | 您从什么地方买什么食物？                           |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| Was kauft man(非特指)/ kaufen Sie auf dem Mrakt/ im Supermarkt/ beim Bäcker/ in der Bäkerei/ in der Fleischerei/im Obstladen? | 在露天市场、超市、面包房、肉铺、水果铺人们买什么？ |
+| auf dem Markt                                                | Fische und Obst kaufe ich auf dem Markt.           |
+| im Supermarkt                                                | Obst und Gemüse kaufe ich im Supermarkt.           |
+| beim Bäcker / in der Bäkerei                                 | Brote und Kuchen kaufe ich in der Bäkerei.         |
+| in der Fleischerei/Metzgerei                                 | Fleisch und Wurst kaufe ich in der Fleischerel.    |
+| im Obstladen                                                 |                                                    |
 
-| Was kauft man(非特指)/ kaufen Sie auf dem Mrakt/ im Supermarkt/ beim Bäcker/ in der Bäkerei/ in der Fleischerei? | 在露天市场、超市、面包房、肉铺人们买什么？ |
-| ------------------------------------------------------------ | ------------------------------------------ |
-|                                                              |                                            |
-|                                                              |                                            |
+|           Schreiwaren            |      |
+| :------------------------------: | ---- |
+| das Wörterbuch, die Wörterbücher |      |
+|           der Marker,-           |      |
+|            das Papier            |      |
+|           der Ordner,-           |      |
+|        der Radiergummi,-s        |      |
+|        das Spiralheft,-e         |      |
+|           der Locher,-           |      |
+|         der Bleistift,-e         |      |
+|           der Füller,-           |      |
+|       der Taschenrechner,-       |      |
+|      der Korrekturstift,-e       |      |
+|       der Kugelschreiber,-       |      |
 
+### Mengeneinheiten 量词
 
+|                 |        |                                                              |
+| :-------------: | ------ | ------------------------------------------------------------ |
+| die Flasche,-n  | 瓶     | Er kauft eine Flasche Milch.<br/>Ich nehme zwei Flaschen Milch. |
+|   die Dose,-n   | 罐、听 | Sie kauft eine Dose Wasser und drei Dosen.                   |
+|    das Glas     | 杯、罐 | Wir brauchen ein Glase Honig und zei Glas Marmelade.         |
+| die Packung,-en | 包     | Eine Packung Zucker Kostet 1 Euro und zwei Packungen kosten 2 Euro. |
+|   der Beutel    | 袋     | Ich nehme einen Beutel Äpfel und drei Beutel Kartoffeln.     |
+|    das Stück    | 块     | Ich nehme vier Stück Erdbeerkuchen.                          |
+|    das Blatt    | 页     | Ich brauche drei Blatt Papier.                               |
+|  die Tasse,-n   | 杯     | Ich hätte gern / möchte eine Tasse Kaffee.                   |
+|  der Becher,-   | 纸杯   | Ich nehme einen Becher Joguhrt.                              |
+|  der Tafel,-n   | 板     |                                                              |
+
+| Aber                    |
+| ----------------------- |
+| Ich kaufe einen Kuchen. |
+| Ich brauche ein Brot.   |
+
+量词与一以上的数词连用时的用法：
+
+- 量词本身是阳/中性名词，用单数形式
+  - 2 Glas Bier / 3 Stück Torte
+- 量词本身是阴性名词，用复数形式
+  - 2 Tassen Kaffee / 4 Flaschen Wein
+- 量词表示具体实物时，用复数形式
+  - 2 Dosen / 3 Gläser
+- 表示时间时，用复数形式
+  - 5 Minuten / 3 Tage / Ich bin 30 Jahre alt.
+
+### Mengenangaben 计量单位没有复数
+
+|           |                    |                                                              |
+| :-------: | :----------------: | :----------------------------------------------------------: |
+| das Kilo  |         kg         |                   Ein Kilo hat zwei Pfund.                   |
+| das Pfund |        Pfd         |                 Ein Pfund hat 500g (Gramm).                  |
+| das Gramm |         g          |                 Ein Kilo hat 1000g (Gramm).                  |
+| der Liter |         l          | Ein Liter hat 1000 Milliliter (ml).<br/>In der Flasche sind zwei Liter Wasser. |
+|   500 g   |     500 Gramm      |                           1 Pfund                            |
+|   1 kg    | 1 Kilogramm (Kilo) |                                                              |
+|    1 l    |      1 Liter       |                                                              |
+|    St     |      1 Stück       |                                                              |
+
+### der Einkaufsettel, die Einkaufsliste 购物清单
+
+| Was soll ich kaufen?          | 我应该买什么？       |
+| ----------------------------- | -------------------- |
+| **Wie viel hat sie gekauft?** | **她买了多少东西？** |
+
+### der Kunde und der Verkäufer 顾客和售货员
+
+|     Verkäufer     | Kunde               |                              |
+| :---------------: | ------------------- | ---------------------------- |
+| Was darf es sein? | Ich hätte gern      | 2 Kilo Kartoffeln / 5 Äpfel. |
+|   Sie wünschen?   | Geben Sie mir bitte | einen Liter Milch.           |
+|   Bitte schön?    | Ich möchte          | 200 g Käse / 4 Brötchen.     |
+| Was brauchen Sie? | Ich nehme           | eine Flasche Ketchup.        |
+
+| Er geht auf den Markt/ in den Supermarkt.                    | 他去市场/超市。              |
+| ------------------------------------------------------------ | ---------------------------- |
+| Da kommt sein Freund Hans.                                   | 这时走来了他的朋友汉斯。     |
+| Du gehst schon wieder einkaufen?                             | 你已经又要去超市了?          |
+| Kannst du etwas für mich kaufen ?                            | 能帮我买点东西吗?            |
+| Ich habe keine Zeit/kein Geld/keinen Hunger/keinen Durst.<br/>Ich bin nicht durstig. | 我没有时间/钱/不饿/不渴。    |
+| Sonst noch was?                                              | 此外还有什么?                |
+| Einen Augeblick, bitte. / Moment, bitte!                     | 等一会。                     |
+| Alles klar? Ja, klar.                                        | 都听懂了吗？听懂了。         |
+| Ja, slles klar.                                              | 好的我清楚了。               |
+| Bis gleich/bald.                                             | 待会见。                     |
+| Oh, Entschuldigung, leider habe ich kein Wasser, aber Cola.  | 抱歉，很遗憾没有水只有可乐。 |
+| Ich bin an der Reihe./ Ich bin daran.                        | 排队轮到我了。               |
 
 ## der Unterricht,-e
 
-| Wen fragt der Lehrer? Fragt er mich? | 老师在问谁？问我吗？   |
-| ------------------------------------ | ---------------------- |
-| **Verstehen Sie?**                   | **你听懂了吗？**       |
-| **Ich weiß es nicht.**               | **我不知道。**         |
-| **Noch einmal.**                     | **请再说一次。**       |
-| **Vermuten Sie!**                    | **请您猜！**           |
-| **Das ist vielleicht ihre Mutter.**  | **这可能是她的母亲。** |
-| Öffnen                               |                        |
+| Wen fragt der Lehrer? Fragt er mich?           | 老师在问谁？问我吗？   |
+| ---------------------------------------------- | ---------------------- |
+| **Verstehen Sie?/Alles klar? Ja, alles klar.** | **你听懂了吗？**       |
+| **Ich weiß es nicht.**                         | **我不知道。**         |
+| **Wiederholen Sie bitte!**                     | **请再说一遍。**       |
+| **Noch einmal.**                               | **请再说一次。**       |
+| **Vermuten Sie!**                              | **请您猜！**           |
+| **Öffnen Sie bitte Ihre Bücher auf Seite 75.** | **请您翻书到第75页。** |
+| **Haben Sie noch Fragen?**                     | **你有问题吗？**       |
+| **Jetzt ist Schluss!**                         | **别再问了！**         |
+| **Was ist denn los?**                          | **发生了什么？**       |
 
