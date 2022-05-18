@@ -566,7 +566,126 @@
 | Kannst du mich morgen besuchen? <br/>Ja. Wann soll ich kommen?<br/>Um drei. | 你明天能来看我吗？<br/>可以。要我什么时间来呢？<br/>三点。   |
 | Man soll Rücksicht auf andere Menschen nehmen.               | 每个人都应该顾及他人。                                       |
 
+## Imperativ in Befehl, Aufforderung, Bitte und Vorschlag 命令式：用于向对方发号施令、提要求、请求以及建议
 
+### Imperativ (foemell) 尊称命令式
+
+|      | 尊称陈述句 |                |                |          | 尊称命令句 |                         |                    |
+| :--: | :--------: | :------------: | -------------- | :------: | :--------: | :---------------------: | ------------------ |
+|  Ⅰ   |     Ⅱ      |       Ⅲ        |                |    Ⅰ     |     Ⅱ      |            Ⅲ            |                    |
+| Sie  |   kommen   |     nicht.     | 您不来。       |  Kommen  |    Sie!    |                         | 您来！             |
+| Sie  |  arbeiten  | nicht fleißig. | 您不努力工作。 | Arbeiten |    Sie     |        fleißig!         | 您要努力工作！     |
+| Sie  |   sehen    |     nicht.     | 您不看。       |  Sehen   |    Sie     |          mal!           | 您看一看！         |
+| Sie  |   fahren   |  zu schnell.   | 您开车太快。   |  Fahren  |    Sie     | bitte nicht zu schnell! | 请您不要开得太快！ |
+| Sie  |   haben    | keine Geduld.  | 您没有耐心。   |  Haben   |    Sie     |      doch Geduld!       | 您耐心点吧！       |
+| Sie  |   werden   | nicht Lehrer.  | 您不要当老师。 |  Werden  |    Sie     |      doch Lehrer!       | 您当老师吧！       |
+| Sie  |    sind    |  nicht ruhig.  | 您不安静。     |  Seien   |    Sie     |      bitte ruhig!       | 请您安静！         |
+|      |            |                |                |  Lesen   |    Sie     |     den Text laut!      | 大声读课文。       |
+
+说明：
+
+1. 与尊称陈述句相比，在尊称命令句中动词变位形式除系动词seien与陈述句中的sind不一致外，其他动词的变位形式与陈述句完全一致
+
+2. 两类句子的区别时：在陈述句中变位动词在第二位，在命令句中变位动词在第一位，主语Sie则退到动词后第二位，句末用感叹号。
+
+3. 尊称命令式一般用在和陌生人、生意上一般的合作伙伴、上司、师长以及客人等的语言交际中。
+
+4. 尊称Sie的命令式
+
+   1. 动词原形 + Sie + ... !
+
+      Kommen Sie um 5 zu mir!
+
+      Fahren Sie mit dem Auto zum Supermarkt!
+
+   2. 句中可以加副词“bitte”，可以放在句首，句中或句末
+
+      **Bitte** kaufen Sie am Wochenende im Supermarkt!
+
+      Kaufen Sie **bitte** am Wochenende im Supermarkt!
+
+      Kaufen Sie an Wochenende im Supermart **bitte**!
+
+### Imperativ (informell) 非尊称命令式
+
+|      | 非尊称陈述句 |                |                  |           |      非尊称命令句       |                    |
+| :--: | :----------: | :------------: | ---------------- | :-------: | :---------------------: | ------------------ |
+|  Ⅰ   |      Ⅱ       |       Ⅲ        |                  |     Ⅰ     |            Ⅱ            |                    |
+|      |              |                |                  | du-Form:  |                         |                    |
+|  Du  |    kommst    |     nicht.     | 你不来。         |   Kommt   |         bitte!          | 请你来！           |
+|  Du  |  arbeitest   | nicht fleißig. | 你工作不努力。   |  Arbeite  |        fleißig!         | 你努力工作吧！     |
+|  Du  |    siehst    |     nicht.     | 你不看。         |   Sieh    |          mal!           | 你看一看！         |
+|  Du  |    fährst    |   zu schell.   | 你开车太快。     |   Fahr    | bitte nicht zu schnell! | 请您不要开太快！   |
+|  Du  |     hast     | keine Geduld.  | 你没耐心。       |    Hab    |      doch Geduld!       | 你要有耐心！       |
+|  Du  |    wirst     | nicht Lehrer.  | 你不当老师。     |   Werde   |      doch Lehrer!       | 你当老师！         |
+|  Du  |     bist     |  nicht ruhig.  | 你不安静。       |    Sei    |      bitte ruhig!       | 请你安静！         |
+|      |              |                |                  |           |                         |                    |
+|      |              |                |                  | ihr-Form: |                         |                    |
+| Ihr  |    kommt     |     nicht.     | 你们不来。       |   Kommt   |         bitte!          | 请你们来！         |
+| Ihr  |   arbeitet   | nicht fleißig. | 你们工作不努力。 | Arbeitet  |        fleißig!         | 你们努力工作吧！   |
+| Ihr  |     seht     |     nicht.     | 你们没看。       |   Seht    |          mal!           | 你们看一看！       |
+| Ihr  |    fahrt     |  zu schnell.   | 你们开车太快。   |   Fahrt   | bitte nicht zu schnell! | 请你们不要开太快！ |
+| Ihr  |     habt     | keine Geduld.  | 你们没耐心。     |   Habt    |      doch Geduld!       | 你们耐心点！       |
+| Ihr  |    werdet    | nicht Lehrer.  | 你们不当老师。   |  Werdet   |      doch Lehrer!       | 你们当老师吧！     |
+| Ihr  |     seid     |  nicht ruhig.  | 你们不安静。     |   Seid    |      bitte ruhig!       | 请你们安静！       |
+
+说明：
+
+1. 与陈述句相比，在单数命令句du-Form中：
+
+   1. 弱变动词和不要求现在时变音、换音的强变动词。
+
+      动词词干+。。。
+
+      动词变位的-e可要可不要
+
+      lernen, machen, an/rufen 给..打电话, bringen 带来
+
+      | du-Form                  |
+      | ------------------------ |
+      | Lerne fleißig!           |
+      | Mache deine Hausaufabei! |
+      | Rufe mich morgen an!     |
+      | Bringe mir ein Buch!     |
+
+   2. 动词词干以-d，-t，-ffn，-chn，-tm，-dm，-gn，-ig结尾，则不能省略-e
+
+      arbeiten, bilden, öffnen, zelchnen, trocknen 使...变干, atmen 呼吸, widmen 奉献, regnen 下雨, entschuldigen
+
+      | du-Form           |
+      | ----------------- |
+      | Arbeite fleißig!  |
+      | Bilde einen Satz! |
+      | Öffne die Tür!    |
+      | Zeichne ein Bild! |
+
+   3. 要求变音的强变动词
+
+      要求变音的强变动词不变音，动词中-e可要可不要
+
+      laufen, fahren
+
+      | Du                      | du-Form             |
+      | ----------------------- | ------------------- |
+      | Du läufst schnell.      | Laufe langsam!      |
+      | Du fährst nach Beijing. | Fahre nach Beijing! |
+
+   4. 要求换音的强变动词
+
+      要求换音的强变动词命令式仍要求换音，但没有词尾
+
+      lesen, sehen, sprechen, nehmen
+
+      | Du                        | du-Form                        |
+      | ------------------------- | ------------------------------ |
+      | Du liest ein Buch.        | Lies ein Buch!                 |
+      | Du seihst Herrn Wang.     | Sieh mel bitte Herrn Wang!     |
+      | Du sprichst sehr schnell. | Sprich bitte nicht so schnell! |
+      | Du nimmst Paltz.          | Nimm bitte Platz!              |
+
+2. 第二人称为复数时，陈述句中的主语去掉，变位动词的第一个字母改成大写，即成为复数形式ihr-Form的命令句。
+
+3. 非尊称命令式用在与家人、亲戚、同学、同事、好朋友等之间以及小孩说话。
 
 # Notizen
 
@@ -727,6 +846,7 @@
 | Uhrzeiten | offiziell Uhrzeit                   | inoffizielle Uhrzeit                                    |
 | :-------: | ----------------------------------- | ------------------------------------------------------- |
 |           | 先小时后分钟                        | 先分钟后小时<br />（过几分钟用nach，差几分钟用vor）     |
+|           | ![](images/Uhrzeit.jpg)             |                                                         |
 |   1:00    | Es ist ein Uhr.                     | Es ist eins.                                            |
 |   10:00   | Es ist zehn Uhr.                    | Es ist zehn.                                            |
 |   14:00   | Es ist vierzehn Uhr.                | Es ist zwei.                                            |
@@ -743,10 +863,12 @@
 |   20:45   | Es ist zwanzig Uhr fünfundvierzig.  | Es ist Vietel vor neun.                                 |
 |           |                                     |                                                         |
 |   8:08    | Es ist acht Uhr acht.               | Es ist acht nach acht.                                  |
+|   20:01   | Es ist zwanzig Uhr eins.            | Es ist eins nach acht.                                  |
 |   0:03    | Es ist nul Uhr drei.                | Es ist drei nach zwölf.                                 |
 |   5:50    | Es ist fünf Uhr fünfzig.            | Es ist zehn vor sechs.                                  |
 |   10:23   | Es ist zehn Uhr dreiundzwanzig.     | Es ist sieben vor hale elf.                             |
 |   16:35   | Es ist sechzehn Uhr fünfunddreißig. | Es ist fünf nach halb fünf.                             |
+|   5:25    | Es ist fünf Uhr fünfundzwanzig.     | Es ist fünf vor halb sechs.                             |
 |   1:20    | Es ist ein Uhr zwanzig.             | Es ist zwanzig nach eins./ Es ist zehn vor halb zwei.   |
 |   23:40   | Es ist dreiundzwanzig Uhr vierzig.  | Es ist zwanzig vor zwölf./ Es ist zehn nach halb zwölf. |
 
@@ -778,6 +900,10 @@
 | **Q** | **==Um wie viel Uhr== geht Lea ins Büro?** | **雷亚几点去办公室？** |
 | **A** | Um zehn nach sieben.                       | 7点10分                |
 |       | Um Sieben Uhr frühstücken wir.             | 我们在七点吃早餐。     |
+| **Q** | Treffen wir uns heute Nachmittag?          |                        |
+| **A** | Ja, um 15 Uhr.                             |                        |
+| **Q** | Wann ist er im Büro?                       |                        |
+| **Q** | Um wie viel Uhr hat er eine Besprechung?   |                        |
 
 | Q     | Hast du jetzt Zeit?                  |
 | ----- | ------------------------------------ |
@@ -788,14 +914,14 @@
 
 #### Die Tageszelten 时间的表达
 
-|                    |                |      每天       |
-| :----------------: | :------------: | :-------------: |
-|   **der Morgen**   |    **早上**    |   **morgens**   |
-| **der Vormittag**  |    **上午**    | **vormittags**  |
-|   **der Mittag**   |    **中午**    |   **mittags**   |
-| **der Nachmittag** |    **下午**    | **nachmittags** |
-|   **der Abend**    | **傍晚，晚上** |   **abends**    |
-|   **die Nacht**    |    **夜晚**    |   **nachts**    |
+|                    |                          |               |      每天       |
+| :----------------: | :----------------------: | :-----------: | :-------------: |
+|   **der Morgen**   |    **早上** 6 bis 10     |   am Morgen   |   **morgens**   |
+| **der Vormittag**  |    **上午** 10 bis 12    | am Vormittag  | **vormittags**  |
+|   **der Mittag**   |    **中午 **12 bis 14    |   am Mittag   |   **mittags**   |
+| **der Nachmittag** |    **下午** 14 bis 18    | am Nachmittag | **nachmittags** |
+|   **der Abend**    | **傍晚，晚上** 18 bis 22 |   am Abend    |   **abends**    |
+|   **die Nacht**    |    **夜晚** 22 bis 6     | in der Nacht  |   **nachts**    |
 
 #### Die Wochentage 一周的表达
 
@@ -815,14 +941,15 @@
 
 ### die Nummer,-n
 
-| Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |        |
-| ----- | :-------------------------------------------: | ------ |
-| **A** |         **Meine Nummer ist ........**         |        |
-|       |          **Du sollst sie anrufen.**           |        |
-|       |             **Ich rufe dich an.**             |        |
-|       |          **Ich habe xxxx gewählt.**           |        |
-|       |                Telecomauskunft                | 查号台 |
-|       |      Ich hätte gern die Nummer von xxxx.      |        |
+| Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |                                  |
+| ----- | :-------------------------------------------: | -------------------------------- |
+| **A** |         **Meine Nummer ist ........**         |                                  |
+|       |          **Du sollst sie anrufen.**           |                                  |
+|       |             **Ich rufe dich an.**             |                                  |
+|       |          **Ich habe xxxx gewählt.**           |                                  |
+|       |          Hier ist Telecom Auskunft.           | 这里是查号台。                   |
+|       |      Ich hätte gern die Nummer von xxxx.      | 我想知道的号码是                 |
+|       |               Er ruft dich an.                | 他给你打电话。 an/rufen(ruft an) |
 
 ## Selbestvorstellung
 
@@ -963,6 +1090,8 @@
 | **A** | **Ich habe zwei Kinder, einen Sohn und eine Tochter.**       |
 | **Q** | **Hast du Geschwister?**                                     |
 | **A** | **Ja, ich hebe einen Bruder und zwei Schwestern.**           |
+| **Q** | **Wie viel Personen hat Ihre Familie?/Wie viel Personen gibt es in Ihrer Familie?** |
+| **A** | **Meine Familie hat 4 Personen.**                            |
 
 | **Das ist vielleicht ihre Mutter.** | **这可能是她的母亲。** |
 | ----------------------------------- | ---------------------- |
@@ -1137,11 +1266,22 @@
 |   das Geflügel,-    |  家禽  |
 |  das Getränke, -e   |  饮料  |
 
-| Welche Getränke trinkst du (nicht) gern? | 你喜欢喝什么饮料？ |
-| ---------------------------------------- | ------------------ |
-| **Was trinkst du (nicht) gern?**         | **你喜欢喝什么？** |
-| **Was isst du (nicht) gern?**            | **你喜欢吃什么？** |
-| Ich esse gern XXXX.                      |                    |
+| Welche Getränke trinkst du (nicht) gern?     | 你喜欢喝什么饮料？      |
+| -------------------------------------------- | ----------------------- |
+| **Was trinkst du (nicht) gern?**             | **你喜欢喝什么？**      |
+| **Was isst du (nicht) gern?**                | **你喜欢吃什么？**      |
+| **Ich esse gern XXXX/Ich esse lieber XXXX.** | **我喜欢吃/我更喜欢吃** |
+
+|                           |           |                              |      |
+| ------------------------- | :-------: | ---------------------------- | :--: |
+| Das Brot ist frisch.      |   新鲜    | Das Brot ist trocken.        |  干  |
+| Das Ei ist weich.         |    软     | Das Ei ist hart.             |  硬  |
+| Das Kaffee ist heiß/warm. |    热     | Das Kaffee ist kalt.         |  冷  |
+| Das Essen schmeckt gut.   | 好/合口味 | Das Essen schmeckt schlecht. |  坏  |
+| Der Platz ist frei.       |    空     | Der Platz ist besetzt.       | 被占 |
+| Die Orange ist süß.       |    甜     | Der Orange ist sauer.        |  酸  |
+
+
 
 | Welche Lebensmittel kaufen Sie wo?                           | 您从什么地方买什么食物？                           |
 | ------------------------------------------------------------ | -------------------------------------------------- |
@@ -1152,20 +1292,20 @@
 | in der Fleischerei/Metzgerei                                 | Fleisch und Wurst kaufe ich in der Fleischerel.    |
 | im Obstladen                                                 |                                                    |
 
-|           Schreiwaren            |      |
-| :------------------------------: | ---- |
-| das Wörterbuch, die Wörterbücher |      |
-|           der Marker,-           |      |
-|            das Papier            |      |
-|           der Ordner,-           |      |
-|        der Radiergummi,-s        |      |
-|        das Spiralheft,-e         |      |
-|           der Locher,-           |      |
-|         der Bleistift,-e         |      |
-|           der Füller,-           |      |
-|       der Taschenrechner,-       |      |
-|      der Korrekturstift,-e       |      |
-|       der Kugelschreiber,-       |      |
+|           Schreiwaren            |                     |
+| :------------------------------: | :-----------------: |
+| das Wörterbuch, die Wörterbücher |        字典         |
+|           der Marker,-           |       马克笔        |
+|            das Papier            | 纸 ein Blatt Papier |
+|           der Ordner,-           |       文件夹        |
+|        der Radiergummi,-s        |        橡皮         |
+|        das Spiralheft,-e         |       笔记本        |
+|           der Locher,-           |       打孔机        |
+|         der Bleistift,-e         |        铅笔         |
+|           der Füller,-           |        钢笔         |
+|       der Taschenrechner,-       |       计算器        |
+|      der Korrekturstift,-e       |       修正液        |
+|       der Kugelschreiber,-       |       圆珠笔        |
 
 ### Mengeneinheiten 量词
 
@@ -1219,26 +1359,44 @@
 
 ### der Kunde und der Verkäufer 顾客和售货员
 
-|     Verkäufer     | Kunde               |                              |
-| :---------------: | ------------------- | ---------------------------- |
-| Was darf es sein? | Ich hätte gern      | 2 Kilo Kartoffeln / 5 Äpfel. |
-|   Sie wünschen?   | Geben Sie mir bitte | einen Liter Milch.           |
-|   Bitte schön?    | Ich möchte          | 200 g Käse / 4 Brötchen.     |
-| Was brauchen Sie? | Ich nehme           | eine Flasche Ketchup.        |
+|                          Verkäufer                           | Kunde               |                              |
+| :----------------------------------------------------------: | ------------------- | ---------------------------- |
+|                      Was darf es sein?                       | Ich hätte gern      | 2 Kilo Kartoffeln / 5 Äpfel. |
+|                     Sie wünschen bitte?                      | Geben Sie mir bitte | einen Liter Milch.           |
+|                         Bitte schön?                         | Ich möchte          | 200 g Käse / 4 Brötchen.     |
+|                      Was brauchen Sie?                       | Ich nehme           | eine Flasche Ketchup.        |
+|                 Wie viel Milch brauchst du?                  | Nur eine Flasche.   |                              |
+|                  Welchen Käse möchten Sie?                   |                     |                              |
+|                    Mächten Sie eine Tüte?                    | Ja, bitte.          |                              |
+| Darf es sonst noch etwas sein?/Sonst noch etwas?/Brauchen Sie sonst noch etwas? | Das ist alles.      |                              |
+|        Wir haben heute Rindfleisch besonders billig.         |                     |                              |
 
-| Er geht auf den Markt/ in den Supermarkt.                    | 他去市场/超市。              |
-| ------------------------------------------------------------ | ---------------------------- |
-| Da kommt sein Freund Hans.                                   | 这时走来了他的朋友汉斯。     |
-| Du gehst schon wieder einkaufen?                             | 你已经又要去超市了?          |
-| Kannst du etwas für mich kaufen ?                            | 能帮我买点东西吗?            |
-| Ich habe keine Zeit/kein Geld/keinen Hunger/keinen Durst.<br/>Ich bin nicht durstig. | 我没有时间/钱/不饿/不渴。    |
-| Sonst noch was?                                              | 此外还有什么?                |
-| Einen Augeblick, bitte. / Moment, bitte!                     | 等一会。                     |
-| Alles klar? Ja, klar.                                        | 都听懂了吗？听懂了。         |
-| Ja, slles klar.                                              | 好的我清楚了。               |
-| Bis gleich/bald.                                             | 待会见。                     |
-| Oh, Entschuldigung, leider habe ich kein Wasser, aber Cola.  | 抱歉，很遗憾没有水只有可乐。 |
-| Ich bin an der Reihe./ Ich bin daran.                        | 排队轮到我了。               |
+|                            Kunde                             |                          Verkäufer                           |                    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: |
+|         Wie viel kosten/Was kostet ein Pfund Äpfel?          | Ein Pfund Äpfel kostet 1,99 Euro./ 1,99 Euro der Pfund/das Kilo. |                    |
+|                  Wie teuer ist die Tasche?                   |                    Die Tasche kostet ...                     |                    |
+|                        Was mach das?                         |                Das macht zusammen 5,50 Euro.                 |                    |
+|                   Bitte, hier sind 8 Euro.                   |                    Danke, 72 Cent zurück!                    |        找钱        |
+| Ich möchte bitte Gurken./Haben Sie ...?/ Gibt es (heute)....? |       Oh, tut mir leid. Leider haben wir keine Gurken.       | 很遗憾我们没黄瓜。 |
+|                  Wo sind bitte die Tomaten?                  |                Die Tomaten sind dort hinten.                 |     在那后面。     |
+
+| **Er geht auf den Markt/ in den Supermarkt.**                | **他去市场/超市。**                    |
+| ------------------------------------------------------------ | -------------------------------------- |
+| **Da kommt sein Freund Hans.**                               | **这时走来了他的朋友汉斯。**           |
+| **Du gehst schon wieder einkaufen?**                         | **你已经又要去超市了?**                |
+| **Kannst du etwas für mich kaufen ?**                        | **能帮我买点东西吗?**                  |
+| **Ich habe keine Zeit/kein Geld/keinen Hunger/keinen Durst.<br/>Ich bin nicht durstig.** | **我没有时间/钱/不饿/不渴。**          |
+| **Sonst noch was?**                                          | **此外还有什么?**                      |
+| **Einen Augeblick, bitte. / Moment, bitte!**                 | **等一会。**                           |
+| **Alles klar? Ja, klar.**                                    | **都听懂了吗？听懂了。**               |
+| **Ja, slles klar.**                                          | **好的我清楚了。**                     |
+| **Bis gleich/bald.**                                         | **待会见。**                           |
+| **Oh, Entschuldigung, leider habe ich kein Wasser, aber Cola.** | **抱歉，很遗憾没有水只有可乐。**       |
+| **Ich bin an der Reihe./ Ich bin daran.**                    | **排队轮到我了。**                     |
+| **Bei Aldi ist es besonders bilig/teuer.**                   | **在Aldi特别便宜/贵。**                |
+| **Da kaufe ich oft.**                                        | **我经常在那买。**                     |
+| **Wir können zusammen gehen.**                               | **我们可以一起去。 （zusammen 一起）** |
+| **Das ist baer nett von dir.**                               | **你可太好了！**                       |
 
 ## der Unterricht,-e
 
