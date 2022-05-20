@@ -1,4 +1,4 @@
-# **Phonetische**
+# Phonetische
 
 1. 元音在下列情况下发长音
 
@@ -64,7 +64,104 @@
 | **Mary nimmt zwei Äpfel.**                                   | **玛丽拿了两个苹果。**                                  |
 | **Ich habe drei Kinder. Hast du auch Kinder?**               | **我有三个孩子。你也有孩子吗？**                        |
 
+## Präteritum von haben und sein 动词haben和sein的过去时
 
+|                               |            |                  |
+| ----------------------------- | ---------- | ---------------- |
+| Wang Dali ist heute zu Hause. | Präsens    | 王大力今天在家。 |
+| Er war gestern auf der Post.  | Präteritum | 他昨天去过邮局。 |
+| Ich habe heute frei.          | Präsens    | 我今天休息。     |
+| Ich hatte gestern keine Zeit. | Präteritum | 我昨天没有时间。 |
+
+|      |  haben  | sein  |
+| :--: | :-----: | :---: |
+| ich  |  hatte  |  war  |
+|  du  | hattest | warst |
+|  er  |         |       |
+| sie  |  hatte  |  war  |
+|  es  |         |       |
+| wir  | hatten  | waren |
+| ihr  | hattet  | wart  |
+| sie  | hatten  | waren |
+| Sie  | hatten  | waren |
+
+## Trennbare und untrennbare Verben 可分动词与不可分动词
+
+|     Beispiel     |        | 动词原形 aufstehen |            |            |
+| :--------------: | :----: | :----------------: | :--------: | :--------: |
+|                  |   Ⅰ    |         Ⅱ          |    Ⅲ...    |    Ende    |
+|      陈述句      |  Ich   |       stehe        |  um 6 Uhr  |    auf.    |
+|    特殊疑问句    |  Wann  |       stehst       |     du     |    auf?    |
+|    一般疑问句    | Stehst |         du         |  um 6 Uhr  |    auf?    |
+|      命令句      | Stehen |        Sie         | bitte früh |    auf!    |
+| 与情态助动词连用 |  Ich   |        muss        |  um 6 Uhr  | aufstehen. |
+
+说明：
+
+1. 可分动词由动词词干和可分前缀两部分构成，如auf-stehen
+
+2. 在现在时、过去时的句型中，动词词干与可分前缀要分开。在陈述句和特殊疑问句中动词词干位于第二位。
+
+   在一般疑问句和命令句中动词词干位于第一位。
+
+   动词词干要根据主语人称的不同进行相应动词变位，而可分前缀始终位于句子末尾。
+
+3. 但是当可分动词与情态动词连用时，可分动词不再拆开而是合起来放在句子末尾。
+
+4. 常见动词可分前缀：
+
+   | trennbare Verben | 重音在可分前缀 |
+   | :--------------: | :------------: |
+   |       ab-        |    abfahren    |
+   |       an-        |                |
+   |       auf-       |  aufschreiben  |
+   |       aus-       |                |
+   |       bei-       |                |
+   |      durch-      |                |
+   |       ein-       |    einladen    |
+   |      fest-       |                |
+   |      frei-       |   freihaben    |
+   |       her-       |                |
+   |       hin-       |                |
+   |     hinter-      |                |
+   |       los-       |                |
+   |       mit-       |   mitkommen    |
+   |      nach-       |   nachfragen   |
+   |      statt-      |  stattfinden   |
+   |       um-        |                |
+   |      unter-      |                |
+   |      über-       |                |
+   |       vor-       |                |
+   |       weg-       |                |
+   |     wieder-      |  wiedersehen   |
+   |       zu-        |    zuhören     |
+   |     zurück-      |  zurückkommen  |
+   |    zusammen-     |                |
+
+   常见的动词不可分前缀：
+
+   | untrennbare Verben |   重音在词干   |
+   | :----------------: | :------------: |
+   |        be-         |   bestellen    |
+   |       durch-       |                |
+   |        emp-        |   empfehlen    |
+   |        ent-        | entschuldigen  |
+   |        er-         |    erklären    |
+   |        ge-         |    gehören     |
+   |       miss-        |                |
+   |       unter-       | unterschreiben |
+   |        um-         |                |
+   |       über-        |                |
+   |        ver-        |   verstehen    |
+   |      wieder-       |  wiederholen   |
+   |        zer-        |                |
+
+5. 部分带有unter-，wieder-，über-，durch-，hinter-，um-等前缀的动词既可以作可分动词也可作不可分动词，但***词意不同***。
+
+   | Beispiel                                           |                                                              |
+   | -------------------------------------------------- | ------------------------------------------------------------ |
+   | wieder-holen<br />可分时为“取回来”，不可分时“复习” | Sie holt den Brief wieder. 她取回那封信。<br />Sie wiederholt zu Hause das Gelernte. 她在家复习已经学过的东西。 |
+   | über-setzen<br />可分时“使渡河”，不可分时“翻译”    | Der Schiffer setzt sie über. 船工渡她过河。<br />Sie übersetzt den deutschen Roman. 她翻译这本德国小说。 |
 
 ## Possessivpronomen im Nominativ (N) 物主代词第一格
 
@@ -102,7 +199,46 @@
    |   sie    |         ihr          |     ihre      |
    |   Sie    |       **Ihr**        |     Ihre      |
 
-## Possessivpronomen imAkkusativ (A) 物主代词第四格
+## Possessivpronomen im Dativ (D) 物主代词第三格
+
+|       | m/n  |           |       |  f   |         |       | PI.  |                      |
+| :---: | :--: | :-------: | :---: | :--: | :-----: | :---: | :--: | :------------------: |
+| mein  | -em  | Sohn/Kind | mein  | -er  | Tochter | nein  | -en  | Kindern/Studentinnen |
+| dein  | -em  |           | dein  | -er  |         | dein  | -en  |                      |
+| sein  | -em  |           | sein  | -er  |         | sein  | -en  |                      |
+|  ihr  | -em  |           |  ihr  | -er  |         |  ihr  | -en  |                      |
+| sein  | -em  |           | sein  | -er  |         | sein  | -en  |                      |
+| unser | -em  |           | unser | -er  |         | unser | -en  |                      |
+|  eur  | -em  |           |  eur  | -er  |         |  eur  | -en  |                      |
+|  ihr  | -em  |           |  ihr  | -er  |         |  ihr  | -en  |                      |
+|  Ihr  | -em  |           |  Ihr  | -er  |         |  Ihr  | -en  |                      |
+
+| Beispiel             |                                  |
+| -------------------- | -------------------------------- |
+| Wem gratulieren Sie? | Ich gratuliere meinem Freund.    |
+| Wem gehört das Buch? | Das Buch gehört meiner Freundin. |
+
+说明：
+
+1. 物主代词在第一、第四和第三格中的词尾变化和kein的词尾变化相同：
+
+   |      |   m    |   n    |   f    |  PI.   |
+   | :--: | :----: | :----: | :----: | :----: |
+   |  N   |  mein  |  mein  | meine  | meine  |
+   |  A   | meinen |  mein  | meine  | meine  |
+   |  D   | meinem | meinem | meiner | meinen |
+
+2. 物主代词euer在有词尾变化的情况下要先去掉词干中的-e，再加上对应词尾：
+
+   |      |   m   |   n   |   f   |  PI.  |
+   | :--: | :---: | :---: | :---: | :---: |
+   |  N   | euer  | euer  | eure  | eure  |
+   |  A   | euren | euer  | eure  | eure  |
+   |  D   | eurem | eurem | eurer | euren |
+
+   
+
+## Possessivpronomen im Akkusativ (A) 物主代词第四格
 
 | 人称代词 | Sg. m------der | n-----das | f/PI.-----die |
 | :------: | :------------: | :-------: | :-----------: |
@@ -136,6 +272,42 @@
    | :--: | :---: | :--: | :--: | :--: |
    |  N   | euer  | euer | eure | eure |
    |  A   | euren | euer | eure | eure |
+
+## Personalpronomen im Dativ (D) 人称代词第三格
+
+|      | Personalpronomen |       |
+| :--: | :--------------: | :---: |
+|  N   |        A         |   D   |
+| ich  |       mich       |  mir  |
+|  du  |       dich       |  die  |
+|  er  |       ihn        |  ihm  |
+| sie  |       sie        |  ihr  |
+|  es  |        es        |  ihm  |
+| wir  |       uns        |  uns  |
+| ihr  |       euch       | euch  |
+| sie  |       sie        | ihnen |
+| Sie  |       Sie        | Ihnen |
+| wer? |       wen?       | wem?  |
+
+|                    Beispiel                    |                                  |
+| :--------------------------------------------: | -------------------------------- |
+|      Josef braucht Hilfe! Wer hilft ihm?       | 约瑟夫需要帮助。谁帮帮他？       |
+| Wem gehört das Buch?<br />Das Buch gehürt mir. | 这本书是谁？<br />这本书是我的。 |
+
+说明：
+
+1. 德语中某些动词要求支配第三格宾语，例句中的helfen和gehört就是这类动词。
+
+   像这样支配第三格宾语的常用动词还有danken，gratulieren，gefallen，antworten，schmecken，passen等。
+
+   除此之外，在一些固定搭配中也出现第三格形式的人称代词，例如：
+
+   | Biespiel                                             |                                    |
+   | ---------------------------------------------------- | ---------------------------------- |
+   | Wie geht es Ihnen / dir?<br />Danke,mir geht es gut. | 您（你）好吗？<br />谢谢我挺好的。 |
+   | Meine Mutter ist krank.<br />Oh, das tut mir Leid.   | 我母亲生病了。<br />哦，真遗憾。   |
+
+2. 对第三格人称代词提问用wem。
 
 ## Personalpronomen im Akkusative (A) 人称代词第四格
 
@@ -257,6 +429,51 @@
 |  **machen**   |     **make,do**     | **Was machen Sie beruflich?/ Was machen Sie?** | **Ich arbeite als Koch./ Ich esse einen Apfel.**    |
 |    **usw**    | **etc., and so on** |                                                |                                                     |
 
+## Bestimmter und unbestimmter Artikel im Dativ (D) 定冠词和不定冠词的第三格
+
+| Beispiel | unbestimmter                                                 | bestimmter                                                  |
+| :------: | ------------------------------------------------------------ | ----------------------------------------------------------- |
+|    m     | wir helfen einem (keinem) Mann.<br />我们帮助的是（不是）一位男士。 | Wir helfen dem Mann.<br />我们帮助这位男士。                |
+|    n     | Ich antworte einem (keinem) Kind.<br />我（不）回答一个孩子（的问题）。 | Ich antworte dem Kind.<br />我回答这个孩子的问题。          |
+|    f     | Sie dankt einer (keiner) Frau.<br />她（不）感谢一位女士。   | Sie dankt der Frau.<br />她感谢这位女士。                   |
+|   PI.    | Das Auto gefällt / (keinen) Kindern.<br />孩子们（不）喜欢这辆小汽车。 | Das Auto gefällt den Kindern.<br />这些孩子喜欢这辆小汽车。 |
+
+说明：
+
+1. 定冠词和不定冠词在第一、第四和第三格中的变化规则可总结为：
+
+   |      |   m   |   n   |   f   | PI.  |
+   | :--: | :---: | :---: | :---: | :--: |
+   |  N   |  ein  |  ein  | eine  |  -   |
+   |  A   | einen |  ein  | eine  |  -   |
+   |  D   | einem | einem | einer |  -   |
+
+   |      |  m   |  n   |  f   | PI.  |
+   | :--: | :--: | :--: | :--: | :--: |
+   |  N   | der  | das  | die  | die  |
+   |  A   | den  | das  | die  | die  |
+   |  D   | dem  | dem  | der  | den  |
+
+   |      |   m    |   n    |   f    |  PI.   |
+   | :--: | :----: | :----: | :----: | :----: |
+   |  N   |  kein  |  kein  | keine  | keine  |
+   |  A   | keinen |  kein  | keine  | keine  |
+   |  D   | keinem | keinem | keiner | keinen |
+
+2. 名词复数第三格要在复数形式之后再添加-n：
+
+   |             Beispiel             |
+   | :------------------------------: |
+   | die Kinder (N) → den Kindern (D) |
+   | die Männer (N) → den Männern (D) |
+
+   但当复数形式词尾已有-n或-s，则不再添加-n：
+
+   |            Beispiel             |
+   | :-----------------------------: |
+   |  die Autos (N) → den Autos (D)  |
+   | die Frauen (N) → den frauen (D) |
+
 ## Nullartikel 零冠词
 
 1. 泛指的复数名词
@@ -347,7 +564,24 @@
    | ------------------------- |
    | **Sie studiert Medizin.** |
 
-   
+## Ja-Nein-Doch
+
+| Bispiel                                                 |                                                              |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| Kommst du heute Abend?<br />你今天晚上来吗？            | Ja, ich komme. 是的，我来。<br />Nein, ich komme nicht. 不，我不来。 |
+| Kommst du heute Abend nicht?<br />你今天晚上不来吗？    | Doch, ich komme. Vielleicht ein bisschen später.不，我来，可能晚点到。<br />Nein, ich komme nicht. Ich habe keine Zeit.是，我不来，我没时间。 |
+| Haben wir heute Unterrricht?<br />我们今天有课吗？      | Ja, natürlich haben wir unterricht. 是的，我们当然有课。<br />Nein. Heute haben wir keinen Unterricht. Heute ist Sonntag. 不，没课。今天周日。 |
+| Haben wir heute keinen Unterricht?<br/>今天我们没课吗？ | Doch, aber nur am Nachmittag. 不，有。但只有下午有课。<br />Nein. Heute ist Sonntag.没有。今天是周日。 |
+
+说明：
+
+1. 针对一般疑问句做肯定回答时用ja，作否定回答时用nein
+
+2. 针对有nicht，kein等否定词的一般疑问句作回答时用nein或doch。
+
+   用nein 回答时，答句中有否定词
+
+   用doch回答时，答句中无否定词
 
 ## Verbstellung im Satz 变位动词在句中的位置
 
@@ -435,6 +669,10 @@
    变位动词+主语+其他成分
 
    Kommen Sie aus China？
+
+## Stellung von Dativ-und Akkusativobjekt (Nomen und Personalpronomen) 第三格、第四格宾语在句中的位置（名词和人称代词）
+
+
 
 ## Woher？Wohin？Wo？
 
@@ -565,6 +803,29 @@
 | Die sekretärin soll Kaffee machen.                           | 女秘书得煮咖啡。（老板给的任务）                             |
 | Kannst du mich morgen besuchen? <br/>Ja. Wann soll ich kommen?<br/>Um drei. | 你明天能来看我吗？<br/>可以。要我什么时间来呢？<br/>三点。   |
 | Man soll Rücksicht auf andere Menschen nehmen.               | 每个人都应该顾及他人。                                       |
+
+### Modalverben im Präteritum 情态助动词的过去时
+
+| Beispiel                                                     |            |                            |
+| ------------------------------------------------------------ | :--------: | -------------------------- |
+| Er kann heute die Büucher nicht nach China schicken.         |  Präsens   | 他今天没能把书寄往中国。   |
+| Er konnte gestern die Bücher auch nicht nach China schicken. | Präteritum | 他昨天也没能把书寄往中国。 |
+
+|      | wollen<br />(möchten) |  müssen  |  dürfen  |  können  |  sollen  |
+| :--: | :-------------------: | :------: | :------: | :------: | :------: |
+| ich  |        wollte         |  musste  |  durfte  |  konnte  |  sollte  |
+|  du  |       wolltest        | musstest | durftest | konntest | solltest |
+|  er  |                       |          |          |          |          |
+| sie  |        wollte         |  musste  |  durfte  |  konnte  |  sollte  |
+|  es  |                       |          |          |          |          |
+| wir  |        wollten        | mussten  | durften  | konnten  | sollten  |
+| ihr  |        wolltet        | musstet  | durftet  | konntet  | solltet  |
+| sie  |        wollten        | mussten  | durften  | konnten  | sollten  |
+| Sie  |        wollten        | mussten  | durften  | konnten  | sollten  |
+
+说明：
+
+- möchten没有过去式，以wollen的过去式代替
 
 ## Imperativ in Befehl, Aufforderung, Bitte und Vorschlag 命令式：用于向对方发号施令、提要求、请求以及建议
 
@@ -846,6 +1107,7 @@
 | Uhrzeiten | offiziell Uhrzeit                   | inoffizielle Uhrzeit                                    |
 | :-------: | ----------------------------------- | ------------------------------------------------------- |
 |           | 先小时后分钟                        | 先分钟后小时<br />（过几分钟用nach，差几分钟用vor）     |
+|           |                                     | 12 std.                                                 |
 |           | ![](images/Uhrzeit.jpg)             |                                                         |
 |   1:00    | Es ist ein Uhr.                     | Es ist eins.                                            |
 |   10:00   | Es ist zehn Uhr.                    | Es ist zehn.                                            |
@@ -866,7 +1128,7 @@
 |   20:01   | Es ist zwanzig Uhr eins.            | Es ist eins nach acht.                                  |
 |   0:03    | Es ist nul Uhr drei.                | Es ist drei nach zwölf.                                 |
 |   5:50    | Es ist fünf Uhr fünfzig.            | Es ist zehn vor sechs.                                  |
-|   10:23   | Es ist zehn Uhr dreiundzwanzig.     | Es ist sieben vor hale elf.                             |
+|   10:23   | Es ist zehn Uhr dreiundzwanzig.     | Es ist sieben vor halb elf.                             |
 |   16:35   | Es ist sechzehn Uhr fünfunddreißig. | Es ist fünf nach halb fünf.                             |
 |   5:25    | Es ist fünf Uhr fünfundzwanzig.     | Es ist fünf vor halb sechs.                             |
 |   1:20    | Es ist ein Uhr zwanzig.             | Es ist zwanzig nach eins./ Es ist zehn vor halb zwei.   |
@@ -905,39 +1167,97 @@
 | **Q** | Wann ist er im Büro?                       |                        |
 | **Q** | Um wie viel Uhr hat er eine Besprechung?   |                        |
 
+|                                   |      |                      |
+| --------------------------------- | ---- | -------------------- |
+| Wann stehst du am Sonntag auf?    |      | am + Tag             |
+| Und wann stehst du am Montag auf? |      | um + Zeit            |
+| Um wie viel Uhr frühstückst bu?   |      | von ... bis ...      |
+| Wann machst du Mittagspause?      |      | zwischen ... und ... |
+| Von wann bis wann arbeitest du?   |      |                      |
+| Wann gehst du am Freitag aus?     |      |                      |
+| Wann machst du Sport?             |      |                      |
+| Wann gehst du ins Bett?           |      |                      |
+|                                   |      |                      |
+
+
+
 | Q     | Hast du jetzt Zeit?                  |
 | ----- | ------------------------------------ |
 | **A** | **Nein, ich hebe jetzt keine Zeit.** |
 
-| Flug 4077 aus Florenz landet in 10 Minuten. | die Minute,-n   landen 降落 |
-| ------------------------------------------- | --------------------------- |
-
 #### Die Tageszelten 时间的表达
 
-|                    |                          |               |      每天       |
-| :----------------: | :----------------------: | :-----------: | :-------------: |
-|   **der Morgen**   |    **早上** 6 bis 10     |   am Morgen   |   **morgens**   |
-| **der Vormittag**  |    **上午** 10 bis 12    | am Vormittag  | **vormittags**  |
-|   **der Mittag**   |    **中午 **12 bis 14    |   am Mittag   |   **mittags**   |
-| **der Nachmittag** |    **下午** 14 bis 18    | am Nachmittag | **nachmittags** |
-|   **der Abend**    | **傍晚，晚上** 18 bis 22 |   am Abend    |   **abends**    |
-|   **die Nacht**    |    **夜晚** 22 bis 6     | in der Nacht  |   **nachts**    |
+|                    |                          |                  |               每天                |
+| :----------------: | :----------------------: | :--------------: | :-------------------------------: |
+|   **der Morgen**   |    **早上** 6 bis 10     |    am Morgen     |     **morgens**(jeden Morgen)     |
+| **der Vormittag**  |    **上午** 10 bis 12    |   am Vormittag   |  **vormittags**(jeden Vormittag)  |
+|   **der Mittag**   |    **中午 **12 bis 14    |    am Mittag     |     **mittags**(jeden Mittag)     |
+| **der Nachmittag** |    **下午** 14 bis 18    |  am Nachmittag   | **nachmittags**(jeden Nachmittag) |
+|   **der Abend**    | **傍晚，晚上** 18 bis 22 |     am Abend     |      **abends**(jeden Abend)      |
+|   **die Nacht**    |    **夜晚** 22 bis 6     | **in der Nacht** |      **nachts**(jede Nacht)       |
+|  **morgen früh**   |         明天早晨         |                  |                                   |
+
+| Jede                                                         | Aber                                                  |
+| ------------------------------------------------------------ | ----------------------------------------------------- |
+| Morgens trinke ich Milch.<br />Jeden Morgen trinke ich Milch. | Aber heute Morgen trinke ich keine Milch.             |
+| Vormittags habe ich Unterricht.<br />Jeden Vormittag habe ich Unterricht. | Aber heute Vormittag habe ich frei.                   |
+| Ich trinke mittags eine Tasse Tee.<br />Ich trinke jeden Mittag eine Tasse Tee. | Aber heute Mittag trinke ich eine Tasse Kaffee.       |
+| Nachmittags mache ich einen Spazuergang.<br />Jeden Nachmittag mache ich einen Spaziergang. | Aber heute Nachmittag muss ich einen Brief schreiben. |
+| Abends lese ich Zeitung.<br />Jeden Abend lese ich Zeitung.  | Aber heute Abend höre ich Musik.                      |
+| Nachts schlafe ich.<br />Jede Nacht schlafe ich.             | Aber heute Nacht spiele ich Karten.                   |
 
 #### Die Wochentage 一周的表达
 
-| Montag  | Dienstag  | Mittwoch  | Donnerstag  | Freitag  | Samstag/Sonnabend | Sonntag  |
-| :-----: | :-------: | :-------: | :---------: | :------: | :---------------: | :------: |
-|   MO    |    DI     |    MI     |     DO      |    FR    |        SA         |    SO    |
-| montags | dienstags | mittwochs | donnerstags | freitags |     samstags      | sonntags |
+|          Montag           |           Dienstag            |           Mittwoch            |            Donnerstag             |           Freitag           |   Samstag<br />Sonnabend    |           Sonntag           |
+| :-----------------------: | :---------------------------: | :---------------------------: | :-------------------------------: | :-------------------------: | :-------------------------: | :-------------------------: |
+|            MO             |              DI               |              MI               |                DO                 |             FR              |             SA              |             SO              |
+| montags<br />jeden Montag | dienstags<br />jeden Dienstag | mittwochs<br />jeden Mittwoch | donnerstags<br />jeden Donnerstag | freitags<br />jeden Freitag | samstags<br />jeden Samstag | sonntags<br />jeden Sonntag |
+
+| Welcher Tag ist heute?                                       |      |
+| ------------------------------------------------------------ | ---- |
+| Heute ist Freitag.                                           |      |
+| Am Freitag mache ich einen Deutschkurs. der Deutschkurs      |      |
+| Am/Jeden Mittwochabend gehe ich schwimmen.                   |      |
+| Am Donnerstag gehe ich um 18.00 Uhr mit Gabi essen.          |      |
+| Manchmal gehe ich dienstags in die Bibliothek.<br />Aber nicht jeden Dienstag. |      |
+| Am Dienstagnachmittag gehe ich oft schwimmen.                |      |
+| immer/ oft/ manchmal/ selten/ nie<br />一直、经常、偶尔、较少、从未 |      |
+| Am Wochenende gehe ich immer/oft/manchmal/selten/nie in die Disco. |      |
+| **Was machst du immer Abends?**                              |      |
+| Am Sonntag gehe ich gern mit Freunden ins Kino.              |      |
+| Heute Abend gehe ich schwimmen.                              |      |
+
+| Von wann bis wann ...?<br />Bis wann ...?         |      |
+| ------------------------------------------------- | ---- |
+| Von Montag bis Donnerstag.                        |      |
+| Bis wann kann ich heute einkaufen?<br />Bis vier! |      |
+|                                                   |      |
+|                                                   |      |
+
+
+
+| jede  |            m             |            n             |                 f                 |
+| :---: | :----------------------: | :----------------------: | :-------------------------------: |
+| **N** | der Mann<br />jeder Mann | das Kind<br />jedes Kind |      die Frau<br />jede Frau      |
+|       |                          |                          | Jede Frau hat eine schöne Tasche. |
+| **A** | den Mann<br />jeden Mann | das Kind<br />jedes Kind |      die Frau<br />jede Frau      |
+
+|              |                               |
+| ------------ | ----------------------------- |
+| die Woche    | jede Woche                    |
+| der Morgen   | Er trinkt Milch jeden Morgen. |
+| der Monat,-e | Er schwimmt jeden Monat.      |
+| Das Jahr,-e  | Er reist jedes Jahr           |
 
 | Wochenende | Samstag und Sonntag |
 | ---------- | ------------------- |
 
 #### Zeitangbe
 
-| Punkt | kurz vor | kurz nach |  gegen   |
-| :---: | :------: | :-------: | :------: |
-| 整点  | 不到几点 | 刚过几点  | 几点左右 |
+|         Punkt         | kurz vor | kurz nach |                 gegen                 |
+| :-------------------: | :------: | :-------: | :-----------------------------------: |
+|         整点          | 不到几点 | 刚过几点  |               几点左右                |
+| Komm bitte pünktlich! |          |           | 在kurz vor和kurz nach之间，可以换着用 |
 
 ### die Nummer,-n
 
@@ -1397,6 +1717,24 @@
 | **Da kaufe ich oft.**                                        | **我经常在那买。**                     |
 | **Wir können zusammen gehen.**                               | **我们可以一起去。 （zusammen 一起）** |
 | **Das ist baer nett von dir.**                               | **你可太好了！**                       |
+
+## der Termin,-e
+
+| 复习                                                         |      |
+| ------------------------------------------------------------ | ---- |
+| Ich möchten einen Termin machen.                             |      |
+| Ich habe einen Termin mit meinem Professor.                  |      |
+| Ich muss meine Hausarbeit mit meinem Professor besprechen.   |      |
+| Ich muss zum Arzt gehen. / Kommen Sie bitte zu mir.          |      |
+| Ich habe eine Frage/ ein Probelm.                            |      |
+| Geht es morgen um 8? Ja, es geht./Nein, das geht leider nicht. |      |
+| Wie viel Uhr / Wie spät ist es jetzt?                        |      |
+| Arbeiten Sie fleißig!                                        |      |
+| Fahren Sie nicht zu schnell/ langsam!                        |      |
+| Haben Sie doch Geduld!                                       |      |
+| Seien Sie bitte ruhig./ Sei bitte ruhig!                     |      |
+
+
 
 ## der Unterricht,-e
 
