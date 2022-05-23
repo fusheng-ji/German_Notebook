@@ -2,6 +2,144 @@
 
 1. 元音在下列情况下发长音
 
+   1. 双元音：aa，ee，oo，ie
+
+      Boot, Tee, Aal, Dieb
+
+   2. 元音后只有一个辅音
+
+      Tag, Name
+
+   3. 元音后有辅音h时，h不发音，元音发长音
+
+      Kuh, geht
+
+   4. 除元音e外，其他元音在词尾均发长音
+
+      du, da
+
+2. 元音在两个或两个以上辅音前发短音
+
+   Bett, Takt, nimmt
+
+3. 元音字母e的发音
+
+   元音e除了与其他元音有着相同的长短音发音规则外，还有以下几种发音：
+
+   1. e发[ə]音
+
+      e在词尾时: Name, Frage
+
+      当e与g或b组合，充当单词的前缀时: Gefahr, begabt
+
+   2. er在词尾时发[ər]音
+
+      vater, Lehrer, aber
+
+   3. en在词尾时发[ən]音
+
+      baden, beben, Daten, fallen
+
+   4. el在词尾时发[əl]音
+
+      Gabel, Kabel, Mädel, Nadel
+
+4. 辅音b，d，g的两种发音
+
+   1. b，d，g在元音前发浊音[b\]，[d]，[g\]
+
+      beben, baden, Tage
+
+   2. b，d，g在词尾或其他辅音前发清音[p\]，[t]，[k\]
+
+      Hieb, Tod, Tag, Obst, Adler, siegt
+
+5. 辅音v有[v\]和[f]两种发音
+
+   1. 在外来词中发浊音[v\]
+
+      Vase, Visum, Vulkan
+
+   2. 在德语词中或词尾发清音[f]
+
+      Vater, vier, aktiv
+
+6. 辅音s的发音
+
+   1. s在元音前发[z\]
+
+      Sieg, seit, Saat
+
+   2. s在辅音前或词尾时发[s\]
+
+      Mast, fest, das, was
+
+7. 辅音st，sp的发音
+
+   1. st在词首时发[ʃt\]
+
+      Staat, Stoff, Straße
+
+   2. st在词中或词尾时发[st\]
+
+      Fenster, Weste, fast
+
+   3. sp在词首发[ʃp\]
+
+      Speise, sparen, Sprache
+
+   4. sp在词中或词尾时发[sp\]
+
+      Aspekt, Wespe, Rest
+
+8. ch的发音
+
+   1. ch在德语词中的发音
+
+      1. ch在元音a，o，u，au后面发[x\]
+
+         Dach, doch, Tuch, auch
+
+      2. ch在其他情况下发[ç\]
+
+         China, Pech, euch, Milch, Bücher
+
+   2. ch在外来词中的发音
+
+      1. ch发[k\]
+
+         Chaos, Chlor, Christ
+
+      2. ch发[ʃ\]
+
+         Chef, Chance, Champagner
+
+
+词重音的一般规则：
+
+- 在双音节或多音节词中，总有一个音节要重读
+
+- 德语单词的重音一般在第一个音节
+
+  Schüler, Spieler, lustig
+
+- 可分动词发音时重音在可分前缀上
+
+  einschlafen, zuhören, anreden
+
+- 不可分动词重音在词干上
+
+  besuchen, gehören, erklären, verstehen, zerbrechen, entschuldigen, empfangen
+
+- 复合词通常第一部分重度，第二部分轻读
+
+  Schauspieler, Haustür
+
+- 以-ieren结尾的词，重音在-ieren
+
+  studieren, telefonieren, diskutieren
+
+
 # Grammatik
 
 ## Personalpronomen im Nominativ (N) und Konjugation der Verben im Präsens 人称代词第一格和动词现在时变位
@@ -1353,11 +1491,9 @@
 
    drei Uhr，fünfzehn Uhr，drei 分别是表语。
 
-| Uhrzeiten | offiziell Uhrzeit                   | inoffizielle Uhrzeit                                    |
+| Uhrzeiten | offiziell Uhrzeit 24 std.           | inoffizielle Uhrzeit 12 std.                            |
 | :-------: | ----------------------------------- | ------------------------------------------------------- |
 |           | 先小时后分钟                        | 先分钟后小时<br />（过几分钟用nach，差几分钟用vor）     |
-|           |                                     | 12 std.                                                 |
-|           | ![](images/Uhrzeit.jpg)             |                                                         |
 |   1:00    | Es ist ein Uhr.                     | Es ist eins.                                            |
 |   10:00   | Es ist zehn Uhr.                    | Es ist zehn.                                            |
 |   14:00   | Es ist vierzehn Uhr.                | Es ist zwei.                                            |
@@ -1383,6 +1519,8 @@
 |   1:20    | Es ist ein Uhr zwanzig.             | Es ist zwanzig nach eins./ Es ist zehn vor halb zwei.   |
 |   23:40   | Es ist dreiundzwanzig Uhr vierzig.  | Es ist zwanzig vor zwölf./ Es ist zehn nach halb zwölf. |
 
+![](images/Uhrzeit.jpg)
+
 1. 整点
    1. 官方表达法在钟点数字后必须加上Uhr一词，ein是数词，不是不定冠词，不需要加词尾。
    2. **非官方表达法**表达钟点时**只能使用12以内的数字**，不用Uhr一词。
@@ -1405,20 +1543,27 @@
 
 钟点在语句中常用作状语。钟点作状语时必须在钟点词或词组前加介词**um**，对其提问用疑问词**wann**或词组**Um wie viel Uhr**。
 
-|   Q   | ==Wann== geht Kai zum unterricht?          | 凯什么时候去上课？     |
-| :---: | ------------------------------------------ | ---------------------- |
-| **A** | Um halb acht.                              | 七点半                 |
-| **Q** | **==Um wie viel Uhr== geht Lea ins Büro?** | **雷亚几点去办公室？** |
-| **A** | Um zehn nach sieben.                       | 7点10分                |
-|       | Um Sieben Uhr frühstücken wir.             | 我们在七点吃早餐。     |
-| **Q** | Treffen wir uns heute Nachmittag?          |                        |
-| **A** | Ja, um 15 Uhr.                             |                        |
-| **Q** | Wann ist er im Büro?                       |                        |
-| **Q** | Um wie viel Uhr hat er eine Besprechung?   |                        |
+|       | Komm bitte punktlich!                      | 请准时来！         |
+| :---: | ------------------------------------------ | ------------------ |
+| **Q** | **==Wann== geht Kai zum unterricht?**      | 凯什么时候去上课？ |
+| **A** | Um halb acht.                              | 七点半             |
+| **Q** | **==Um wie viel Uhr== geht Lea ins Büro?** | 雷亚几点去办公室？ |
+| **A** | Um zehn nach sieben.                       | 7点10分            |
+|       | Um Sieben Uhr frühstücken wir.             | 我们在七点吃早餐。 |
+| **Q** | Treffen wir uns heute Nachmittag?          |                    |
+| **A** | Ja, um 15 Uhr.                             |                    |
+| **Q** | Wann ist er im Büro?                       |                    |
+| **Q** | Um wie viel Uhr hat er eine Besprechung?   |                    |
+| **Q** | **´´==Wie lange== machst du Sport?**       |                    |
+| **A** | Anderthalb Stunden                         |                    |
+| **Q** | **==Mit wem== Spielst du Tennis?**         |                    |
+| **A** | Mit meinen Freunden.                       |                    |
+| **Q** | **==Um wie viel Uhr geht's los?==**        | 什么时候出发？     |
+| **A** | Los geht's!                                |                    |
 
 | Beispiel                          |      |                      |
 | --------------------------------- | ---- | -------------------- |
-| Wann stehst du am Sonntag auf?    |      | am + Tag             |
+| Wann stehst du am Sonntag auf?    |      | am/bis + Tag         |
 | Und wann stehst du am Montag auf? |      | um + Zeit            |
 | Um wie viel Uhr frühstückst bu?   |      | von ... bis ...      |
 | Wann machst du Mittagspause?      |      | zwischen ... und ... |
@@ -1466,19 +1611,23 @@
 |            MO             |              DI               |              MI               |                DO                 |             FR              |             SA              |             SO              |
 | montags<br />jeden Montag | dienstags<br />jeden Dienstag | mittwochs<br />jeden Mittwoch | donnerstags<br />jeden Donnerstag | freitags<br />jeden Freitag | samstags<br />jeden Samstag | sonntags<br />jeden Sonntag |
 
-| Welcher Tag ist heute?                                       |      |
-| ------------------------------------------------------------ | ---- |
-| Heute ist Freitag.                                           |      |
-| Am Freitag mache ich einen Deutschkurs. der Deutschkurs      |      |
-| Am/Jeden Mittwochabend gehe ich schwimmen.                   |      |
-| Am Donnerstag gehe ich um 18.00 Uhr mit Gabi essen.          |      |
-| Manchmal gehe ich dienstags in die Bibliothek.<br />Aber nicht jeden Dienstag. |      |
-| Am Dienstagnachmittag gehe ich oft schwimmen.                |      |
-| immer/ oft/ manchmal/ selten/ nie<br />一直、经常、偶尔、较少、从未 |      |
-| Am Wochenende gehe ich immer/oft/manchmal/selten/nie in die Disco. |      |
-| **Was machst du immer Abends?**                              |      |
-| Am Sonntag gehe ich gern mit Freunden ins Kino.              |      |
-| Heute Abend gehe ich schwimmen.                              |      |
+| Wochenende | Samstag und Sonntag |
+| :--------: | :-----------------: |
+
+| Welcher Tag ist heute?                                       | 今天是周几？    |
+| ------------------------------------------------------------ | --------------- |
+| Heute ist Freitag.                                           |                 |
+| Am Freitag mache ich einen Deutschkurs.                      | der Deutschkurs |
+| Am Freitagvormittag besuche ich einen Deutschkurs.           |                 |
+| Am/Jeden Mittwochabend gehe ich schwimmen.                   |                 |
+| Am Donnerstag gehe ich um 18.00 Uhr mit Gabi essen.          |                 |
+| Manchmal gehe ich dienstags in die Bibliothek.<br />Aber nicht jeden Dienstag. |                 |
+| Am Dienstagnachmittag gehe ich oft schwimmen.                |                 |
+| immer/ oft/ manchmal/ selten/ nie<br />一直、经常、偶尔、较少、从未 |                 |
+| Am Wochenende gehe ich immer/oft/manchmal/selten/nie in die Disco. |                 |
+| **Was machst du immer Abends?**                              |                 |
+| Am Sonntag gehe ich gern mit Freunden ins Kino.              |                 |
+| Heute Abend gehe ich schwimmen.                              |                 |
 
 | Von wann bis wann ...?<br />Bis wann ...?         |      |
 | ------------------------------------------------- | ---- |
@@ -1487,7 +1636,7 @@
 |                                                   |      |
 |                                                   |      |
 
-
+##### Jede的变位
 
 | jede  |            m             |            n             |                 f                 |
 | :---: | :----------------------: | :----------------------: | :-------------------------------: |
@@ -1495,22 +1644,74 @@
 |       |                          |                          | Jede Frau hat eine schöne Tasche. |
 | **A** | den Mann<br />jeden Mann | das Kind<br />jedes Kind |      die Frau<br />jede Frau      |
 
-|              |                               |
-| ------------ | ----------------------------- |
-| die Woche    | jede Woche                    |
-| der Morgen   | Er trinkt Milch jeden Morgen. |
-| der Monat,-e | Er schwimmt jeden Monat.      |
-| Das Jahr,-e  | Er reist jedes Jahr           |
-
-| Wochenende | Samstag und Sonntag |
-| ---------- | ------------------- |
-
-#### Zeitangbe
+#### Zeitangbe 时间描述
 
 |         Punkt         | kurz vor | kurz nach |                 gegen                 |
 | :-------------------: | :------: | :-------: | :-----------------------------------: |
 |         整点          | 不到几点 | 刚过几点  |               几点左右                |
 | Komm bitte pünktlich! |          |           | 在kurz vor和kurz nach之间，可以换着用 |
+
+| Anfang | Mitte | Ende |
+| :----: | :---: | :--: |
+|  开始  | 中间  | 结束 |
+
+| vorgestern | gestern | heute |        morgen        | übermorgen |
+| :--------: | :-----: | :---: | :------------------: | :--------: |
+|    前天    |  昨天   | 今天  |         明天         |    后天    |
+|            |         |       | morgen früh 明天早上 |            |
+
+| die Minute, -n     |                               |
+| ------------------ | ----------------------------- |
+| **die Stunde, -n** |                               |
+| **die Woche, -n**  | jede Woche                    |
+| **der Morgen**     | Er trinkt Milch jeden Morgen. |
+| **der Monat,-e**   | Er schwimmt jeden Monat.      |
+| **das Jahr,-e**    | Er reist jedes Jahr           |
+
+#### die Saisons 季节
+
+| im Frühling | im Sommer | im Herbst | im Winter |
+| :---------: | :-------: | :-------: | :-------: |
+|     春      |    夏     |    秋     |    冬     |
+
+#### die Monate 月份
+
+| der Monat, -e |
+| :-----------: |
+|   im Januar   |
+|  im Februar   |
+|    im März    |
+|   im April    |
+|    im Mai     |
+|    im Juni    |
+|    im Juli    |
+|   im August   |
+| im September  |
+|  im Oktober   |
+|  im November  |
+|  im Dezember  |
+
+#### 介词搭配
+
+|    Beispiel     |
+| :-------------: |
+|    am Abend     |
+|   am Freitag    |
+|     im Mai      |
+|    im Sommer    |
+|  um 22.00 Uhr   |
+|  in der Nacht   |
+|  - Mitte April  |
+| - heute Morgen  |
+|  im September   |
+|   am Sonntag    |
+|    im Herbst    |
+|    im Herbst    |
+|    - morgen     |
+|    - gestern    |
+| am Samstagabend |
+|   - Ende Juli   |
+|    am Morgen    |
 
 ### Essenszeiten in Deutschland
 
@@ -1534,6 +1735,22 @@
 |  W   | Das geht. Also dann bis Dienstag um 15.00 Uhr Vielen Dank.   |
 |  A   | Bitte. Auf Wiederhören.                                      |
 |  W   | Auf Wiederhören.                                             |
+
+| um einen Termin bitten          | einen Termin vorschlagen            |
+| ------------------------------- | ----------------------------------- |
+| Haben Sie einen Termin frei?    | Geht es am Freitag um 9.30 Uhr?     |
+| Kann ich einen Termin bekommen? | Geht es in einer Stunde?            |
+| Ich hätte gern einen Termin.    | Können sie am Freitag um halb zehn? |
+| Gehen wir am Freitag ins Kino?  | Treffen wir uns am ... um ...?      |
+
+| ablehnen:sob:                                                | zustimmen:happy:   |
+| ------------------------------------------------------------ | ------------------ |
+| Tur mir leid, das geht nicht. Da heben wir keine Termine frei./ Tur mir leid, das passt mir nicht. | Ja, das passt gut. |
+| Da muss ich arbeiten.                                        | Ja, das geht.      |
+| Am Freitagabend kann ich leider nicht, aber am Samtag.       |                    |
+| Um neun geht es leider nicht, aber um zehn.                  |                    |
+
+
 
 ## die Nummer,-n
 
@@ -2014,15 +2231,30 @@
 
 ## der Unterricht,-e
 
-| Wen fragt der Lehrer? Fragt er mich?           | 老师在问谁？问我吗？   |
-| ---------------------------------------------- | ---------------------- |
-| **Verstehen Sie?/Alles klar? Ja, alles klar.** | **你听懂了吗？**       |
-| **Ich weiß es nicht.**                         | **我不知道。**         |
-| **Wiederholen Sie bitte!**                     | **请再说一遍。**       |
-| **Noch einmal.**                               | **请再说一次。**       |
-| **Vermuten Sie!**                              | **请您猜！**           |
-| **Öffnen Sie bitte Ihre Bücher auf Seite 75.** | **请您翻书到第75页。** |
-| **Haben Sie noch Fragen?**                     | **你有问题吗？**       |
-| **Jetzt ist Schluss!**                         | **别再问了！**         |
-| **Was ist denn los?**                          | **发生了什么？**       |
+| Beispiel                                                     |                                                 |
+| ------------------------------------------------------------ | ----------------------------------------------- |
+| Wen fragt der Lehrer? Fragt er mich?                         | 老师在问谁？问我吗？                            |
+| Verstehen Sie?/Alles klar? Ja, alles klar.                   | 你听懂了吗？                                    |
+| Ich weiß es nicht.                                           | 我不知道。                                      |
+| Wiederholen Sie bitte!                                       | 请再说一遍。                                    |
+| Noch einmal.                                                 | 请再说一次。                                    |
+| Vermuten Sie!                                                | 请您猜！                                        |
+| Öffnen Sie bitte Ihre Bücher auf Seite 75.                   | 请您翻书到第75页。                              |
+| Haben Sie noch Fragen?                                       | 你有问题吗？                                    |
+| Jetzt ist Schluss!                                           | 别再问了！                                      |
+| Was ist denn los?                                            | 发生了什么？                                    |
+| Worüber schreiben Sie?<br />Ich schreibe einen Text über Musik. | 您在写什么？<br />über etwas sprechen/schreiben |
+
+| Zeitplan |                                                        |                      |
+| -------- | ------------------------------------------------------ | -------------------- |
+| 7.50     | zum Unterricht gehen/ zur Areit gehen/zur Schule gehen | 去上课/去工作/去上学 |
+| 8.10     | Lesetext wiedergholen                                  | 复习课文             |
+| 8.25     | Hörübung wiederholen                                   | 听力练习             |
+| 8.45     | Sprechüung machen                                      | 做口语练习           |
+| 9.15     | Grammatikregeln lernen                                 | 学习语法             |
+| 9.40     | Pause machen                                           | 休息                 |
+| 10.00    | Dialoge machen                                         | 对话                 |
+| 10.35    | eine Schreibübung machen                               | 写作练习             |
+| 11.00    | einen Test schreiben/ eine prüfung schreiben           | 做测试/考试          |
+| 11.45    | nach Hause gehen                                       | 回家                 |
 
