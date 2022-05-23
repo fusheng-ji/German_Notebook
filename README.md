@@ -1,4 +1,4 @@
-# Phonetische
+# Phonetik
 
 1. 元音在下列情况下发长音
 
@@ -672,7 +672,40 @@
 
 ## Stellung von Dativ-und Akkusativobjekt (Nomen und Personalpronomen) 第三格、第四格宾语在句中的位置（名词和人称代词）
 
+| Beispiel |                   Ein Ehepaar 一对已婚夫妇                   |                                                          |
+| :------: | :----------------------------------------------------------: | :------------------------------------------------------: |
+|   Sie    |                       Liebst du mich?                        |                        你爱我吗？                        |
+|    Er    |                  Natürlich liebe ich dich.                   |                       我当然爱你。                       |
+|   Sie    |                Dann zeig **mir** deine Liebe!                |                  那给我看看你对我的爱！                  |
+|    Er    |               Wie soll ich sie **dir** zeigen?               |                      怎么给你看呢？                      |
+|   Sie    |        Kauf **mir** Kleider und Schmuck und ein Auto!        |                  给我买衣服、首饰和车！                  |
+|    Er    | Ich kann **dir** aber kein Auto, keine Kleider und keinen Schmuck kaufen. Ich habe ken Geld. |                    我不能买。我没钱！                    |
+|   Sie    |                  Also liebst du mich nicht.                  |                       那你不爱我。                       |
+|    Er    | Doch, ich liebe dich sehr, und ich schenke **dir** jeden Tag mein Herz, aber ich kann **dir** kein Auto schenken. | 不，我很爱你，我每天都把我的真心送给你，但我没法送你车。 |
 
+说明：
+
+1. 德语中相当一部分及物动词在支配一个第四格宾语的同时还可以支配一个第三格宾语
+
+   第四格宾语是其直接宾语，第三格宾语是其间接宾语
+
+   常用可以接双宾语的动词有：
+
+   bringen, schenken, kaufen, zeigen, geben, leihen, schreiben, empfehlen, sagen等
+
+2. 在句中，如果第三格宾语和第四格宾语都是名词，则第三格宾语放在第四格宾语前
+
+   如果两个都是代词，则第四格宾语在第三格宾语前
+
+   如果其中有一个是代词，则代词放在名词前
+
+   | Beispiel |       |             |              |
+   | :------: | :---: | :---------: | :----------: |
+   |    Ⅰ     |   Ⅱ   |      Ⅲ      |      Ⅳ       |
+   |    Er    | zeigt | seiner Frau | seine Liebe. |
+   |    Er    | zeigt |     ihr     | seine Liebe. |
+   |    Er    | zeigt |     sie     | seiner Frau. |
+   |    Er    | zeigt |     sie     |     ihr.     |
 
 ## Woher？Wohin？Wo？
 
@@ -948,6 +981,175 @@
 
 3. 非尊称命令式用在与家人、亲戚、同学、同事、好朋友等之间以及小孩说话。
 
+## n-Deklination 弱变化名词
+
+|            N             |               A                |               D                |
+| :----------------------: | :----------------------------: | :----------------------------: |
+|    der / ein Polizist    |     den / einen Polizisten     |     dem / einem Polizisten     |
+|   der / ein Pessimist    |    den / einen Pessimisten     |    dem / einem Pessimisten     |
+|    der / ein Optimist    |     den / einen Optimisten     |     dem / einem Optimisten     |
+|                          |                                |                                |
+| der / ein / mein Student | den / einen / meinen Studenten | dem / einem / meinem studenten |
+|   der / ein Assistent    |   den / einen / Assistenten    |    dem / einem Assistenten     |
+|     der / ein Dozent     |      den / einen Dozenten      |      dem / einem Dozeten       |
+|                          |                                |                                |
+|  der / ein / mein Junge  |  den / einen / meinen Jungen   |  dem / einem / meinem Jungen   |
+| der / ein / mein Kollege | den / einen / meinen Kollegen  | dem / einem / meinem Kollegen  |
+|    der / ein Chinese     |      den / einen Chinesen      |      dem / einem Chinesen      |
+|                          |                                |                                |
+|  der / ein / mein Herr   |   den / einen / meinen Herrn   |   dem / einem / meinem Herrn   |
+| der / ein / mein Nachbar | den / einen / meinen Nachbarn  | dem / einem / meinem Nachbarn  |
+|     der / ein Mensch     |      den / einen Menschen      |      dem / einem Menschen      |
+
+说明：
+
+1. 几乎所有弱变化名词都是阳性名词
+2. 弱变化名词单数在第三格、第四格中都要加上词尾-n或-en
+3. 弱变化名词包括：
+   1. 所有以-e结尾的阳性名词，如Chinese，Kollege等
+   2. 所有以-ent，-ist，-and，-ant结尾的阳性名词，如Assistent，Optimist等
+   3. 特殊形式：如Herr，Nachbar，Mensch等
+
+## Perfekt 现在完成时
+
+| Beispiel                              |      | 现在完成时的构成：haben / sein + Partizip Perfekt (P. Ⅱ) |
+| ------------------------------------- | :--: | -------------------------------------------------------- |
+| Er feiert heute seinen 20. Geburstag. |  →   | Er hat gestern seinen 20. Geburtstag gefeiert.           |
+| Ich stehe um 6 Uhr auf.               |  →   | Ich bin aufgestanden.                                    |
+| Er schläft drei Studen.               |  →   | Er hat drei Studen geschlafen.                           |
+| Er fährt täglich nach Hause.          |  →   | Er ist nach Hause gefahren.                              |
+
+### 动词在句中的位置
+
+|    Ⅰ     |   Ⅱ   |           Ⅲ...            |    Ende     |
+| :------: | :---: | :-----------------------: | :---------: |
+|   Ich    | habe  | gestern meinen Geburtstag |  gefeiert.  |
+| Um 6 Uhr |  bin  |            ich            | aufgewacht. |
+|   Wer    |  hat  |    dir noch Geschenke     |  gemacht?   |
+|   Hat    | Maria |         dir etwas         | geschenkt?  |
+
+说明：
+
+1. 现在完成时有助动词haben或sein加上第二分词（P. Ⅱ）两部分构成，多用在口语和日常书信中，表示已经发生的行为、事情和状态
+
+2. 助动词haben或sein
+
+   在陈述句和特殊疑问句中位于句子第二位
+
+   在一般疑问句中位于第一位
+
+   第二分词（P. Ⅱ）始终位于句末
+
+3. 第二分词构成：
+
+   1. 规则动词的第二分词构成可分为以下四种：
+
+      |                     ge[    ]t                     |
+      | :-----------------------------------------------: |
+      |                  kaufen→gekauft                   |
+      |                  lernen→gelernt                   |
+      |                  machen→gemacht                   |
+      |                  **ge[    ]et**                   |
+      |                arbeiten→gearbeitet                |
+      |                  öffnen→geöffnet                  |
+      |                  bilden→gebildet                  |
+      |    动词词干以-t，-d，-chn，-ffn，-gn结尾的动词    |
+      |                    **[    ]t**                    |
+      |                studieren→studiert                 |
+      |              diskutieren→diskutiert               |
+      |                以-ieren结尾的动词                 |
+      |                 besuchen→besucht                  |
+      |                 erzählen→erzählt                  |
+      | 带不可分前缀的动词，如ge-，be-，er-，ver-，zer-等 |
+      |                **[    ]ge[    ]t**                |
+      |               einkaufen→eingekauft                |
+      |              nachfragen→nachgefragt               |
+      |                     可分动词                      |
+
+   2. 不规则动词的第二分词构成无规则可循，必须熟记（不规则动词表
+
+4. 助动词haben和sein
+
+   1. 大多数动词在现在完成时中助动词都是haben
+   2. 少部分不及物动词在完成时中要求sein做助动词
+      1. 表示地点变化的不及物动词，如fahren，fliegen，gehen等
+      2. 少部分不及物动词在完成时中要求sein作助动词
+         1. 表示地点变化的不及物动词，如fahren,filegen,gehen等
+         2. 表示状态变化的不及物动词，如werden,einschlafen,aufstehen,aufwachen等
+         3. sein和bleiben这两个动词是例外，虽然它们不表示地点和状态变化，但也用sein作助动词
+
+5. 时间助动词haben，sein和情态助动词一般多用它们的过去时表示已经发生的状态、行为
+
+   |             Beispiel              |                  |
+   | :-------------------------------: | :--------------: |
+   |        Gestern war Montag.        |   昨天是周一。   |
+   |    Früher hatte ich viel Geld.    | 我以前有很多钱。 |
+   | Damals konnte er nicht schwimmen. | 当时他不会游泳。 |
+
+## Adjektivdelination 形容词变格
+
+### Bei bestimmten und unbestimmten Artikeln und Possessivpronomen 形容词在定冠词、不定冠词和物主代词后的变格
+
+| Beispiel                                                     |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Ein Mann ist alt. Ein Pullover ist grau.                     | Ein alter Mann möchte einen grauen Pullover kaufen.          |
+| Der Vater ist jung. Sein Kind ist klein. Die Geschichte ist lang. | Der junge Vater erzählt seinem kleinen Kind eine lange Geschichte. |
+
+|      |                     der                      |                      das                       |                      die                      |                   PI.                    |
+| :--: | :------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: | :--------------------------------------: |
+|  N.  |    der neue Hut<br />ein/kein/mein neuer     |    das neue Kleid<br />ein/kein/mein neues     |   die neue Hose<br />eine/keine/meine neue    |  die neuen Hüte<br />keine/meine neuen   |
+|  A.  | den neuen Hut<br />einen/keinen/meinen neuen |    das neue Kleid<br />ein/kein/mein neues     |   die neue Hose<br />eine/keine/meine neue    |  die neuen Hüte<br />keine/meine neuen   |
+|  D.  | dem neuen Hut<br />einem/keinem/meinem neuen | dem neuen Kleid<br />einem/keinem/meinem neuen | der neuen Hose<br />einer/keiner/meiner neuen | den neuen Hüten<br />keinen/meinen neuen |
+
+说明：
+
+1. 德语句子中的形容词可用作名词的定语放在该名词前，并必须加上相应词尾
+2. 作定语用的形容词加什么词尾，取决于它后面的名词的性、数、格以及它前面的冠词种类，即：是用定冠词还是不定冠词，用物主代词还是否定词kein
+
+注意：
+
+1. 下列形容词作定语时，词尾变化很特殊，它们不仅有词尾变化，而且形容词本身也有变化
+
+   | dunkel    | eine dunkle Hose    | die dunkle Hose     |
+   | --------- | ------------------- | ------------------- |
+   | **teuer** | **ein teures Buch** | **das teure Sakko** |
+   | **hoch**  | **ein hoher Preis** | **der hohe Preis**  |
+
+2. 下列以元音a结尾的形容词作定语时，它们不加任何词尾
+
+   | rosa      | ein rosa Kleid      | das rosa Kleid     |
+   | --------- | ------------------- | ------------------ |
+   | **lila**  | **eine lila Bluse** | **die lila Bluse** |
+   | **prima** | **eine prima Idee** | **die prima Idee** |
+
+### Nullartikel 形容词在零冠词后的词尾变化
+
+| Beispiel                                                     |                                                |
+| ------------------------------------------------------------ | ---------------------------------------------- |
+| Ich möchte Tee trinken.<br />Trinken Sie schwarzen Tee oder grünen Tee?<br />Grünen Tee, bitte. | 我想喝茶。<br />您喝红茶还是绿茶？<br />绿茶。 |
+| Sie möchte zwei moderne Kleider kaufen.                      | 她想买两件时尚的连衣裙。                       |
+
+|      |        m         |          n          |         f          |         PI.         |
+| :--: | :--------------: | :-----------------: | :----------------: | :-----------------: |
+|  N   | (der) grüner Tee | (das) warmes Wasser | (die) kalte Milch  |  (die) hohe Preise  |
+|  A   | (den) grüner Tee | (das) warmes Wasser | (die) kalte Milch  |  (die) hohe Preise  |
+|  D   | (dem) grünem Tee | (dem) warmem Wasser | (der) kalter Milch | (den) hohen Preisen |
+
+说明：
+
+1. 当形容词前没有任何冠词即零冠词时，形容词就根据被修饰名词的性、数、格添加词尾，它们的词尾就是定冠词的词尾。
+2. 当形容词前出现1以上的数词时，它的词尾变化仍与零冠词的词尾变化形式相同。
+
+### Feagepronomen für Adjektive: Welch ... / Was für (ein...) 对形容词提问的疑问代词
+
+|      |  m   |  n   |  f   | PI.  |
+| :--: | :--: | :--: | :--: | :--: |
+|  N   |      |      |      |      |
+|  A   |      |      |      |      |
+|  D   |      |      |      |      |
+
+
+
 # Notizen
 
 ## das Land, die Länder und die Sprache, -n und  die Leute
@@ -1077,9 +1279,56 @@
 |  .   |    Punkt     |
 |  ,   |    Komma     |
 
+## Ordinalzahlen 序数词
 
+|        der / die / das        |       |
+| :---------------------------: | :---: |
+|           **erste**           |  1.   |
+|            zweite             |  2.   |
+|          **dritte**           |  3.   |
+|            vierte             |  4.   |
+|            fünfte             |  5.   |
+|            sechste            |  6.   |
+|            siebte             |  7.   |
+|           **achte**           |  8.   |
+|            neunte             |  9.   |
+|            zehnte             |  10.  |
+|             elfte             |  11.  |
+|            zwölfte            |  12.  |
+|              ...              |  ...  |
+|          neunzehnte           |  19.  |
+|          zwanzigste           |  20.  |
+|        einundzwnzigste        |  21.  |
+|              ...              |  ...  |
+|       neunundneunzigste       |  99.  |
+|          hundertste           | 100.  |
+|              ...              |  ...  |
+|         hunderterste          | 101.  |
+|       zweihundertelfte        | 211.  |
+|       dreihundertdeitte       | 303.  |
+|              ...              |  ...  |
+| achthundertachtuhndachtzigste | 888.  |
+|          tausendste           | 1000. |
+|         tausenderste          | 1001. |
+|         tausenddritte         | 1003. |
 
-### die Zeit,-en
+说明：
+
+1. 从1到19的序数词（也包括101到119……，1001到1019……等），是在其基数词上加-t的形式构成。
+
+   其中der/die/das erste，der/die/das dritte，der/die/das siebte，der/die/das achte是特殊形式。
+
+   从20开始的序数词是在其基数词上加-st的形式构成。
+
+2. 与基数词不同，序数词前要加上定冠词der/die/das或物主代词
+
+3. 序数词词尾有变格要求，其变格规则与形容词词尾变格规则相同。
+
+   表中所列序数词都有词尾-e，该词尾就是序数词在第一格定冠词情况下的变格词尾。
+
+4. 序数词写成阿拉伯数字时后面要加点，如：der 50. Geburtstag von Professor Li
+
+## die Zeit,-en
 
 #### die Uhrzeit,-en
 
@@ -1167,7 +1416,7 @@
 | **Q** | Wann ist er im Büro?                       |                        |
 | **Q** | Um wie viel Uhr hat er eine Besprechung?   |                        |
 
-|                                   |      |                      |
+| Beispiel                          |      |                      |
 | --------------------------------- | ---- | -------------------- |
 | Wann stehst du am Sonntag auf?    |      | am + Tag             |
 | Und wann stehst du am Montag auf? |      | um + Zeit            |
@@ -1177,15 +1426,19 @@
 | Wann gehst du am Freitag aus?     |      |                      |
 | Wann machst du Sport?             |      |                      |
 | Wann gehst du ins Bett?           |      |                      |
-|                                   |      |                      |
-
-
 
 | Q     | Hast du jetzt Zeit?                  |
 | ----- | ------------------------------------ |
 | **A** | **Nein, ich hebe jetzt keine Zeit.** |
 
 #### Die Tageszelten 时间的表达
+
+| Stunden 小时 eine Stunde, eine halb Stunde, eineinhalb Studen,anderthalb Stunden(1.5 Stunden)<br />Minuten 分钟 |
+| :----------------------------------------------------------: |
+| An einem Tag schlafen und entspannen sie 10 Stunden und 24 Minuten. |
+|          An einem Tag machen sie 29 Minuten Sport.           |
+|     An einem Tag spielen sie 14 Minuten mit den Kindern.     |
+|    An einem Tag arbeite ich 4 Stunden in der Bibliothek.     |
 
 |                    |                          |                  |               每天                |
 | :----------------: | :----------------------: | :--------------: | :-------------------------------: |
@@ -1259,7 +1512,30 @@
 |         整点          | 不到几点 | 刚过几点  |               几点左右                |
 | Komm bitte pünktlich! |          |           | 在kurz vor和kurz nach之间，可以换着用 |
 
-### die Nummer,-n
+### Essenszeiten in Deutschland
+
+| In Deutschland gibt es drei Hauptmahlzeiten: |
+| -------------------------------------------- |
+| das Frühstück zwischen 6 und 10 Uhr          |
+| das Mittagessen zwischen 12 und 14 Uhr       |
+| das Abendessen zwischen 18 und 20 Uhr        |
+
+### Ein Zahnarttermin
+
+|      | A - Arzthelderin W - Wang Dali                               |
+| :--: | ------------------------------------------------------------ |
+|  A   | Guten Tag. Hier Praxis Dr. Sommer.                           |
+|  W   | Guten Tag. Mein Name ist Wang Dali. Ich habe Zahnschmerzen. Wann kann ich kommen/hat Dr. Sommer einen Termin frei?/Kann ich einen Termin haben? |
+|  A   | Einen Moment bitte. Können Sie am Diestag kommen?            |
+|  W   | Am Vormittag oder am Nachmittag?                             |
+|  A   | Am Nachmittag.                                               |
+|  W   | Ja. Um wie viel Uhr geht es?/ Nein, das geht nicht. Kann ich am Donnerstag kommen? |
+|  A   | Um drei Uhr. / Ja. Geht es um 8.00 Uhr?                      |
+|  W   | Das geht. Also dann bis Dienstag um 15.00 Uhr Vielen Dank.   |
+|  A   | Bitte. Auf Wiederhören.                                      |
+|  W   | Auf Wiederhören.                                             |
+
+## die Nummer,-n
 
 | Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |                                  |
 | ----- | :-------------------------------------------: | -------------------------------- |
