@@ -278,27 +278,35 @@
 | Ich habe heute frei.          | Präsens    | 我今天休息。     |
 | Ich hatte gestern keine Zeit. | Präteritum | 我昨天没有时间。 |
 
-|      |  haben  | sein  |
-| :--: | :-----: | :---: |
-| ich  |  hatte  |  war  |
-|  du  | hattest | warst |
-|  er  |         |       |
-| sie  |  hatte  |  war  |
-|  es  |         |       |
-| wir  | hatten  | waren |
-| ihr  | hattet  | wart  |
-| sie  | hatten  | waren |
-| Sie  | hatten  | waren |
+|      |  haben  |       | sein  |      |
+| :--: | :-----: | :---: | :---: | :--: |
+| ich  |  hatte  | habe  |  war  | bin  |
+|  du  | hattest | hast  | warst | bist |
+|  er  |         |       |       |      |
+| sie  |  hatte  |  hat  |  war  | ist  |
+|  es  |         |       |       |      |
+| wir  | hatten  | haben | waren | sind |
+| ihr  | hattet  | habt  | wart  | seid |
+| sie  | hatten  | haben | waren | sind |
+| Sie  | hatten  | haben | waren | sind |
+
+| Beispiele                                    |                       |
+| -------------------------------------------- | --------------------- |
+| Warum waren Sie gestern nicht im Unterricht? | Ich hatte keine Zeit. |
+| Wie war der Film gestern?                    | 昨天的电影怎么样？    |
 
 ## Trennbare und untrennbare Verben 可分动词与不可分动词
 
-|     Beispiel     |        | 动词原形 aufstehen |            |            |
+|    Beispiele     |        | 动词原形 aufstehen |            |            |
 | :--------------: | :----: | :----------------: | :--------: | :--------: |
 |                  |   Ⅰ    |         Ⅱ          |    Ⅲ...    |    Ende    |
 |      陈述句      |  Ich   |       stehe        |  um 6 Uhr  |    auf.    |
 |    特殊疑问句    |  Wann  |       stehst       |     du     |    auf?    |
 |    一般疑问句    | Stehst |         du         |  um 6 Uhr  |    auf?    |
 |      命令句      | Stehen |        Sie         | bitte früh |    auf!    |
+|                  | Rufen  |        Sie         | mich bitte |    an!     |
+|                  | Kommen |        Sie         |   bitte    |    mit!    |
+|                  | Kommen |        Sie         |   bitte    |   herein   |
 | 与情态助动词连用 |  Ich   |        muss        |  um 6 Uhr  | aufstehen. |
 
 说明：
@@ -318,18 +326,18 @@
    | trennbare Verben | 重音在可分前缀 |
    | :--------------: | :------------: |
    |       ab-        |    abfahren    |
-   |       an-        |                |
+   |       an-        |    anrufen     |
    |       auf-       |  aufschreiben  |
-   |       aus-       |                |
-   |       bei-       |                |
+   |       aus-       |   ausmachen    |
+   |       bei-       |   beibringen   |
    |      durch-      |                |
    |       ein-       |    einladen    |
-   |      fest-       |                |
+   |      fest-       |  feststellen   |
    |      frei-       |   freihaben    |
-   |       her-       |                |
-   |       hin-       |                |
+   |       her-       |   herkommen    |
+   |       hin-       |    hingehen    |
    |     hinter-      |                |
-   |       los-       |                |
+   |       los-       |   losfahren    |
    |       mit-       |   mitkommen    |
    |      nach-       |   nachfragen   |
    |      statt-      |  stattfinden   |
@@ -337,7 +345,7 @@
    |      unter-      |                |
    |      über-       |                |
    |       vor-       |                |
-   |       weg-       |                |
+   |       weg-       |   wegfahren    |
    |     wieder-      |  wiedersehen   |
    |       zu-        |    zuhören     |
    |     zurück-      |  zurückkommen  |
@@ -363,7 +371,7 @@
 
 5. 部分带有unter-，wieder-，über-，durch-，hinter-，um-等前缀的动词既可以作可分动词也可作不可分动词，但***词意不同***。
 
-   | Beispiel                                           |                                                              |
+   | Beispiele                                          |                                                              |
    | -------------------------------------------------- | ------------------------------------------------------------ |
    | wieder-holen<br />可分时为“取回来”，不可分时“复习” | Sie holt den Brief wieder. 她取回那封信。<br />Sie wiederholt zu Hause das Gelernte. 她在家复习已经学过的东西。 |
    | über-setzen<br />可分时“使渡河”，不可分时“翻译”    | Der Schiffer setzt sie über. 船工渡她过河。<br />Sie übersetzt den deutschen Roman. 她翻译这本德国小说。 |
@@ -406,19 +414,19 @@
 
 ## Possessivpronomen im Dativ (D) 物主代词第三格
 
-|       | m/n  |           |       |  f   |         |       | PI.  |                      |
-| :---: | :--: | :-------: | :---: | :--: | :-----: | :---: | :--: | :------------------: |
-| mein  | -em  | Sohn/Kind | mein  | -er  | Tochter | nein  | -en  | Kindern/Studentinnen |
-| dein  | -em  |           | dein  | -er  |         | dein  | -en  |                      |
-| sein  | -em  |           | sein  | -er  |         | sein  | -en  |                      |
-|  ihr  | -em  |           |  ihr  | -er  |         |  ihr  | -en  |                      |
-| sein  | -em  |           | sein  | -er  |         | sein  | -en  |                      |
-| unser | -em  |           | unser | -er  |         | unser | -en  |                      |
-|  eur  | -em  |           |  eur  | -er  |         |  eur  | -en  |                      |
-|  ihr  | -em  |           |  ihr  | -er  |         |  ihr  | -en  |                      |
-|  Ihr  | -em  |           |  Ihr  | -er  |         |  Ihr  | -en  |                      |
+|       | m/n  |       |  f   |       | PI.  |                      |
+| :---: | :--: | :---: | :--: | :---: | :--: | :------------------: |
+| mein  | -em  | mein  | -er  | nein  | -en  | Kindern/Studentinnen |
+| dein  | -em  | dein  | -er  | dein  | -en  |                      |
+| sein  | -em  | sein  | -er  | sein  | -en  |                      |
+|  ihr  | -em  |  ihr  | -er  |  ihr  | -en  |                      |
+| sein  | -em  | sein  | -er  | sein  | -en  |                      |
+| unser | -em  | unser | -er  | unser | -en  |                      |
+|  eur  | -em  |  eur  | -er  |  eur  | -en  |                      |
+|  ihr  | -em  |  ihr  | -er  |  ihr  | -en  |                      |
+|  Ihr  | -em  |  Ihr  | -er  |  Ihr  | -en  |                      |
 
-| Beispiel             |                                  |
+| Beispiele            |                                  |
 | -------------------- | -------------------------------- |
 | Wem gratulieren Sie? | Ich gratuliere meinem Freund.    |
 | Wem gehört das Buch? | Das Buch gehört meiner Freundin. |
@@ -480,24 +488,30 @@
 
 ## Personalpronomen im Dativ (D) 人称代词第三格
 
-|      | Personalpronomen |       |
-| :--: | :--------------: | :---: |
-|  N   |        A         |   D   |
-| ich  |       mich       |  mir  |
-|  du  |       dich       |  die  |
-|  er  |       ihn        |  ihm  |
-| sie  |       sie        |  ihr  |
-|  es  |        es        |  ihm  |
-| wir  |       uns        |  uns  |
-| ihr  |       euch       | euch  |
-| sie  |       sie        | ihnen |
-| Sie  |       Sie        | Ihnen |
-| wer? |       wen?       | wem?  |
+|          | Personalpronomen |          |
+| :------: | :--------------: | :------: |
+|    N     |        A         |    D     |
+|   ich    |       mich       |   mir    |
+|    du    |       dich       |   dir    |
+|    er    |       ihn        |   ihm    |
+|   sie    |       sie        |   ihr    |
+|    es    |        es        |   ihm    |
+|   wir    |       uns        |   uns    |
+|   ihr    |       euch       |   euch   |
+|   sie    |       sie        |  ihnen   |
+|   Sie    |       Sie        |  Ihnen   |
+| **wer?** |     **wen?**     | **wem?** |
 
-|                    Beispiel                    |                                  |
-| :--------------------------------------------: | -------------------------------- |
-|      Josef braucht Hilfe! Wer hilft ihm?       | 约瑟夫需要帮助。谁帮帮他？       |
-| Wem gehört das Buch?<br />Das Buch gehürt mir. | 这本书是谁？<br />这本书是我的。 |
+|                   Beispiele                    |                                            |
+| :--------------------------------------------: | ------------------------------------------ |
+|      Josef braucht Hilfe! Wer hilft ihm?       | 约瑟夫需要帮助。谁帮帮他？                 |
+|                Er beuscht mich.                |                                            |
+|                 Er hilft mir.                  |                                            |
+| Wem gehört das Buch?<br />Das Buch gehürt mir. | 这本书是谁？<br />这本书是我的。           |
+|         Mein Vater kauft mir ein Auto.         | 我父亲给我买了一辆车。<br />双宾语人三物四 |
+|          Er bestellt ihr eine Karte.           | 他给她订购了一张卡片。                     |
+|      Der Hausaufgaben sind mir zu schwer.      | 作业对我来说太难了。                       |
+|         Der Pullover ist ihm zu teuer.         | 套头衫对他来说太贵了。                     |
 
 说明：
 
@@ -505,14 +519,37 @@
 
    像这样支配第三格宾语的常用动词还有danken，gratulieren，gefallen，antworten，schmecken，passen等。
 
+   | Beispiele                                                    |                                               |
+   | ------------------------------------------------------------ | --------------------------------------------- |
+   | Ich danke Ihnen für Ihre Hilfe.                              | 感谢您的帮助。                                |
+   | Ich gratuliere die zur Hochzeit.                             | 向你的婚礼表示祝贺。                          |
+   | Der Film gefält mir./ Mir gefält der Film.<br />Ich mag den Film. (mögen 喜欢) | 我喜欢这部电影。<br />gefallen(gefält)        |
+   | Das Essen im Hotel schmeckt mir sehr.                        | 我非常喜欢旅馆的饭。<br />schmecken(schmeckt) |
+   | Der Schüler antwortet mir auf meine Frage.                   | 那个学生回答了我的问题。                      |
+   | Das Kleid passt ihr sehr gut.                                | 那个裙子非常合她的身。passen(passt)           |
+
    除此之外，在一些固定搭配中也出现第三格形式的人称代词，例如：
 
    | Biespiel                                             |                                    |
    | ---------------------------------------------------- | ---------------------------------- |
    | Wie geht es Ihnen / dir?<br />Danke,mir geht es gut. | 您（你）好吗？<br />谢谢我挺好的。 |
    | Meine Mutter ist krank.<br />Oh, das tut mir Leid.   | 我母亲生病了。<br />哦，真遗憾。   |
+   | Wie geht es dir/ Ihnen/ euch?                        |                                    |
+   | Mir/ Uns geht es gut.                                |                                    |
+   | (Es) tut mir/ uns leid.                              |                                    |
 
-2. 对第三格人称代词提问用wem。
+2. 只能接三格介词
+
+   | Beispiele                                      |      |
+   | ---------------------------------------------- | ---- |
+   | Ich gehe **mit** dir.                          |      |
+   | Ich war **beim** Arzt.                         |      |
+   | Du sollst **zu** ihm gehen.                    |      |
+   | Er kommt **aus** der Schweiz.                  |      |
+   | **Nach** der Abreit fahren wir zum Supermarkt. |      |
+   | Das Buch **von** mir.                          |      |
+
+3. 对第三格人称代词提问用wem。
 
 ## Personalpronomen im Akkusative (A) 人称代词第四格
 
@@ -636,28 +673,28 @@
 
 ## Bestimmter und unbestimmter Artikel im Dativ (D) 定冠词和不定冠词的第三格
 
-| Beispiel | unbestimmter                                                 | bestimmter                                                  |
-| :------: | ------------------------------------------------------------ | ----------------------------------------------------------- |
-|    m     | wir helfen einem (keinem) Mann.<br />我们帮助的是（不是）一位男士。 | Wir helfen dem Mann.<br />我们帮助这位男士。                |
-|    n     | Ich antworte einem (keinem) Kind.<br />我（不）回答一个孩子（的问题）。 | Ich antworte dem Kind.<br />我回答这个孩子的问题。          |
-|    f     | Sie dankt einer (keiner) Frau.<br />她（不）感谢一位女士。   | Sie dankt der Frau.<br />她感谢这位女士。                   |
-|   PI.    | Das Auto gefällt / (keinen) Kindern.<br />孩子们（不）喜欢这辆小汽车。 | Das Auto gefällt den Kindern.<br />这些孩子喜欢这辆小汽车。 |
+| Beispiele | unbestimmter                                                 | bestimmter                                                  |
+| :-------: | ------------------------------------------------------------ | ----------------------------------------------------------- |
+|     m     | wir helfen einem (keinem) Mann.<br />我们帮助的是（不是）一位男士。 | Wir helfen dem Mann.<br />我们帮助这位男士。                |
+|     n     | Ich antworte einem (keinem) Kind.<br />我（不）回答一个孩子（的问题）。 | Ich antworte dem Kind.<br />我回答这个孩子的问题。          |
+|     f     | Sie dankt einer (keiner) Frau.<br />她（不）感谢一位女士。   | Sie dankt der Frau.<br />她感谢这位女士。                   |
+|    PI.    | Das Auto gefällt / (keinen) Kindern.<br />孩子们（不）喜欢这辆小汽车。 | Das Auto gefällt den Kindern.<br />这些孩子喜欢这辆小汽车。 |
 
 说明：
 
 1. 定冠词和不定冠词在第一、第四和第三格中的变化规则可总结为：
 
-   |      |   m   |   n   |   f   | PI.  |
-   | :--: | :---: | :---: | :---: | :--: |
-   |  N   |  ein  |  ein  | eine  |  -   |
-   |  A   | einen |  ein  | eine  |  -   |
-   |  D   | einem | einem | einer |  -   |
+   | unbestimmter |   m   |   n   |   f   | PI.  |
+   | :----------: | :---: | :---: | :---: | :--: |
+   |      N       |  ein  |  ein  | eine  |  -   |
+   |      A       | einen |  ein  | eine  |  -   |
+   |      D       | einem | einem | einer |  -   |
 
-   |      |  m   |  n   |  f   | PI.  |
-   | :--: | :--: | :--: | :--: | :--: |
-   |  N   | der  | das  | die  | die  |
-   |  A   | den  | das  | die  | die  |
-   |  D   | dem  | dem  | der  | den  |
+   | bestimmter |  m   |  n   |  f   | PI.  |
+   | :--------: | :--: | :--: | :--: | :--: |
+   |     N      | der  | das  | die  | die  |
+   |     A      | den  | das  | die  | die  |
+   |     D      | dem  | dem  | der  | den  |
 
    |      |   m    |   n    |   f    |  PI.   |
    | :--: | :----: | :----: | :----: | :----: |
@@ -667,14 +704,14 @@
 
 2. 名词复数第三格要在复数形式之后再添加-n：
 
-   |             Beispiel             |
+   |            Beispiele             |
    | :------------------------------: |
    | die Kinder (N) → den Kindern (D) |
    | die Männer (N) → den Männern (D) |
 
    但当复数形式词尾已有-n或-s，则不再添加-n：
 
-   |            Beispiel             |
+   |            Beispiele            |
    | :-----------------------------: |
    |  die Autos (N) → den Autos (D)  |
    | die Frauen (N) → den frauen (D) |
@@ -877,16 +914,16 @@
 
 ## Stellung von Dativ-und Akkusativobjekt (Nomen und Personalpronomen) 第三格、第四格宾语在句中的位置（名词和人称代词）
 
-| Beispiel |                   Ein Ehepaar 一对已婚夫妇                   |                                                          |
-| :------: | :----------------------------------------------------------: | :------------------------------------------------------: |
-|   Sie    |                       Liebst du mich?                        |                        你爱我吗？                        |
-|    Er    |                  Natürlich liebe ich dich.                   |                       我当然爱你。                       |
-|   Sie    |                Dann zeig **mir** deine Liebe!                |                  那给我看看你对我的爱！                  |
-|    Er    |               Wie soll ich sie **dir** zeigen?               |                      怎么给你看呢？                      |
-|   Sie    |        Kauf **mir** Kleider und Schmuck und ein Auto!        |                  给我买衣服、首饰和车！                  |
-|    Er    | Ich kann **dir** aber kein Auto, keine Kleider und keinen Schmuck kaufen. Ich habe ken Geld. |                    我不能买。我没钱！                    |
-|   Sie    |                  Also liebst du mich nicht.                  |                       那你不爱我。                       |
-|    Er    | Doch, ich liebe dich sehr, und ich schenke **dir** jeden Tag mein Herz, aber ich kann **dir** kein Auto schenken. | 不，我很爱你，我每天都把我的真心送给你，但我没法送你车。 |
+| Beispiele |                   Ein Ehepaar 一对已婚夫妇                   |                                                          |
+| :-------: | :----------------------------------------------------------: | :------------------------------------------------------: |
+|    Sie    |                       Liebst du mich?                        |                        你爱我吗？                        |
+|    Er     |                  Natürlich liebe ich dich.                   |                       我当然爱你。                       |
+|    Sie    |                Dann zeig **mir** deine Liebe!                |                  那给我看看你对我的爱！                  |
+|    Er     |               Wie soll ich sie **dir** zeigen?               |                      怎么给你看呢？                      |
+|    Sie    |        Kauf **mir** Kleider und Schmuck und ein Auto!        |                  给我买衣服、首饰和车！                  |
+|    Er     | Ich kann **dir** aber kein Auto, keine Kleider und keinen Schmuck kaufen. Ich habe ken Geld. |                    我不能买。我没钱！                    |
+|    Sie    |                  Also liebst du mich nicht.                  |                       那你不爱我。                       |
+|    Er     | Doch, ich liebe dich sehr, und ich schenke **dir** jeden Tag mein Herz, aber ich kann **dir** kein Auto schenken. | 不，我很爱你，我每天都把我的真心送给你，但我没法送你车。 |
 
 说明：
 
@@ -904,13 +941,13 @@
 
    如果其中有一个是代词，则代词放在名词前
 
-   | Beispiel |       |             |              |
-   | :------: | :---: | :---------: | :----------: |
-   |    Ⅰ     |   Ⅱ   |      Ⅲ      |      Ⅳ       |
-   |    Er    | zeigt | seiner Frau | seine Liebe. |
-   |    Er    | zeigt |     ihr     | seine Liebe. |
-   |    Er    | zeigt |     sie     | seiner Frau. |
-   |    Er    | zeigt |     sie     |     ihr.     |
+   | Beispiele |       |             |              |
+   | :-------: | :---: | :---------: | :----------: |
+   |     Ⅰ     |   Ⅱ   |      Ⅲ      |      Ⅳ       |
+   |    Er     | zeigt | seiner Frau | seine Liebe. |
+   |    Er     | zeigt |     ihr     | seine Liebe. |
+   |    Er     | zeigt |     sie     | seiner Frau. |
+   |    Er     | zeigt |     sie     |     ihr.     |
 
 ## Woher？Wohin？Wo？
 
@@ -1044,22 +1081,22 @@
 
 ### Modalverben im Präteritum 情态助动词的过去时
 
-| Beispiel                                                     |            |                            |
+| Beispiele                                                    |            |                            |
 | ------------------------------------------------------------ | :--------: | -------------------------- |
 | Er kann heute die Büucher nicht nach China schicken.         |  Präsens   | 他今天没能把书寄往中国。   |
 | Er konnte gestern die Bücher auch nicht nach China schicken. | Präteritum | 他昨天也没能把书寄往中国。 |
 
-|      | wollen<br />(möchten) |  müssen  |  dürfen  |  können  |  sollen  |
-| :--: | :-------------------: | :------: | :------: | :------: | :------: |
-| ich  |        wollte         |  musste  |  durfte  |  konnte  |  sollte  |
-|  du  |       wolltest        | musstest | durftest | konntest | solltest |
-|  er  |                       |          |          |          |          |
-| sie  |        wollte         |  musste  |  durfte  |  konnte  |  sollte  |
-|  es  |                       |          |          |          |          |
-| wir  |        wollten        | mussten  | durften  | konnten  | sollten  |
-| ihr  |        wolltet        | musstet  | durftet  | konntet  | solltet  |
-| sie  |        wollten        | mussten  | durften  | konnten  | sollten  |
-| Sie  |        wollten        | mussten  | durften  | konnten  | sollten  |
+|      | wollen<br />(möchten)wollten | müssen<br />mussten | dürfen<br />durften | können<br />konnten | sollen<br />sollten |
+| :--: | :--------------------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
+| ich  |            wollte            |       musste        |       durfte        |       konnte        |       sollte        |
+|  du  |           wolltest           |      musstest       |      durftest       |      konntest       |      solltest       |
+|  er  |                              |                     |                     |                     |                     |
+| sie  |            wollte            |       musste        |       durfte        |       konnte        |       sollte        |
+|  es  |                              |                     |                     |                     |                     |
+| wir  |           wollten            |       mussten       |       durften       |       konnten       |       sollten       |
+| ihr  |           wolltet            |       musstet       |       durftet       |       konntet       |       solltet       |
+| sie  |           wollten            |       mussten       |       durften       |       konnten       |       sollten       |
+| Sie  |           wollten            |       mussten       |       durften       |       konnten       |       sollten       |
 
 说明：
 
@@ -1217,7 +1254,7 @@
 
 ## Perfekt 现在完成时
 
-| Beispiel                              |      | 现在完成时的构成：haben / sein + Partizip Perfekt (P. Ⅱ) |
+| Beispiele                             |      | 现在完成时的构成：haben / sein + Partizip Perfekt (P. Ⅱ) |
 | ------------------------------------- | :--: | -------------------------------------------------------- |
 | Er feiert heute seinen 20. Geburstag. |  →   | Er hat gestern seinen 20. Geburtstag gefeiert.           |
 | Ich stehe um 6 Uhr auf.               |  →   | Ich bin aufgestanden.                                    |
@@ -1285,7 +1322,7 @@
 
 5. 时间助动词haben，sein和情态助动词一般多用它们的过去时表示已经发生的状态、行为
 
-   |             Beispiel              |                  |
+   |             Beispiele             |                  |
    | :-------------------------------: | :--------------: |
    |        Gestern war Montag.        |   昨天是周一。   |
    |    Früher hatte ich viel Geld.    | 我以前有很多钱。 |
@@ -1295,7 +1332,7 @@
 
 ### Bei bestimmten und unbestimmten Artikeln und Possessivpronomen 形容词在定冠词、不定冠词和物主代词后的变格
 
-| Beispiel                                                     |                                                              |
+| Beispiele                                                    |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Ein Mann ist alt. Ein Pullover ist grau.                     | Ein alter Mann möchte einen grauen Pullover kaufen.          |
 | Der Vater ist jung. Sein Kind ist klein. Die Geschichte ist lang. | Der junge Vater erzählt seinem kleinen Kind eine lange Geschichte. |
@@ -1329,7 +1366,7 @@
 
 ### Nullartikel 形容词在零冠词后的词尾变化
 
-| Beispiel                                                     |                                                |
+| Beispiele                                                    |                                                |
 | ------------------------------------------------------------ | ---------------------------------------------- |
 | Ich möchte Tee trinken.<br />Trinken Sie schwarzen Tee oder grünen Tee?<br />Grünen Tee, bitte. | 我想喝茶。<br />您喝红茶还是绿茶？<br />绿茶。 |
 | Sie möchte zwei moderne Kleider kaufen.                      | 她想买两件时尚的连衣裙。                       |
@@ -1623,12 +1660,14 @@
 | **Q** | Um wie viel Uhr hat er eine Besprechung?   |                    |
 | **Q** | **´´==Wie lange== machst du Sport?**       |                    |
 | **A** | Anderthalb Stunden                         |                    |
+| **Q** | Wie lange dauren die Sommerferien?         |                    |
+| **Q** | Wie lange dauert das?                      |                    |
 | **Q** | **==Mit wem== Spielst du Tennis?**         |                    |
 | **A** | Mit meinen Freunden.                       |                    |
 | **Q** | **==Um wie viel Uhr geht's los?==**        | 什么时候出发？     |
 | **A** | Los geht's!                                |                    |
 
-| Beispiel                          |      |                      |
+| Beispiele                         |      |                      |
 | --------------------------------- | ---- | -------------------- |
 | Wann stehst du am Sonntag auf?    |      | am/bis + Tag         |
 | Und wann stehst du am Montag auf? |      | um + Zeit            |
@@ -1681,7 +1720,7 @@
 | Wochenende | Samstag und Sonntag |
 | :--------: | :-----------------: |
 
-| Welcher Tag ist heute?                                       | 今天是周几？    |
+| Welcher Tag ist heute?/ Welchen Tag haben wir heute?         | 今天是周几？    |
 | ------------------------------------------------------------ | --------------- |
 | Heute ist Freitag.                                           |                 |
 | Am Freitag mache ich einen Deutschkurs.                      | der Deutschkurs |
@@ -1727,6 +1766,14 @@
 |    前天    |  昨天   | 今天  |         明天         |    后天    |
 |            |         |       | morgen früh 明天早上 |            |
 
+| früher/ vorher | heute |
+| :------------: | :---: |
+|      以前      | 现在  |
+
+| zuerst | dann/danach/anschließend | zum Schluss/am Ende |
+| :----: | :----------------------: | :-----------------: |
+|  首先  |           然后           |        最后         |
+
 | die Minute, -n     |                               |
 | ------------------ | ----------------------------- |
 | **die Stunde, -n** |                               |
@@ -1760,7 +1807,7 @@
 
 #### 介词搭配
 
-|    Beispiel     |
+|    Beispiele    |
 | :-------------: |
 |    am Abend     |
 |   am Freitag    |
@@ -2161,8 +2208,6 @@
 | Der Platz ist frei.       |    空     | Der Platz ist besetzt.       | 被占 |
 | Die Orange ist süß.       |    甜     | Der Orange ist sauer.        |  酸  |
 
-
-
 | Welche Lebensmittel kaufen Sie wo?                           | 您从什么地方买什么食物？                           |
 | ------------------------------------------------------------ | -------------------------------------------------- |
 | Was kauft man(非特指)/ kaufen Sie auf dem Mrakt/ im Supermarkt/ beim Bäcker/ in der Bäkerei/ in der Fleischerei/im Obstladen? | 在露天市场、超市、面包房、肉铺、水果铺人们买什么？ |
@@ -2241,7 +2286,7 @@
 
 |                          Verkäufer                           | Kunde               |                              |
 | :----------------------------------------------------------: | ------------------- | ---------------------------- |
-|                      Was darf es sein?                       | Ich hätte gern      | 2 Kilo Kartoffeln / 5 Äpfel. |
+|        Was darf es sein?<br />Kann ich Ihnrn helfen?         | Ich hätte gern      | 2 Kilo Kartoffeln / 5 Äpfel. |
 |                     Sie wünschen bitte?                      | Geben Sie mir bitte | einen Liter Milch.           |
 |                         Bitte schön?                         | Ich möchte          | 200 g Käse / 4 Brötchen.     |
 |                      Was brauchen Sie?                       | Ich nehme           | eine Flasche Ketchup.        |
@@ -2251,14 +2296,15 @@
 | Darf es sonst noch etwas sein?/Sonst noch etwas?/Brauchen Sie sonst noch etwas? | Das ist alles.      |                              |
 |        Wir haben heute Rindfleisch besonders billig.         |                     |                              |
 
-|                            Kunde                             |                          Verkäufer                           |                    |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: |
-|         Wie viel kosten/Was kostet ein Pfund Äpfel?          | Ein Pfund Äpfel kostet 1,99 Euro./ 1,99 Euro der Pfund/das Kilo. |                    |
-|                  Wie teuer ist die Tasche?                   |                    Die Tasche kostet ...                     |                    |
-|                        Was mach das?                         |                Das macht zusammen 5,50 Euro.                 |                    |
-|                   Bitte, hier sind 8 Euro.                   |                    Danke, 72 Cent zurück!                    |        找钱        |
-| Ich möchte bitte Gurken./Haben Sie ...?/ Gibt es (heute)....? |       Oh, tut mir leid. Leider haben wir keine Gurken.       | 很遗憾我们没黄瓜。 |
-|                  Wo sind bitte die Tomaten?                  |                Die Tomaten sind dort hinten.                 |     在那后面。     |
+|                            Kunde                             |                        |                          Verkäufer                           |                    |
+| :----------------------------------------------------------: | ---------------------- | :----------------------------------------------------------: | :----------------: |
+|       Kann ich bei Ihnen Briefmarken bekommen/kriegen?       | 我能在你这买到邮票吗？ |                                                              |                    |
+|         Wie viel kosten/Was kostet ein Pfund Äpfel?          |                        | Ein Pfund Äpfel kostet 1,99 Euro./ 1,99 Euro der Pfund/das Kilo. |                    |
+|                  Wie teuer ist die Tasche?                   |                        |                    Die Tasche kostet ...                     |                    |
+|                        Was mach das?                         |                        |                Das macht zusammen 5,50 Euro.                 |                    |
+|                   Bitte, hier sind 8 Euro.                   |                        |                    Danke, 72 Cent zurück!                    |        找钱        |
+| Ich möchte bitte Gurken./Haben Sie ...?/ Gibt es (heute)....? |                        |       Oh, tut mir leid. Leider haben wir keine Gurken.       | 很遗憾我们没黄瓜。 |
+|                  Wo sind bitte die Tomaten?                  |                        |                Die Tomaten sind dort hinten.                 |     在那后面。     |
 
 | **Er geht auf den Markt/ in den Supermarkt.**                | **他去市场/超市。**                    |
 | ------------------------------------------------------------ | -------------------------------------- |
@@ -2294,11 +2340,114 @@
 | Haben Sie doch Geduld!                                       |      |
 | Seien Sie bitte ruhig./ Sei bitte ruhig!                     |      |
 
+## Auf der Post/ Auf dem Postamt
+
+| Wortschatz                            |                                |
+| ------------------------------------- | ------------------------------ |
+| das Paket, -e                         | 包裹                           |
+| die Postkarte, -n                     | 明信片                         |
+| der Brief, -e                         | 信                             |
+| das Fax, -e                           | 传真                           |
+| das Päckchen, -                       | 小包裹                         |
+| das Briefpapier                       | 信纸                           |
+| die Telefonkarte, -n                  | 电话卡                         |
+| der Briefumschlag, die Briefumschläge | 信封                           |
+| die Briefmarke, -n                    | 邮票 Briefmarken sammeln(集邮) |
+
+| Wohin              |
+| ------------------ |
+| nach China         |
+| in die Schweiz     |
+| in die Türkei      |
+| in die USA         |
+| in die Niederlande |
+
+| Beispiele        |                                                              |
+| ---------------- | ------------------------------------------------------------ |
+| Kunde            | Ich möchte das Paket/ dem Brief nach China schicken/senden.  |
+| Postangestellter | Per Luftpost, per Schiff/ per Seeweg, per DHL oder per Bahn/ per Landweg? |
+| Kunde            | Per Luftpost.                                                |
+| Postangestellter | Gut. Ihr Paket wiegt fünf Kilo./Ihr Brief wiegt 20 Gramm.    |
+| Kunde            | Wie viel kostet das?(das不需要变，表代指)                    |
+| Postangestellter | 40,00 Euro.                                                  |
+| Kunde            | Hier sind 40,00 Euro                                         |
+| Postangestellter | Ungefähr 5 Tage/eine Woche.                                  |
+
+| Beispiele                                           |                        |
+| --------------------------------------------------- | ---------------------- |
+| Wie schwer ist das Päckchen/ der Berief/ das Paket? | 包裹多重？             |
+| Der Koffer ist sehr schwer.                         | 箱子很重。             |
+| Es wiegt 2,5 Kilo.                                  |                        |
+| Wie lange dauert ein Brief in die USA?              | 一封信寄到美国要多久？ |
+| Ungefähr eine Woche.                                | 大约一周               |
+| Kann ich bei Ihnen Briefmarken bekommen/kriegen?    | 我能在你这买到邮票吗？ |
+
+| Briefumschlag                                                | 信封                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Absender:<br />Name Vorname (N)<br />Straße(Str.) und Hausnummer<br />Posleitzahl(PLZ) Ort<br />Staat |                                                              |
+|                                                              | Empfänger:<br />Anrede Tittel (A)<br />Straße(Str.) und Hausnummer<br />Posleitzahl(PLZ) Ort<br />Staat |
+
+| Abkürzungen |                          |
+| ----------- | ------------------------ |
+| Str.        | Strße                    |
+| c/o         | bei (care of) 由什么转交 |
+| App.        | Appartement              |
+| z.H (z.Hd.) | zu Händen (für) 亲启     |
+| Zi.         | Zimmer                   |
+
+## die Einladung
+
+| Beispiele                                                    |                                 |
+| ------------------------------------------------------------ | ------------------------------- |
+| Ich möchte dich ins Konzert einladen.                        | 我想邀请你去音乐会。            |
+| Wann/Wo findet das Konzert statt?                            | 音乐会何时/何地举行？           |
+| Bitte kommen Sie mit Ihrer Frau.                             | 请您和您的夫人一块来。          |
+| Ich betelle/buche gleich die Karten.                         | 我马上去买票。                  |
+| Ich muss mal nachfragen.                                     | 我必须先问一下。                |
+| Ich hole Sie zu Hause ab.<br />Ich hole die Kinder von der Schule ab. | 我去您家接您。/我去学校接孩子。 |
+| Ich muss das/den Termin aufschreiben.                        | 我必须记下这个/这个约定。       |
+| Keine Anhung.                                                | 我不知道。                      |
+
+
+
+## Redewendungen
+
+| Redewendungen                                                |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Komm gut nach Hause!<br />Kommen Sie gut nach Hause!<br />Kommt gut nach Hause! | 路上注意安全！<br />请您路上注意安全！<br />请你们路上注意安全！ |
+| Gute Reise!                                                  | 一路顺风                                                     |
+| Gute Besserung!                                              | 祝你早日康复!                                                |
+| Herzlichen Glückwunsch!                                      | 衷心祝贺你!                                                  |
+| Viel Erfolg!                                                 | 祝成功！                                                     |
+| Viel Spaß!                                                   | 祝愉快！                                                     |
+| Gesundheit!                                                  | 祝健康!                                                      |
+| Guten Appetit!                                               | 祝胃口好！                                                   |
+| Entschuldigung!                                              | 抱歉！                                                       |
+| Ich gratuliere!                                              | 恭喜你!                                                      |
+| Hcoh soll er leben, noch soll er leben, dreimal hoch!        | 长命百岁！                                                   |
+
+| Herzlichen Glückwunsch<br />Alles Gute<br />Alle guten Wünsche<br />Ich gratuliere dir | zu + Dative(zum/zur)<br />der-dem<br />das-dem<br />die-der<br />die-den (zu den)无缩写<br />三格形容词＋en |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| der Geburstatg                                               | Alles Gute zum Geburtstag.                                   |      |
+| die Hochzeit                                                 | Ich gratuliere die zur Hochzeit.                             |      |
+| die bestandene Deutsch-Prüfung                               | Alle guten Wünsche zur bestandenen Deutsch-Prüfung.          |      |
+| die Beförderung                                              | Herzlichen Glückunsch zur Beförderung.                       |      |
+
+| Beispiele                      |              |
+| ------------------------------ | ------------ |
+| Ich mache mnorgen die Prüfung. | Viel Erfolg. |
+|                                |              |
+|                                |              |
+|                                |              |
+|                                |              |
+|                                |              |
+|                                |              |
+
 
 
 ## der Unterricht,-e
 
-| Beispiel                                                     |                                                 |
+| Beispiele                                                    |                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- |
 | Wen fragt der Lehrer? Fragt er mich?                         | 老师在问谁？问我吗？                            |
 | Verstehen Sie?/Alles klar? Ja, alles klar.                   | 你听懂了吗？                                    |
