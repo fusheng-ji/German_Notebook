@@ -1,3 +1,5 @@
+![](images/DACHL-Länder.jpg)
+
 # Phonetik
 
 1. 元音在下列情况下发长音
@@ -230,18 +232,18 @@
 2. 当规则动词词干以**t、d、ffn、chn**等结尾时，动词在第二人称单数、复数、及第三人称单数时变位**词尾前要加上-e**。方便发音
 3. **sein、wissen、werden**属于不规则动词，其具有特殊变位形式。
 
-|      |    读     |     睡觉     |  拿&乘坐   |     跑     |    拿住    |     看     |    有    |    开车    |    吃    |      说      | 推撞      |
-| :--: | :-------: | :----------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | :------: | :----------: | --------- |
-|      |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    |
-| ich  |   lese    |   schlafe    |   nehme    |   laufe    |   halte    |    sehe    |   habe   |   fahre    |   esse   |   spreche    | stoßen    |
-|  du  | **liest** | **schläfst** | **nimmst** | **läufst** | **hältst** | **siehst** | **hast** | **fährst** | **isst** | **sprichst** | **stößt** |
-|  er  |           |              |            |            |            |            |          |            |          |              |           |
-| sie  | **liest** | **schläft**  | **nimmt**  | **läuft**  |  **hält**  | **sieht**  | **hat**  | **fährt**  | **isst** | **spricht**  | **stößt** |
-|  es  |           |              |            |            |            |            |          |            |          |              |           |
-| wir  |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    |
-| ihr  |   lest    |   schlaft    |   nehmt    |   lauft    | **haltet** |    seht    |   habt   |   fahrt    |   esst   |   sprecht    | stoßt     |
-| sie  |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    |
-| Sie  |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    |
+|      |    读     |     睡觉     |  拿&乘坐   |     跑     |    拿住    |     看     |    有    |    开车    |    吃    |      说      | 推撞      | 喜欢      |
+| :--: | :-------: | :----------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | :------: | :----------: | --------- | --------- |
+|      |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    | mögen     |
+| ich  |   lese    |   schlafe    |   nehme    |   laufe    |   halte    |    sehe    |   habe   |   fahre    |   esse   |   spreche    | stoße     | **mag**   |
+|  du  | **liest** | **schläfst** | **nimmst** | **läufst** | **hältst** | **siehst** | **hast** | **fährst** | **isst** | **sprichst** | **stößt** | **magst** |
+|  er  |           |              |            |            |            |            |          |            |          |              |           |           |
+| sie  | **liest** | **schläft**  | **nimmt**  | **läuft**  |  **hält**  | **sieht**  | **hat**  | **fährt**  | **isst** | **spricht**  | **stößt** | **mag**   |
+|  es  |           |              |            |            |            |            |          |            |          |              |           |           |
+| wir  |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    | mögen     |
+| ihr  |   lest    |   schlaft    |   nehmt    |   lauft    | **haltet** |    seht    |   habt   |   fahrt    |   esst   |   sprecht    | stoßt     | mögt      |
+| sie  |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    | mögen     |
+| Sie  |   lesen   |   schlafen   |   nehmen   |   laufen   |   halten   |   sehen    |  haben   |   fahren   |  essen   |   sprechen   | stoßen    | mögen     |
 
 特殊变位：
 
@@ -258,16 +260,18 @@
 
 2. **haben**是具有特殊变位形式的不规则动词
 
-| Ich schlafe sehr gern. Schläfst du auch gern?                | 我非常喜欢睡觉。你也喜欢睡觉吗？                        |
-| ------------------------------------------------------------ | ------------------------------------------------------- |
-| **Er fährt heute zum Flughafen / Supermarkt. wohin fährt er heute? Er fährt nach Berlin.** | **他今天要去机场/超市。他今天要去哪里？他要去柏林了。** |
-| **Das Kind läuft sehr schnell.**                             | **这个孩子走得非常快。**                                |
-| **Meine Mutter sieht gern Film.**                            | **我母亲喜欢看电影。**                                  |
-| **Mein Vater isst gern Kuchen.**                             | **我父亲喜欢吃蛋糕。**                                  |
-| **Sie spricht gut Deutsch.**                                 | **她的德语说得很好.**                                   |
-| **Er liest gern Buch.**                                      | **他喜欢看书。**                                        |
-| **Mary nimmt zwei Äpfel.**                                   | **玛丽拿了两个苹果。**                                  |
-| **Ich habe drei Kinder. Hast du auch Kinder?**               | **我有三个孩子。你也有孩子吗？**                        |
+| Beispiele                                                    |                                                     |
+| ------------------------------------------------------------ | --------------------------------------------------- |
+| Ich schlafe sehr gern. Schläfst du auch gern?                | 我非常喜欢睡觉。你也喜欢睡觉吗？                    |
+| Er fährt heute zum Flughafen / Supermarkt. wohin fährt er heute? Er fährt nach Berlin. | 他今天要去机场/超市。他今天要去哪里？他要去柏林了。 |
+| Das Kind läuft sehr schnell.                                 | 这个孩子走得非常快。                                |
+| Meine Mutter sieht gern Film.                                | 我母亲喜欢看电影。                                  |
+| Mein Vater isst gern Kuchen.                                 | 我父亲喜欢吃蛋糕。                                  |
+| Sie spricht gut Deutsch.                                     | 她的德语说得很好.                                   |
+| Er liest gern Buch.                                          | 他喜欢看书。                                        |
+| Mary nimmt zwei Äpfel.                                       | 玛丽拿了两个苹果。                                  |
+| Ich habe drei Kinder. Hast du auch Kinder?                   | 我有三个孩子。你也有孩子吗？                        |
+| Er mag Ritter so gern.                                       | 他是如此喜欢骑士。                                  |
 
 ## Präteritum von haben und sein 动词haben和sein的过去时
 
@@ -376,6 +380,27 @@
    | wieder-holen<br />可分时为“取回来”，不可分时“复习” | Sie holt den Brief wieder. 她取回那封信。<br />Sie wiederholt zu Hause das Gelernte. 她在家复习已经学过的东西。 |
    | über-setzen<br />可分时“使渡河”，不可分时“翻译”    | Der Schiffer setzt sie über. 船工渡她过河。<br />Sie übersetzt den deutschen Roman. 她翻译这本德国小说。 |
 
+| Ein Tag im Leben von Frau Müller                             |                                  |
+| ------------------------------------------------------------ | -------------------------------- |
+| Um 6 Uhr 30 **weckt** sie die Kinder **auf**.                | aufwecken                        |
+| Dann **bereitet** sie das frühstück **vor**.                 | vorbereiten                      |
+| Nach dem Frühstück **räumt** sie den Tisch **ab** und macht die Küche. | abräumen                         |
+| Dann **bringt** sie ihre Tochter in den Kindergarten und ihren sohn in die Schule. | bringen                          |
+| Um 8 Uhr 30 **fängt** sie mit ihrer Arbeit im Büro **an**.   | anfangen                         |
+| Sie **bereitet** eine Präsentation **vor**, **schreibt** Briefe und **ruft** ihre Kunden **an**. | vorbereiten, schreiben, anruften |
+| Um 13 Uhr **fährt** sie nach Hause und **holt** ihre Tochter vom Kindergarten und ihren Sohn von einer Freundin **ab**. | fahren, abholen                  |
+| Sie **kocht** den beiden ein Mittagessen.                    | kochen                           |
+| Nach dem Mittagessen **helft** sie ihrem Sohn bei den Hausaufgaben. | helfen                           |
+| Am Nachmittag **räumt** sie die Wohnung **auf**.             | aufräumen                        |
+| Danach **kauft** sie im Supermarkt **ein**.                  | einkaufen                        |
+| Ihre Kinder **sehen** im Wohnzimmer **fern** und sie sagt zu ihnen: "Aber nach diesem Film **macht** ihr den Fernseher **aus**!" | fernsehen, ausmacht              |
+| Sie **deckt** den Tisch fürs Abendessen.                     | decken                           |
+| Nach dem Abendessen **hängt** sie die Wäsche zum Trocknen **auf**. | aufhängen                        |
+| Dabei denkt sie:"**Hört** dieser Tag denn nie **auf**?"      | aufhören                         |
+| Doch nach zwei Studen am Schreibtisch **liegt** sie um 23 Uhr endlich im Bett und **schlaft** **ein**. | liegen, einschlafen              |
+
+
+
 ## Possessivpronomen im Nominativ (N) 物主代词第一格
 
 一格（N ）：名词作主语或表语
@@ -416,7 +441,7 @@
 
 |       | m/n  |       |  f   |       | PI.  |                      |
 | :---: | :--: | :---: | :--: | :---: | :--: | :------------------: |
-| mein  | -em  | mein  | -er  | nein  | -en  | Kindern/Studentinnen |
+| mein  | -em  | mein  | -er  | mein  | -en  | Kindern/Studentinnen |
 | dein  | -em  | dein  | -er  | dein  | -en  |                      |
 | sein  | -em  | sein  | -er  | sein  | -en  |                      |
 |  ihr  | -em  |  ihr  | -er  |  ihr  | -en  |                      |
@@ -527,6 +552,7 @@
    | Das Essen im Hotel schmeckt mir sehr.                        | 我非常喜欢旅馆的饭。<br />schmecken(schmeckt) |
    | Der Schüler antwortet mir auf meine Frage.                   | 那个学生回答了我的问题。                      |
    | Das Kleid passt ihr sehr gut.                                | 那个裙子非常合她的身。passen(passt)           |
+   | Das Kleid steht mir sehr gut.                                | 裙子的款式很适合。                            |
 
    除此之外，在一些固定搭配中也出现第三格形式的人称代词，例如：
 
@@ -542,6 +568,7 @@
 
    | Beispiele                                      |      |
    | ---------------------------------------------- | ---- |
+   | **aus bei mit nach seit von zu**               |      |
    | Ich gehe **mit** dir.                          |      |
    | Ich war **beim** Arzt.                         |      |
    | Du sollst **zu** ihm gehen.                    |      |
@@ -941,13 +968,13 @@
 
    如果其中有一个是代词，则代词放在名词前
 
-   | Beispiele |       |             |              |
-   | :-------: | :---: | :---------: | :----------: |
-   |     Ⅰ     |   Ⅱ   |      Ⅲ      |      Ⅳ       |
-   |    Er     | zeigt | seiner Frau | seine Liebe. |
-   |    Er     | zeigt |     ihr     | seine Liebe. |
-   |    Er     | zeigt |     sie     | seiner Frau. |
-   |    Er     | zeigt |     sie     |     ihr.     |
+   | Beispiele人三物四 | 双名词，先三后四 | 一代一名，先代后名 | 双代词，先四后三 |
+   | :---------------: | :--------------: | :----------------: | :--------------: |
+   |         Ⅰ         |        Ⅱ         |         Ⅲ          |        Ⅳ         |
+   |        Er         |      zeigt       |    seiner Frau     |   seine Liebe.   |
+   |        Er         |      zeigt       |        ihr         |   seine Liebe.   |
+   |        Er         |      zeigt       |        sie         |   seiner Frau.   |
+   |        Er         |      zeigt       |        sie         |       ihr.       |
 
 ## Woher？Wohin？Wo？
 
@@ -2408,7 +2435,65 @@
 | Ich muss das/den Termin aufschreiben.                        | 我必须记下这个/这个约定。       |
 | Keine Anhung.                                                | 我不知道。                      |
 
+## das Geschenk, -e
 
+| Geschenke                        |                              |
+| -------------------------------- | ---------------------------- |
+| das Seidentuch, die Seidentücher | 丝巾                         |
+| der Wein                         | 酒                           |
+| die VCD, -s                      | VCD                          |
+| das Buch, die Bücher             | 书                           |
+| das Porzellan                    | 瓷器                         |
+| das Fotoalbum, die Fotoalben     | 相册                         |
+| der Tabak                        | 烟斗                         |
+| das Spielzeug                    | 玩具                         |
+| das Obst                         | 水果                         |
+| der Schmuck                      | 首饰                         |
+| die Kalligraphie, -n             | 书法                         |
+| die Blume, -n                    | 花                           |
+| die Tischdecke, -n               | 桌布                         |
+| die Torte, -n                    | 圆形蛋糕 die Geburstagstorte |
+| die Zigarette, -n                | 烟草                         |
+| der Scherenschnitt, -e           | 剪影                         |
+| der Tee                          | 茶叶                         |
+| die Kleidung                     | 衣服                         |
+| der Füller, -                    | 钢笔                         |
+| die Krawatte, -n                 | 领带                         |
+| die Konzertkarte, -n             | 音乐会门票                   |
+| die CD, -s                       | CD                           |
+| das Rollbild, -er                | 画卷                         |
+| die Uhr, -en                     | 表                           |
+| die Schkolade                    | 巧克力                       |
+
+## Vorschläge, zustimmen und ablehnen
+
+| Vorschläge                                    |      |
+| --------------------------------------------- | ---- |
+| Wir können ihr (etwas) schenken.              |      |
+| Ich habe eine Idee.                           |      |
+| Was findest du besser: (etwas) oder (etwas) ? |      |
+| Sollen wir (jemanden) ein Geschenk machen?    |      |
+| Sollen wir (jemanden) schenken?               |      |
+| Wie findest du das: ...                       |      |
+| Ich schlage vor: ...                          |      |
+
+| zustimmen                 |      |
+| ------------------------- | ---- |
+| Das geht nicht.           |      |
+| Das finde ich gut.        |      |
+| Na gut, einverstanden.    |      |
+| Ja, machen wir das.       |      |
+| Sehr gut, das machen wir! |      |
+| Das ist eine gute Idee.   |      |
+| Na prima!                 |      |
+
+| ablehenen                 |      |
+| ------------------------- | ---- |
+| Das geht nicht.           |      |
+| Das finde ich nicht gut.  |      |
+| Besser nicht.             |      |
+| Ich finde ... besser.     |      |
+| Nein, das ist langweilig. |      |
 
 ## Redewendungen
 
@@ -2442,8 +2527,6 @@
 |                                |              |
 |                                |              |
 |                                |              |
-
-
 
 ## der Unterricht,-e
 
