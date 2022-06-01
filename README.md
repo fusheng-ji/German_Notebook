@@ -1,5 +1,3 @@
-![](images/DACHL-Länder.jpg)
-
 # Phonetik
 
 1. 元音在下列情况下发长音
@@ -208,8 +206,23 @@
 | [zion]      |      |      |
 | [ismus]     |      |      |
 
-
 # Grammatik
+
+## Verben
+
+## Nomen und Artikel
+
+## Adjektive
+
+## Pronomen
+
+## Präpositionen
+
+## Fragen
+
+## Satzstellung
+
+## Konjunktionen
 
 ## Personalpronomen im Nominativ (N) und Konjugation der Verben im Präsens 人称代词第一格和动词现在时变位
 
@@ -537,6 +550,12 @@
 |          Er bestellt ihr eine Karte.           | 他给她订购了一张卡片。                     |
 |      Der Hausaufgaben sind mir zu schwer.      | 作业对我来说太难了。                       |
 |         Der Pullover ist ihm zu teuer.         | 套头衫对他来说太贵了。                     |
+|            Wer schenkt ihm Schuhe?             |                                            |
+|            Wem schenkt sie Schmuck?            |                                            |
+|  Was schenkt er seiner Mutter zum Geburtstag?  |                                            |
+|  Er bringt seiner Frau einen Starauß Blumen.   |                                            |
+|           Er leiht ihnen 2000 Yuan.            |                                            |
+|   Er empfiehlt uns einen Film/ eine Romane.    |                                            |
 
 说明：
 
@@ -1250,7 +1269,7 @@
 
 3. 非尊称命令式用在与家人、亲戚、同学、同事、好朋友等之间以及小孩说话。
 
-## n-Deklination 弱变化名词
+## n-Deklination 阳性名词弱变化
 
 |            N             |               A                |               D                |
 | :----------------------: | :----------------------------: | :----------------------------: |
@@ -1275,9 +1294,9 @@
 1. 几乎所有弱变化名词都是阳性名词
 2. 弱变化名词单数在第三格、第四格中都要加上词尾-n或-en
 3. 弱变化名词包括：
-   1. 所有以-e结尾的阳性名词，如Chinese，Kollege等
-   2. 所有以-ent，-ist，-and，-ant结尾的阳性名词，如Assistent，Optimist等
-   3. 特殊形式：如Herr，Nachbar，Mensch等
+   1. 所有以-e结尾的阳性名词表示人或动物或某国男人，如Chinese，Kollege等
+   2. 所有以-ent，-ist，-and，-ant，-loge，-graph，-at，-nom结尾的阳性名词，如Assistent，Optimist，Biologe，Elefant，Doktorand，Astronom，Student等
+   3. 特殊形式：如Herr，Nachbar，Mensch，der Bär等
 
 ## Perfekt 现在完成时
 
@@ -1421,65 +1440,9 @@
 
 # Notizen
 
-## das Land, die Länder und die Sprache, -n und  die Leute
+## Zahlen 数字
 
-| in Asien | in Europa | in Amerika | in Afrika | in Ozeanien |
-| :------: | :-------: | :--------: | :-------: | :---------: |
-|   亚洲   |   欧洲    |    美洲    |   非洲    |   大洋洲    |
-
-|         Deutsch         |            Sprachen            |           der Mann            |         die Frau          |         die Leute         |               Chinese               |
-| :---------------------: | :----------------------------: | :---------------------------: | :-----------------------: | :-----------------------: | :---------------------------------: |
-|          China          |           Chinesisch           |          der Chinese          |       die Chinesin        |       die Chinesen        |                中国                 |
-|       Deutschland       |            Deutsch             |         der Deutsche          |       die Deutsche        |       die Deutschen       |                德国                 |
-|      ==**Aber**==       | **Ich bin ==Deutscher==.(m.)** | **Ich bin ==Deutsche==.(f.)** | **Er ist ==Deutscher==.** | **Sie ist ==Deutsche==.** | **Sie/Wir sind ==Deutsche==.(PI.)** |
-|        Russland         |            Russisch            |           der Russe           |        die Russin         |        die Russen         |               俄罗斯                |
-|       Frankreich        |          Französisch           |         der Franzose          |       die Französin       |       die Franzosen       |                法国                 |
-|     Großbritannien      |            Englisch            |         der Engländer         |      die Engländerin      |       die Engländer       |                英国                 |
-| Amerika / die USA (PI.) |            Englisch            |        der Amerikaner         |     die Amerikanerin      |      die Amerikaner       |                美国                 |
-|          Japan          |           Japanisch            |          der Japaner          |       die Japanerin       |        die Japaner        |                日本                 |
-|         Italien         |          Italienisch           |         der Italiener         |      die Italienerin      |       die Italiener       |               意大利                |
-|       Australien        |            Englisch            |        der Australier         |     die Australierin      |      die Australier       |              澳大利亚               |
-|         Spanien         |            Spanisch            |          der Spanier          |       die Spanierin       |        die Spanier        |               西班牙                |
-|       Österreich        |            Deutsch             |       der Österreicher        |    die Österreicherin     |     die Österreicher      |               奥地利                |
-|          Korea          |           Koreanisch           |         der Koreaner          |      die Koreanerin       |       die Koreaner        |                韩国                 |
-|         Indien          |            Indisch             |           der Inder           |        die Inderin        |         die Inder         |                印度                 |
-|    die Schweiz (f.)     |            Deutsch             |         der Schweizer         |      die Schweizerin      |       die Schweizer       |                瑞士                 |
-|      der Irak (m.)      |                                |                               |                           |                           |               伊拉克                |
-|      der Iran (m.)      |                                |                               |                           |                           |                伊朗                 |
-|         Irland          |                                |                               |                           |                           |               爱尔兰                |
-|  die Niederlande (PI.)  |                                |                               |                           |                           |                荷兰                 |
-|         Belgien         |                                |                               |                           |                           |               比利时                |
-|        Luxemburg        |                                |                               |                           |                           |               卢森堡                |
-|        Portugal         |                                |                               |                           |                           |               葡萄牙                |
-|          Polen          |                                |                               |                           |                           |                波兰                 |
-|        Kroatien         |                                |                               |                           |                           |              克罗地亚               |
-|        Rumänien         |                                |                               |                           |                           |              罗马尼亚               |
-|        Bulgarien        |                                |                               |                           |                           |              保加利亚               |
-|        Albanien         |                                |                               |                           |                           |             阿尔巴尼亚              |
-|      Griechenland       |                                |                               |                           |                           |                希腊                 |
-|     die Türkei (f.)     |                                |                               |                           |                           |               土耳其                |
-|        Dänemark         |                                |                               |                           |                           |                丹麦                 |
-|        Finnland         |                                |                               |                           |                           |                芬兰                 |
-|        Schwenden        |                                |                               |                           |                           |                瑞典                 |
-|        Norwegen         |                                |                               |                           |                           |                挪威                 |
-|         Estland         |                                |                               |                           |                           |              爱沙尼亚               |
-|        Lettland         |                                |                               |                           |                           |              拉脱维亚               |
-|         Litauen         |                                |                               |                           |                           |               立陶宛                |
-|         Island          |                                |                               |                           |                           |                冰岛                 |
-|    die Ukraine (f.)     |                                |                               |                           |                           |               乌克兰                |
-|      Tschechische       |                                |                               |                           |                           |                捷克                 |
-|         Ungarn          |                                |                               |                           |                           |               匈牙利                |
-
-|   Q   | Wo benutzt / spricht man Deutsch?                  |
-| :---: | -------------------------------------------------- |
-| **A** | **In Deutschland, in Österreich, in der Schweiz.** |
-| **Q** | **Welche Sprache benutzt man in Indien?**          |
-| **A** | **In Indien benutzt man Indisch und Englisch.**    |
-| **Q** | **Sind Sie Chinese?**                              |
-| **A** | **Ja, ich bin Chinese.**                           |
-| **Q** | **Welche Sprachen kannst du sprechen?**            |
-
-## die Zahl, -en
+### die Zahl, -en
 
 | Wie bitte?/Wiederholen Sie bitte! | 没听清，请重复一遍 |
 | :-------------------------------: | :----------------: |
@@ -1548,7 +1511,7 @@
 |  .   |    Punkt     |
 |  ,   |    Komma     |
 
-## Ordinalzahlen 序数词
+### Ordinalzahlen 序数词
 
 |        der / die / das        |       |
 | :---------------------------: | :---: |
@@ -1597,9 +1560,299 @@
 
 4. 序数词写成阿拉伯数字时后面要加点，如：der 50. Geburtstag von Professor Li
 
-## die Zeit,-en
+## Redewendungen 习语
 
-#### die Uhrzeit,-en
+| Redewendungen                                                |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Komm gut nach Hause!<br />Kommen Sie gut nach Hause!<br />Kommt gut nach Hause! | 路上注意安全！<br />请您路上注意安全！<br />请你们路上注意安全！ |
+| Gute Reise!                                                  | 一路顺风                                                     |
+| Gute Besserung!                                              | 祝你早日康复!                                                |
+| Herzlichen Glückwunsch!                                      | 衷心祝贺你!                                                  |
+| Viel Erfolg!                                                 | 祝成功！                                                     |
+| Viel Spaß!                                                   | 祝愉快！                                                     |
+| Gesundheit!                                                  | 祝健康!                                                      |
+| Guten Appetit!                                               | 祝胃口好！                                                   |
+| Entschuldigung!                                              | 抱歉！                                                       |
+| Ich gratuliere!                                              | 恭喜你!                                                      |
+| Hcoh soll er leben, noch soll er leben, dreimal hoch!        | 长命百岁！                                                   |
+
+| Herzlichen Glückwunsch<br />Alles Gute<br />Alle guten Wünsche<br />Ich gratuliere dir | zu + Dative(zum/zur)<br />der-dem<br />das-dem<br />die-der<br />die-den (zu den)无缩写<br />三格形容词＋en |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| der Geburstatg                                               | Alles Gute zum Geburtstag.                                   |      |
+| die Hochzeit                                                 | Ich gratuliere die zur Hochzeit.                             |      |
+| die bestandene Deutsch-Prüfung                               | Alle guten Wünsche zur bestandenen Deutsch-Prüfung.          |      |
+| die Beförderung                                              | Herzlichen Glückunsch zur Beförderung.                       |      |
+
+| Beispiele                      |              |
+| ------------------------------ | ------------ |
+| Ich mache mnorgen die Prüfung. | Viel Erfolg. |
+|                                |              |
+|                                |              |
+|                                |              |
+|                                |              |
+|                                |              |
+|                                |              |
+
+## Person, Familie und Freunde 个人、家庭和朋友
+
+### das Land, die Länder und die Sprache, -n und  die Leute
+
+| in Asien | in Europa | in Amerika | in Afrika | in Ozeanien |
+| :------: | :-------: | :--------: | :-------: | :---------: |
+|   亚洲   |   欧洲    |    美洲    |   非洲    |   大洋洲    |
+
+|         Deutsch         |            Sprachen            |           der Mann            |         die Frau          |         die Leute         |               Chinese               |
+| :---------------------: | :----------------------------: | :---------------------------: | :-----------------------: | :-----------------------: | :---------------------------------: |
+|          China          |           Chinesisch           |          der Chinese          |       die Chinesin        |       die Chinesen        |                中国                 |
+|       Deutschland       |            Deutsch             |         der Deutsche          |       die Deutsche        |       die Deutschen       |                德国                 |
+|      ==**Aber**==       | **Ich bin ==Deutscher==.(m.)** | **Ich bin ==Deutsche==.(f.)** | **Er ist ==Deutscher==.** | **Sie ist ==Deutsche==.** | **Sie/Wir sind ==Deutsche==.(PI.)** |
+|        Russland         |            Russisch            |           der Russe           |        die Russin         |        die Russen         |               俄罗斯                |
+|       Frankreich        |          Französisch           |         der Franzose          |       die Französin       |       die Franzosen       |                法国                 |
+|     Großbritannien      |            Englisch            |         der Engländer         |      die Engländerin      |       die Engländer       |                英国                 |
+| Amerika / die USA (PI.) |            Englisch            |        der Amerikaner         |     die Amerikanerin      |      die Amerikaner       |                美国                 |
+|          Japan          |           Japanisch            |          der Japaner          |       die Japanerin       |        die Japaner        |                日本                 |
+|         Italien         |          Italienisch           |         der Italiener         |      die Italienerin      |       die Italiener       |               意大利                |
+|       Australien        |            Englisch            |        der Australier         |     die Australierin      |      die Australier       |              澳大利亚               |
+|         Spanien         |            Spanisch            |          der Spanier          |       die Spanierin       |        die Spanier        |               西班牙                |
+|       Österreich        |            Deutsch             |       der Österreicher        |    die Österreicherin     |     die Österreicher      |               奥地利                |
+|          Korea          |           Koreanisch           |         der Koreaner          |      die Koreanerin       |       die Koreaner        |                韩国                 |
+|         Indien          |            Indisch             |           der Inder           |        die Inderin        |         die Inder         |                印度                 |
+|    die Schweiz (f.)     |            Deutsch             |         der Schweizer         |      die Schweizerin      |       die Schweizer       |                瑞士                 |
+|      der Irak (m.)      |                                |                               |                           |                           |               伊拉克                |
+|      der Iran (m.)      |                                |                               |                           |                           |                伊朗                 |
+|         Irland          |                                |                               |                           |                           |               爱尔兰                |
+|  die Niederlande (PI.)  |                                |                               |                           |                           |                荷兰                 |
+|         Belgien         |                                |                               |                           |                           |               比利时                |
+|        Luxemburg        |                                |                               |                           |                           |               卢森堡                |
+|        Portugal         |                                |                               |                           |                           |               葡萄牙                |
+|          Polen          |                                |                               |                           |                           |                波兰                 |
+|        Kroatien         |                                |                               |                           |                           |              克罗地亚               |
+|        Rumänien         |                                |                               |                           |                           |              罗马尼亚               |
+|        Bulgarien        |                                |                               |                           |                           |              保加利亚               |
+|        Albanien         |                                |                               |                           |                           |             阿尔巴尼亚              |
+|      Griechenland       |                                |                               |                           |                           |                希腊                 |
+|     die Türkei (f.)     |                                |                               |                           |                           |               土耳其                |
+|        Dänemark         |                                |                               |                           |                           |                丹麦                 |
+|        Finnland         |                                |                               |                           |                           |                芬兰                 |
+|        Schwenden        |                                |                               |                           |                           |                瑞典                 |
+|        Norwegen         |                                |                               |                           |                           |                挪威                 |
+|         Estland         |                                |                               |                           |                           |              爱沙尼亚               |
+|        Lettland         |                                |                               |                           |                           |              拉脱维亚               |
+|         Litauen         |                                |                               |                           |                           |               立陶宛                |
+|         Island          |                                |                               |                           |                           |                冰岛                 |
+|    die Ukraine (f.)     |                                |                               |                           |                           |               乌克兰                |
+|      Tschechische       |                                |                               |                           |                           |                捷克                 |
+|         Ungarn          |                                |                               |                           |                           |               匈牙利                |
+
+|   Q   | Wo benutzt / spricht man Deutsch?                  |
+| :---: | -------------------------------------------------- |
+| **A** | **In Deutschland, in Österreich, in der Schweiz.** |
+| **Q** | **Welche Sprache benutzt man in Indien?**          |
+| **A** | **In Indien benutzt man Indisch und Englisch.**    |
+| **Q** | **Sind Sie Chinese?**                              |
+| **A** | **Ja, ich bin Chinese.**                           |
+| **Q** | **Welche Sprachen kannst du sprechen?**            |
+
+![](images/DACHL-Länder.jpg)
+
+### Du oder Sie?
+
+|                          关系                           | 绝对？ |      |                        |
+| :-----------------------------------------------------: | :----: | :--: | :--------------------: |
+|                  Kollegen zu Kollegen                   |  oft   |  du  |       同事对同事       |
+|     Mitarbeiter zu Chefs und Chefs zu Mitarbeitern      |  oft   | Sie  | 员工对老板，老板对员工 |
+|              Kinder zu fremden Erwachsenen              | immer  | Sie  |     孩子对陌生大人     |
+|       junge Leute (bis 25 Jahre) zu jungen Leute        |  oft   |  du  |     年轻人对年轻人     |
+|    fremde Person (über 25 Jahre) zu fremden Personen    |        | Sie  |     陌生人对陌生人     |
+|                   Freunde zu Freuden                    | immer  |  du  |       朋友对朋友       |
+| Erwachsene zu Kindern und Jugendlichen bis ca. 15 Jahre |        |  du  |     大人对15岁以下     |
+|                 Studenten zu Studenten                  |  oft   |  du  |     大学生对大学生     |
+
+| Darf ich Sie duzten? | 我可以用du来称呼您吗？ |
+| -------------------- | ---------------------- |
+
+### Selbestvorstellung
+
+| Stellen Sie sich bitte vor! | 请介绍一下自己 |
+| :-------------------------: | :------------: |
+
+|   Q   | Wie ist dein Vorname?          |
+| :---: | :----------------------------- |
+| **A** | **Mein Vorname ist Wenbo.**    |
+| **Q** | **Wie alt bist du?**           |
+| **A** | **Ich bin 23 Jahre alt.**      |
+| **Q** | **Was machst du?**             |
+| **A** | **Ich studiere in Shanghai.**  |
+| **Q** | **Wo studierst du?**           |
+| **A** | **Ich studiere Informatik.**   |
+| **Q** | **An welcher Universität?**    |
+| **A** | **An der Tongji Universität.** |
+
+| Selbestvorstellung                                           |                   |
+| ------------------------------------------------------------ | :---------------: |
+| **Hallo. ich heiße Wang Dali. Dali ist mein Vorname, Wang ist mein Nachname.** |     **Name**      |
+| **Ich bin 23 Jahre alt.**                                    |     **Alter**     |
+| **Ich komme aus Jiangsu. Ich wohne in China, in Shanghai.**  |    **Wohnort**    |
+| **Ich studiere Informatik an der Tongji Universität.**       |     **Beruf**     |
+| **Ich bin ledig.**                                           | **Familienstand** |
+
+### der Vorname,-  der Familienname/Nachname,-n
+
+| Q     | Wie heißen Sie?Wie heißt du? | Wie ist der Familienname von Tom? |
+| ----- | ---------------------------- | --------------------------------- |
+| **A** | **Ich bin heiße ... .**      | **Ihr Familienname ist ... .**    |
+
+| Können Sie den Nachnamen bitte buchstabieren? | 能请您拼写您的姓吗？ |
+| --------------------------------------------- | -------------------- |
+
+| Deutsche Familienamen |
+| :-------------------: |
+|         Weber         |
+|        Wagner         |
+|       Biermann        |
+|        Krause         |
+|       Schneider       |
+|        Müller         |
+|         Bauer         |
+|         Meier         |
+|        Strauß         |
+|         Klein         |
+|         Mayer         |
+|       Kaufmann        |
+|         Huber         |
+|        Schmidt        |
+|        Martin         |
+|       Hartmann        |
+
+| Deutsche Vornamen |
+| :---------------: |
+
+|   Frau    |   Mann   |
+| :-------: | :------: |
+|   Hanna   |  David   |
+|   Julia   |   Jan    |
+|   Laura   |  Erich   |
+|   Karin   |   Ralf   |
+|   Helga   | Matthias |
+| Katharina | Florian  |
+|  Sabine   |   Paul   |
+|   Doris   |   Hans   |
+|  Susane   |  Lukas   |
+|   Lara    |  Jonas   |
+
+### die Familie,-n
+
+| die Großeltern(PI.)                                    | die Eltern(PI.)               | die Kinder(PI.)                 | die Geschwister(PI.)                 |                              |
+| :----------------------------------------------------- | ----------------------------- | ------------------------------- | ------------------------------------ | ---------------------------- |
+| **der Großvater<br/>die Großväter<br/>der Opa,-s**     | **der Vater<br/>die Väter**   | **der Sohn<br/>die Söhn**       | **der Bruder<br/>die Brüder**        | **der Onkel<br/>die Onkels** |
+| **die Großmutter<br />die Großmütter<br />die Oma,-s** | **die Mutter<br/>die Mütter** | **die Tochter<br/>die Töchter** | **die Schwester<br/>die Schwestern** | **die Tante<br/>die Tanten** |
+|                                                        |                               |                                 | **der Cousin**                       |                              |
+|                                                        |                               |                                 | **die Cousine**                      |                              |
+
+|                          |                 | die Enkelkinder |                |
+| ------------------------ | --------------- | --------------- | -------------- |
+| **der Schwiegersohn**    | **der Ehemann** | **der Enkel**   | **der Neffe**  |
+| **die Schwiegertochter** | **die Ehefrau** | **die Enkelin** | **die Nichte** |
+
+| Das ist der Bruder von Herrn Müller. |
+| ------------------------------------ |
+
+| Q     | Haben Sie Kinder?                                            |
+| ----- | ------------------------------------------------------------ |
+| **A** | **Ja, ich habe einen Sohn und eine Tochter. / Nein, ich habe keine Kinder.** |
+| **Q** | **Wie viele Kinder Hast du?**                                |
+| **A** | **Ich habe zwei Kinder, einen Sohn und eine Tochter.**       |
+| **Q** | **Hast du Geschwister?**                                     |
+| **A** | **Ja, ich hebe einen Bruder und zwei Schwestern.**           |
+| **Q** | **Wie viel Personen hat Ihre Familie?/Wie viel Personen gibt es in Ihrer Familie?** |
+| **A** | **Meine Familie hat 4 Personen.**                            |
+
+| **Das ist vielleicht ihre Mutter.** | **这可能是她的母亲。** |
+| ----------------------------------- | ---------------------- |
+
+### die Familienstand
+
+|          verheiratet           |                        已婚                        |
+| :----------------------------: | :------------------------------------------------: |
+|         **geschieden**         |                      **离异**                      |
+|           **ledig**            |                      **单身**                      |
+|         **verwitwet**          |                      **丧偶**                      |
+| **Wie ist Ihr Familienstand?** | **Ich bin ledig/geschieden/verheirate/verwitwet.** |
+
+### der Wohnort,-e
+
+| Q     | Wie ist deine Adresse?/Wo wohnen Sie?/Wo leben Sie? |
+| ----- | --------------------------------------------------- |
+| **A** | **Ich lebe in ... .**                               |
+
+### der Geburtsort,-e
+
+| Q     | Was ist Ihr Geburtsort?/ Wo sind Sie geboren? |      |
+| ----- | --------------------------------------------- | ---- |
+| **A** | **Ich bin in Shanghai geboren.**              |      |
+
+### die Heimatstadt, die Heimatstädte
+
+| Q     | Was ist deine Heimatstadt?        |
+| ----- | --------------------------------- |
+| **A** | **Meine Heimatstadt ist Huaian.** |
+
+### das Jahr,-e
+
+| Q     |       Wie alt bist du?       | Wie alt sind Sie? |
+| ----- | :--------------------------: | :---------------: |
+| **A** | **Ich bin ... (Jahre alt).** |                   |
+
+### die Nummer,-n
+
+| Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |                                  |
+| ----- | :-------------------------------------------: | -------------------------------- |
+| **A** |         **Meine Nummer ist ........**         |                                  |
+|       |          **Du sollst sie anrufen.**           |                                  |
+|       |             **Ich rufe dich an.**             |                                  |
+|       |          **Ich habe xxxx gewählt.**           |                                  |
+|       |          Hier ist Telecom Auskunft.           | 这里是查号台。                   |
+|       |      Ich hätte gern die Nummer von xxxx.      | 我想知道的号码是                 |
+|       |               Er ruft dich an.                | 他给你打电话。 an/rufen(ruft an) |
+
+### die Hobbys
+
+| Wir sprechen über Hobbys. |
+| ------------------------- |
+
+|             原型             |             比较级             |             最高级              |
+| :--------------------------: | :----------------------------: | :-----------------------------: |
+|             gern             |             lieber             |           am liebsten           |
+| Ich spiele gern Tischtennis. | Wir spielen lieber Volleyball. | Ich spiele am liebsten Fußball. |
+
+| Fußball / Basketball / Volleyball / Tennis / Tischtennis spielen | 踢足球/打篮球/打排球/打网球/打乒乓球  |
+| ------------------------------------------------------------ | ------------------------------------- |
+| **Gitarre / Klavier / Violine / Karten / Schach / Tromptete spielen** | **弹吉他/钢琴/小提琴/纸牌/象棋/喇叭** |
+
+|       | Wir sprechen ünber Hobbys.                                   | 我们在讨论兴趣。         |
+| :---: | ------------------------------------------------------------ | ------------------------ |
+| **Q** | **Was ist seine Hobby? /Was sind deine Hobbys?<br/> Was macht er gern?/ Welche Hobbys hast du?** |                          |
+| **A** | **Seine Hobbys sind XXX. / Er spielt gern Fußball.**         |                          |
+|       | **Ihre Hobbys sind Gitarre spielen und Musik hören.**        | 她的兴趣是弹吉他和听歌。 |
+|       | **Ich spiele gern Fußball.**                                 | 我喜欢踢足球。           |
+|       | **Ich höre gerne Popmusi/klassische Musik.**                 | 我喜欢听流行/古典音乐。  |
+|       | **Ich spiele / mache gern Computerspiele.**<br/>**Mein Hobby ist Computerspiele machen.** | 我喜欢玩电脑游戏。       |
+|       | **Ich spiele Spielzeug.**                                    | 我玩游戏。               |
+|       | **Ich laufe/jogge gern.**                                    | 我喜欢跑步。             |
+|       | **Ich mache gern Sport.**                                    | 我喜欢做运动。           |
+|       | **Er singt gern im Chor.**                                   | 他喜欢在合唱团唱歌。     |
+|       | **Er programmiere gerne / schreibt gern Programm.**          | 他喜欢写程序。           |
+|       | **Ich spiele gern Computer / surfe gern im Internet.**       | 我喜欢玩电脑/上网冲浪。  |
+| **Q** | **Liest du gerne/gern Liebesromane?**                        |                          |
+| **A** | **Ja, ich lese gerne Liebesromane.**                         |                          |
+
+## Körper und Gesundheit 身体和健康
+
+## Wohnen und Hausarbeit 生活和家务
+
+## Natur, Wetter und Jahreszeiten 自然、天气和季节
+
+### die Uhrzeit,-en
 
 | Q     | Wie viel Uhr ist es? | 几点了？     |
 | ----- | -------------------- | ------------ |
@@ -1670,7 +1923,7 @@
       4. 表达某点20分时，既可以采用nach加正点数字如eins，也可以采用vor加某点半的词组如halb zwei
       5. 表达某点40分时，既可以采用vor加正点数字如zwölf，也可以采用nach加某点半的词组如halb zwölf
 
-#### Uhrzeitangabe 钟点作时间状语
+### Uhrzeitangabe 钟点作时间状语
 
 钟点在语句中常用作状语。钟点作状语时必须在钟点词或词组前加介词**um**，对其提问用疑问词**wann**或词组**Um wie viel Uhr**。
 
@@ -1709,7 +1962,7 @@
 | ----- | ------------------------------------ |
 | **A** | **Nein, ich hebe jetzt keine Zeit.** |
 
-#### Die Tageszelten 时间的表达
+### Die Tageszelten 时间的表达
 
 | Stunden 小时 eine Stunde, eine halb Stunde, eineinhalb Studen,anderthalb Stunden(1.5 Stunden)<br />Minuten 分钟 |
 | :----------------------------------------------------------: |
@@ -1737,7 +1990,15 @@
 | Abends lese ich Zeitung.<br />Jeden Abend lese ich Zeitung.  | Aber heute Abend höre ich Musik.                      |
 | Nachts schlafe ich.<br />Jede Nacht schlafe ich.             | Aber heute Nacht spiele ich Karten.                   |
 
-#### Die Wochentage 一周的表达
+### Essenszeiten in Deutschland
+
+| In Deutschland gibt es drei Hauptmahlzeiten: |
+| -------------------------------------------- |
+| das Frühstück zwischen 6 und 10 Uhr          |
+| das Mittagessen zwischen 12 und 14 Uhr       |
+| das Abendessen zwischen 18 und 20 Uhr        |
+
+### Die Wochentage 一周的表达
 
 |          Montag           |           Dienstag            |           Mittwoch            |            Donnerstag             |           Freitag           |   Samstag<br />Sonnabend    |           Sonntag           |
 | :-----------------------: | :---------------------------: | :---------------------------: | :-------------------------------: | :-------------------------: | :-------------------------: | :-------------------------: |
@@ -1769,7 +2030,7 @@
 |                                                   |      |
 |                                                   |      |
 
-##### Jede的变位
+### Jede的变位
 
 | jede  |            m             |            n             |                 f                 |
 | :---: | :----------------------: | :----------------------: | :-------------------------------: |
@@ -1777,7 +2038,7 @@
 |       |                          |                          | Jede Frau hat eine schöne Tasche. |
 | **A** | den Mann<br />jeden Mann | das Kind<br />jedes Kind |      die Frau<br />jede Frau      |
 
-#### Zeitangbe 时间描述
+### Zeitangbe 时间描述
 
 |         Punkt         | kurz vor | kurz nach |                 gegen                 |
 | :-------------------: | :------: | :-------: | :-----------------------------------: |
@@ -1809,13 +2070,13 @@
 | **der Monat,-e**   | Er schwimmt jeden Monat.      |
 | **das Jahr,-e**    | Er reist jedes Jahr           |
 
-#### die Saisons 季节
+### die Saisons 季节
 
 | im Frühling | im Sommer | im Herbst | im Winter |
 | :---------: | :-------: | :-------: | :-------: |
 |     春      |    夏     |    秋     |    冬     |
 
-#### die Monate 月份
+### Datum und Monate 日期和月份
 
 | der Monat, -e |
 | :-----------: |
@@ -1832,7 +2093,7 @@
 |  im November  |
 |  im Dezember  |
 
-#### 介词搭配
+### 介词搭配
 
 |    Beispiele    |
 | :-------------: |
@@ -1854,268 +2115,9 @@
 |   - Ende Juli   |
 |    am Morgen    |
 
-### Essenszeiten in Deutschland
+## Reisen, Verkehr und Freizeit 旅行、运输和休闲
 
-| In Deutschland gibt es drei Hauptmahlzeiten: |
-| -------------------------------------------- |
-| das Frühstück zwischen 6 und 10 Uhr          |
-| das Mittagessen zwischen 12 und 14 Uhr       |
-| das Abendessen zwischen 18 und 20 Uhr        |
-
-### Ein Zahnarttermin
-
-|      | A - Arzthelderin W - Wang Dali                               |
-| :--: | ------------------------------------------------------------ |
-|  A   | Guten Tag. Hier Praxis Dr. Sommer.                           |
-|  W   | Guten Tag. Mein Name ist Wang Dali. Ich habe Zahnschmerzen. Wann kann ich kommen/hat Dr. Sommer einen Termin frei?/Kann ich einen Termin haben? |
-|  A   | Einen Moment bitte. Können Sie am Diestag kommen?            |
-|  W   | Am Vormittag oder am Nachmittag?                             |
-|  A   | Am Nachmittag.                                               |
-|  W   | Ja. Um wie viel Uhr geht es?/ Nein, das geht nicht. Kann ich am Donnerstag kommen? |
-|  A   | Um drei Uhr. / Ja. Geht es um 8.00 Uhr?                      |
-|  W   | Das geht. Also dann bis Dienstag um 15.00 Uhr Vielen Dank.   |
-|  A   | Bitte. Auf Wiederhören.                                      |
-|  W   | Auf Wiederhören.                                             |
-
-| um einen Termin bitten          | einen Termin vorschlagen            |
-| ------------------------------- | ----------------------------------- |
-| Haben Sie einen Termin frei?    | Geht es am Freitag um 9.30 Uhr?     |
-| Kann ich einen Termin bekommen? | Geht es in einer Stunde?            |
-| Ich hätte gern einen Termin.    | Können sie am Freitag um halb zehn? |
-| Gehen wir am Freitag ins Kino?  | Treffen wir uns am ... um ...?      |
-
-| ablehnen:sob:                                                | zustimmen:happy:   |
-| ------------------------------------------------------------ | ------------------ |
-| Tur mir leid, das geht nicht. Da heben wir keine Termine frei./ Tur mir leid, das passt mir nicht. | Ja, das passt gut. |
-| Da muss ich arbeiten.                                        | Ja, das geht.      |
-| Am Freitagabend kann ich leider nicht, aber am Samtag.       |                    |
-| Um neun geht es leider nicht, aber um zehn.                  |                    |
-
-
-
-## die Nummer,-n
-
-| Q     | Wie ist deine/Ihre Telefonnummer/Handynummer? |                                  |
-| ----- | :-------------------------------------------: | -------------------------------- |
-| **A** |         **Meine Nummer ist ........**         |                                  |
-|       |          **Du sollst sie anrufen.**           |                                  |
-|       |             **Ich rufe dich an.**             |                                  |
-|       |          **Ich habe xxxx gewählt.**           |                                  |
-|       |          Hier ist Telecom Auskunft.           | 这里是查号台。                   |
-|       |      Ich hätte gern die Nummer von xxxx.      | 我想知道的号码是                 |
-|       |               Er ruft dich an.                | 他给你打电话。 an/rufen(ruft an) |
-
-## Selbestvorstellung
-
-| Stellen Sie sich bitte vor! | 请介绍一下自己 |
-| :-------------------------: | :------------: |
-
-|   Q   | Wie ist dein Vorname?          |
-| :---: | :----------------------------- |
-| **A** | **Mein Vorname ist Wenbo.**    |
-| **Q** | **Wie alt bist du?**           |
-| **A** | **Ich bin 23 Jahre alt.**      |
-| **Q** | **Was machst du?**             |
-| **A** | **Ich studiere in Shanghai.**  |
-| **Q** | **Wo studierst du?**           |
-| **A** | **Ich studiere Informatik.**   |
-| **Q** | **An welcher Universität?**    |
-| **A** | **An der Tongji Universität.** |
-
-| Selbestvorstellung                                           |                   |
-| ------------------------------------------------------------ | :---------------: |
-| **Hallo. ich heiße Wang Dali. Dali ist mein Vorname, Wang ist mein Nachname.** |     **Name**      |
-| **Ich bin 23 Jahre alt.**                                    |     **Alter**     |
-| **Ich komme aus Jiangsu. Ich wohne in China, in Shanghai.**  |    **Wohnort**    |
-| **Ich studiere Informatik an der Tongji Universität.**       |     **Beruf**     |
-| **Ich bin ledig.**                                           | **Familienstand** |
-
-### der Vorname,-  der Familienname/Nachname,-n
-
-| Q     | Wie heißen Sie?Wie heißt du? | Wie ist der Familienname von Tom? |
-| ----- | ---------------------------- | --------------------------------- |
-| **A** | **Ich bin heiße ... .**      | **Ihr Familienname ist ... .**    |
-
-| Können Sie den Nachnamen bitte buchstabieren? | 能请您拼写您的姓吗？ |
-| --------------------------------------------- | -------------------- |
-
-| Deutsche Familienamen |
-| :-------------------: |
-|         Weber         |
-|        Wagner         |
-|       Biermann        |
-|        Krause         |
-|       Schneider       |
-|        Müller         |
-|         Bauer         |
-|         Meier         |
-|        Strauß         |
-|         Klein         |
-|         Mayer         |
-|       Kaufmann        |
-|         Huber         |
-|        Schmidt        |
-|        Martin         |
-|       Hartmann        |
-
-| Deutsche Vornamen |
-| :---------------: |
-
-|   Frau    |   Mann   |
-| :-------: | :------: |
-|   Hanna   |  David   |
-|   Julia   |   Jan    |
-|   Laura   |  Erich   |
-|   Karin   |   Ralf   |
-|   Helga   | Matthias |
-| Katharina | Florian  |
-|  Sabine   |   Paul   |
-|   Doris   |   Hans   |
-|  Susane   |  Lukas   |
-|   Lara    |  Jonas   |
-
-### der Beruf,-e
-
-|      der Mann      |     die Männer     |       die Frau       |       die Frauen       |              |
-| :----------------: | :----------------: | :------------------: | :--------------------: | :----------: |
-|     der Lehrer     |     die Lehrer     |     die Lehrerin     |    die Lehrerinnen     |     教师     |
-|    der Arbeiter    |    die Arbeiter    |    die Arbeiterin    |   die Arbeiterinnen    |     工人     |
-|  der Schauspieler  |  die Schauspieler  |  die Schauspielerin  | die Schauspielerinnen  |     演员     |
-|     der Sänger     |    die Sägener     |    die Sägenerin     |    die Sängerinnen     |    歌唱家    |
-|   der Verkäufer    |   die Verkäufer    |   die Verkäuferin    |    die Verkäurinnen    |   杂货店主   |
-|    der Physiker    |    die Physiker    |    die Phyikerin     |    die Phyikerinnen    |   物理学家   |
-|    der Chemiker    |    die Chemiker    |    die Chemikerin    |   die Chemikerinnen    |    化学家    |
-|  der Informatiker  |  die Informatiker  |  die Informatikerin  | die Informatikerinnen  | 计算机科学家 |
-| der Programmierer  | die Programmierer  | die Programmiererin  | die Programmiererinnen |    程序员    |
-|    der Designer    |    die Designer    |    die Designerin    |   die Designerinnen    |    设计师    |
-|   der Ingenieur    |   die Ingenieure   |   die Ingenieurin    |   die Ingenieurinnen   |    工程师    |
-|  der Bauingenieur  | die Bauingenieure  |  die Bauingenieurin  | die Bauingenieurinnen  |  建筑工程师  |
-|      der Arzt      |   **die Ärzte**    |      die Ärztin      |     die Ärztinnen      |     医生     |
-|      der Koch      |   **die Köche**    |      die Köchin      |     die Köchinnen      |     厨师     |
-|  der Rechtsanwalt  | die Rechtsanwälte  |  die Rechtsanwältin  | die Rechtsanwältinnen  |     律师     |
-|     der Jurist     |    die Juristen    |     die Juristin     |    die Juristinnen     |     律师     |
-|    der Student     |   die Studenten    |    die Studentin     |    die Studentinnen    |    大学生    |
-|    der Schüler     |    die Schüler     |    die Schülerin     |    die Schülerinnen    |     学生     |
-|     der Fahrer     |     die Fahrer     |     die Fahrerin     |    die Fahrerinnen     |     司机     |
-|   der Taxifahrer   |   die Taxifahrer   |   die Taxifahrerin   |    die Taxifahrerin    |  出租车司机  |
-|    der Sekretär    |   die Sekretäre    |    die Sekretärin    |   die Sekretärinnen    |     秘书     |
-| der Krankenpfleger | die Krankenpfleger | die Krankenschwester | die Krankenschwestern  |     护士     |
-|    der Friseur     |    die Friseure    |    die Friseurin     |    die Friseurinnen    |    发型师    |
-|    der Florist     |   die Floristen    |    die Floristin     |    die Floristinnen    |    花艺师    |
-|                    |                    |                      |                        |              |
-|                    |                    |                      |                        |              |
-
-| **Q** | Was sind Sie von Beruf?        | Was machen Sie beruflich?  | Was ist dein/Ihr Beruf?         | Und was machst du in ...? |      |
-| ----- | ------------------------------ | -------------------------- | ------------------------------- | ------------------------- | ---- |
-| **A** | **Ich bin Student/Köchin/...** | **Ich bin ... von Beruf.** | **Ich arbeite bei ... als ...** |                           |      |
-
-| Er arbeite als Koch in einem Restaurant.      |
-| --------------------------------------------- |
-| **Er arbeite als Lehrer an der Universität.** |
-
-| Q     |       Was studierst du?       | Wo studieren Sie?                           |
-| ----- | :---------------------------: | ------------------------------------------- |
-| **A** | **Ich studiere Informatik. ** | **Ich studiere an der TongJi Universität.** |
-
-| Herr Müller ist der Betreuer von Li Ming / Li Mings Betreuer/ Herrn Li. |
-| ------------------------------------------------------------ |
-
-### die Familie,-n
-
-| die Großeltern(PI.)                                    | die Eltern(PI.)               | die Kinder(PI.)                 | die Geschwister(PI.)                 |                              |
-| :----------------------------------------------------- | ----------------------------- | ------------------------------- | ------------------------------------ | ---------------------------- |
-| **der Großvater<br/>die Großväter<br/>der Opa,-s**     | **der Vater<br/>die Väter**   | **der Sohn<br/>die Söhn**       | **der Bruder<br/>die Brüder**        | **der Onkel<br/>die Onkels** |
-| **die Großmutter<br />die Großmütter<br />die Oma,-s** | **die Mutter<br/>die Mütter** | **die Tochter<br/>die Töchter** | **die Schwester<br/>die Schwestern** | **die Tante<br/>die Tanten** |
-|                                                        |                               |                                 | **der Cousin**                       |                              |
-|                                                        |                               |                                 | **die Cousine**                      |                              |
-
-|                          |                 | die Enkelkinder |                |
-| ------------------------ | --------------- | --------------- | -------------- |
-| **der Schwiegersohn**    | **der Ehemann** | **der Enkel**   | **der Neffe**  |
-| **die Schwiegertochter** | **die Ehefrau** | **die Enkelin** | **die Nichte** |
-
-| Das ist der Bruder von Herrn Müller. |
-| ------------------------------------ |
-
-| Q     | Haben Sie Kinder?                                            |
-| ----- | ------------------------------------------------------------ |
-| **A** | **Ja, ich habe einen Sohn und eine Tochter. / Nein, ich habe keine Kinder.** |
-| **Q** | **Wie viele Kinder Hast du?**                                |
-| **A** | **Ich habe zwei Kinder, einen Sohn und eine Tochter.**       |
-| **Q** | **Hast du Geschwister?**                                     |
-| **A** | **Ja, ich hebe einen Bruder und zwei Schwestern.**           |
-| **Q** | **Wie viel Personen hat Ihre Familie?/Wie viel Personen gibt es in Ihrer Familie?** |
-| **A** | **Meine Familie hat 4 Personen.**                            |
-
-| **Das ist vielleicht ihre Mutter.** | **这可能是她的母亲。** |
-| ----------------------------------- | ---------------------- |
-
-### die Familienstand
-
-|          verheiratet           |                        已婚                        |
-| :----------------------------: | :------------------------------------------------: |
-|         **geschieden**         |                      **离异**                      |
-|           **ledig**            |                      **单身**                      |
-|         **verwitwet**          |                      **丧偶**                      |
-| **Wie ist Ihr Familienstand?** | **Ich bin ledig/geschieden/verheirate/verwitwet.** |
-
-### der Wohnort,-e
-
-| Q     | Wie ist deine Adresse?/Wo wohnen Sie?/Wo leben Sie? |
-| ----- | --------------------------------------------------- |
-| **A** | **Ich lebe in ... .**                               |
-
-### der Geburtsort,-e
-
-| Q     | Was ist Ihr Geburtsort?/ Wo sind Sie geboren? |      |
-| ----- | --------------------------------------------- | ---- |
-| **A** | **Ich bin in Shanghai geboren.**              |      |
-
-### die Heimatstadt, die Heimatstädte
-
-| Q     | Was ist deine Heimatstadt?        |
-| ----- | --------------------------------- |
-| **A** | **Meine Heimatstadt ist Huaian.** |
-
-### das Jahr,-e
-
-| Q     |       Wie alt bist du?       | Wie alt sind Sie? |
-| ----- | :--------------------------: | :---------------: |
-| **A** | **Ich bin ... (Jahre alt).** |                   |
-
-### die Hobbys
-
-| Wir sprechen über Hobbys. |
-| ------------------------- |
-
-|             原型             |             比较级             |             最高级              |
-| :--------------------------: | :----------------------------: | :-----------------------------: |
-|             gern             |             lieber             |           am liebsten           |
-| Ich spiele gern Tischtennis. | Wir spielen lieber Volleyball. | Ich spiele am liebsten Fußball. |
-
-| Fußball / Basketball / Volleyball / Tennis / Tischtennis spielen | 踢足球/打篮球/打排球/打网球/打乒乓球  |
-| ------------------------------------------------------------ | ------------------------------------- |
-| **Gitarre / Klavier / Violine / Karten / Schach / Tromptete spielen** | **弹吉他/钢琴/小提琴/纸牌/象棋/喇叭** |
-
-|       | Wir sprechen ünber Hobbys.                                   | 我们在讨论兴趣。         |
-| :---: | ------------------------------------------------------------ | ------------------------ |
-| **Q** | **Was ist seine Hobby? /Was sind deine Hobbys?<br/> Was macht er gern?/ Welche Hobbys hast du?** |                          |
-| **A** | **Seine Hobbys sind XXX. / Er spielt gern Fußball.**         |                          |
-|       | **Ihre Hobbys sind Gitarre spielen und Musik hören.**        | 她的兴趣是弹吉他和听歌。 |
-|       | **Ich spiele gern Fußball.**                                 | 我喜欢踢足球。           |
-|       | **Ich höre gerne Popmusi/klassische Musik.**                 | 我喜欢听流行/古典音乐。  |
-|       | **Ich spiele / mache gern Computerspiele.**<br/>**Mein Hobby ist Computerspiele machen.** | 我喜欢玩电脑游戏。       |
-|       | **Ich spiele Spielzeug.**                                    | 我玩游戏。               |
-|       | **Ich laufe/jogge gern.**                                    | 我喜欢跑步。             |
-|       | **Ich mache gern Sport.**                                    | 我喜欢做运动。           |
-|       | **Er singt gern im Chor.**                                   | 他喜欢在合唱团唱歌。     |
-|       | **Er programmiere gerne / schreibt gern Programm.**          | 他喜欢写程序。           |
-|       | **Ich spiele gern Computer / surfe gern im Internet.**       | 我喜欢玩电脑/上网冲浪。  |
-| **Q** | **Liest du gerne/gern Liebesromane?**                        |                          |
-| **A** | **Ja, ich lese gerne Liebesromane.**                         |                          |
-|       |                                                              |                          |
-
-## Ein Besuch
+### Ein Besuch
 
 | Q     | Wer besucht dich? 谁拜访了你？                  | Wen besuchst du? 你拜访了谁？ |
 | ----- | ----------------------------------------------- | ----------------------------- |
@@ -2151,23 +2153,135 @@
 | **Warum?**                | **Why?**           |
 | **Ich bin total kaputt.** | **I'm too tired.** |
 
-## Du oder Sie?
+### der Termin,-e
 
-|                          关系                           | 绝对？ |      |                        |
-| :-----------------------------------------------------: | :----: | :--: | :--------------------: |
-|                  Kollegen zu Kollegen                   |  oft   |  du  |       同事对同事       |
-|     Mitarbeiter zu Chefs und Chefs zu Mitarbeitern      |  oft   | Sie  | 员工对老板，老板对员工 |
-|              Kinder zu fremden Erwachsenen              | immer  | Sie  |     孩子对陌生大人     |
-|       junge Leute (bis 25 Jahre) zu jungen Leute        |  oft   |  du  |     年轻人对年轻人     |
-|    fremde Person (über 25 Jahre) zu fremden Personen    |        | Sie  |     陌生人对陌生人     |
-|                   Freunde zu Freuden                    | immer  |  du  |       朋友对朋友       |
-| Erwachsene zu Kindern und Jugendlichen bis ca. 15 Jahre |        |  du  |     大人对15岁以下     |
-|                 Studenten zu Studenten                  |  oft   |  du  |     大学生对大学生     |
+#### Ein Zahnarttermin
 
-| Darf ich Sie duzten? | 我可以用du来称呼您吗？ |
-| -------------------- | ---------------------- |
+|      | A - Arzthelderin W - Wang Dali                               |
+| :--: | ------------------------------------------------------------ |
+|  A   | Guten Tag. Hier Praxis Dr. Sommer.                           |
+|  W   | Guten Tag. Mein Name ist Wang Dali. Ich habe Zahnschmerzen. Wann kann ich kommen/hat Dr. Sommer einen Termin frei?/Kann ich einen Termin haben? |
+|  A   | Einen Moment bitte. Können Sie am Diestag kommen?            |
+|  W   | Am Vormittag oder am Nachmittag?                             |
+|  A   | Am Nachmittag.                                               |
+|  W   | Ja. Um wie viel Uhr geht es?/ Nein, das geht nicht. Kann ich am Donnerstag kommen? |
+|  A   | Um drei Uhr. / Ja. Geht es um 8.00 Uhr?                      |
+|  W   | Das geht. Also dann bis Dienstag um 15.00 Uhr Vielen Dank.   |
+|  A   | Bitte. Auf Wiederhören.                                      |
+|  W   | Auf Wiederhören.                                             |
 
-## der Einkaufen
+| um einen Termin bitten          | einen Termin vorschlagen            |
+| ------------------------------- | ----------------------------------- |
+| Haben Sie einen Termin frei?    | Geht es am Freitag um 9.30 Uhr?     |
+| Kann ich einen Termin bekommen? | Geht es in einer Stunde?            |
+| Ich hätte gern einen Termin.    | Können sie am Freitag um halb zehn? |
+| Gehen wir am Freitag ins Kino?  | Treffen wir uns am ... um ...?      |
+
+| ablehnen:sob:                                                | zustimmen:happy:   |
+| ------------------------------------------------------------ | ------------------ |
+| Tur mir leid, das geht nicht. Da heben wir keine Termine frei./ Tur mir leid, das passt mir nicht. | Ja, das passt gut. |
+| Da muss ich arbeiten.                                        | Ja, das geht.      |
+| Am Freitagabend kann ich leider nicht, aber am Samtag.       |                    |
+| Um neun geht es leider nicht, aber um zehn.                  |                    |
+
+| 复习                                                         |      |
+| ------------------------------------------------------------ | ---- |
+| Ich möchten einen Termin machen.                             |      |
+| Ich habe einen Termin mit meinem Professor.                  |      |
+| Ich muss meine Hausarbeit mit meinem Professor besprechen.   |      |
+| Ich muss zum Arzt gehen. / Kommen Sie bitte zu mir.          |      |
+| Ich habe eine Frage/ ein Probelm.                            |      |
+| Geht es morgen um 8? Ja, es geht./Nein, das geht leider nicht. |      |
+| Wie viel Uhr / Wie spät ist es jetzt?                        |      |
+| Arbeiten Sie fleißig!                                        |      |
+| Fahren Sie nicht zu schnell/ langsam!                        |      |
+| Haben Sie doch Geduld!                                       |      |
+| Seien Sie bitte ruhig./ Sei bitte ruhig!                     |      |
+
+### die Einladung
+
+| Beispiele                                                    |                                 |
+| ------------------------------------------------------------ | ------------------------------- |
+| Ich möchte dich ins Konzert einladen.                        | 我想邀请你去音乐会。            |
+| Wann/Wo findet das Konzert statt?                            | 音乐会何时/何地举行？           |
+| Bitte kommen Sie mit Ihrer Frau.                             | 请您和您的夫人一块来。          |
+| Ich betelle/buche gleich die Karten.                         | 我马上去买票。                  |
+| Ich muss mal nachfragen.                                     | 我必须先问一下。                |
+| Ich hole Sie zu Hause ab.<br />Ich hole die Kinder von der Schule ab. | 我去您家接您。/我去学校接孩子。 |
+| Ich muss das/den Termin aufschreiben.                        | 我必须记下这个/这个约定。       |
+| Keine Anhung.                                                | 我不知道。                      |
+
+### das Geschenk, -e
+
+| Geschenke                        |                              |
+| -------------------------------- | ---------------------------- |
+| das Seidentuch, die Seidentücher | 丝巾                         |
+| der Wein                         | 酒                           |
+| die VCD, -s                      | VCD                          |
+| das Buch, die Bücher             | 书                           |
+| das Porzellan                    | 瓷器                         |
+| das Fotoalbum, die Fotoalben     | 相册                         |
+| der Tabak                        | 烟斗                         |
+| das Spielzeug                    | 玩具                         |
+| das Obst                         | 水果                         |
+| der Schmuck                      | 首饰                         |
+| die Kalligraphie, -n             | 书法                         |
+| die Blume, -n                    | 花                           |
+| die Tischdecke, -n               | 桌布                         |
+| die Torte, -n                    | 圆形蛋糕 die Geburstagstorte |
+| die Zigarette, -n                | 烟草                         |
+| der Scherenschnitt, -e           | 剪影                         |
+| der Tee                          | 茶叶                         |
+| die Kleidung                     | 衣服                         |
+| der Füller, -                    | 钢笔                         |
+| die Krawatte, -n                 | 领带                         |
+| die Konzertkarte, -n             | 音乐会门票                   |
+| die CD, -s                       | CD                           |
+| das Rollbild, -er                | 画卷                         |
+| die Uhr, -en                     | 表                           |
+| die Schkolade                    | 巧克力                       |
+
+### Vorschläge, zustimmen und ablehnen
+
+| Vorschläge                                                   |      |
+| ------------------------------------------------------------ | ---- |
+| Er hat/feiert bald Geburstag.                                |      |
+| Was sollen wir ihm schenken?                                 |      |
+| Wir können ihr (etwas) schenken.                             |      |
+| Ich habe eine Idee.                                          |      |
+| Was halten Sie von Eintrittskarten für ein Konzert / Konzertkarten? |      |
+| Was findest du besser: (etwas) oder (etwas) ?                |      |
+| Sollen wir (jemanden) ein Geschenk machen?                   |      |
+| Sollen wir (jemanden) schenken?                              |      |
+| Wie findest du das: ...                                      |      |
+| Was schlägt du vor?                                          |      |
+| Ich schlage (etws) vor.                                      |      |
+
+| zustimmen                       |      |
+| ------------------------------- | ---- |
+| Das geht.                       |      |
+| Das finde ich gut.              |      |
+| Ich glaube, es ist gut.         |      |
+| Ich finde es gut/ prima/ super. |      |
+| Na gut, einverstanden.          |      |
+| Ja, machen wir das.             |      |
+| Sehr gut, das machen wir!       |      |
+| Das ist eine gute Idee.         |      |
+| Na prima!                       |      |
+
+| ablehenen                                                    |      |
+| ------------------------------------------------------------ | ---- |
+| Das geht nicht.                                              |      |
+| Das ist unmöglich in Deutschland./ Das ist in China nicht möglich. |      |
+| Das finde ich nicht gut.                                     |      |
+| Besser nicht.                                                |      |
+| Ich finde ... besser.                                        |      |
+| Das ist zu einfach.                                          |      |
+| Nein, das ist langweilig.                                    |      |
+
+## Essen, Trinken und Einkaufen 吃饭、喝酒和购物
+
+### Essen, Trinken
 
 |             Lebensimittel             |        食品        |
 | :-----------------------------------: | :----------------: |
@@ -2234,6 +2348,8 @@
 | Das Essen schmeckt gut.   | 好/合口味 | Das Essen schmeckt schlecht. |  坏  |
 | Der Platz ist frei.       |    空     | Der Platz ist besetzt.       | 被占 |
 | Die Orange ist süß.       |    甜     | Der Orange ist sauer.        |  酸  |
+
+### der Einkaufen
 
 | Welche Lebensmittel kaufen Sie wo?                           | 您从什么地方买什么食物？                           |
 | ------------------------------------------------------------ | -------------------------------------------------- |
@@ -2333,41 +2449,55 @@
 | Ich möchte bitte Gurken./Haben Sie ...?/ Gibt es (heute)....? |                        |       Oh, tut mir leid. Leider haben wir keine Gurken.       | 很遗憾我们没黄瓜。 |
 |                  Wo sind bitte die Tomaten?                  |                        |                Die Tomaten sind dort hinten.                 |     在那后面。     |
 
-| **Er geht auf den Markt/ in den Supermarkt.**                | **他去市场/超市。**                    |
-| ------------------------------------------------------------ | -------------------------------------- |
-| **Da kommt sein Freund Hans.**                               | **这时走来了他的朋友汉斯。**           |
-| **Du gehst schon wieder einkaufen?**                         | **你已经又要去超市了?**                |
-| **Kannst du etwas für mich kaufen ?**                        | **能帮我买点东西吗?**                  |
-| **Ich habe keine Zeit/kein Geld/keinen Hunger/keinen Durst.<br/>Ich bin nicht durstig.** | **我没有时间/钱/不饿/不渴。**          |
-| **Sonst noch was?**                                          | **此外还有什么?**                      |
-| **Einen Augeblick, bitte. / Moment, bitte!**                 | **等一会。**                           |
-| **Alles klar? Ja, klar.**                                    | **都听懂了吗？听懂了。**               |
-| **Ja, slles klar.**                                          | **好的我清楚了。**                     |
-| **Bis gleich/bald.**                                         | **待会见。**                           |
-| **Oh, Entschuldigung, leider habe ich kein Wasser, aber Cola.** | **抱歉，很遗憾没有水只有可乐。**       |
-| **Ich bin an der Reihe./ Ich bin daran.**                    | **排队轮到我了。**                     |
-| **Bei Aldi ist es besonders bilig/teuer.**                   | **在Aldi特别便宜/贵。**                |
-| **Da kaufe ich oft.**                                        | **我经常在那买。**                     |
-| **Wir können zusammen gehen.**                               | **我们可以一起去。 （zusammen 一起）** |
-| **Das ist baer nett von dir.**                               | **你可太好了！**                       |
+| Beispiele                                                    |                                    |
+| ------------------------------------------------------------ | ---------------------------------- |
+| Er geht auf den Markt/ in den Supermarkt.                    | 他去市场/超市。                    |
+| Da kommt sein Freund Hans.                                   | 这时走来了他的朋友汉斯。           |
+| Du gehst schon wieder einkaufen?                             | 你已经又要去超市了?                |
+| Kannst du etwas für mich kaufen ?                            | 能帮我买点东西吗?                  |
+| Ich habe keine Zeit/kein Geld/keinen Hunger/keinen Durst.<br/>Ich bin nicht durstig. | 我没有时间/钱/不饿/不渴。          |
+| Sonst noch was?                                              | 此外还有什么?                      |
+| Einen Augeblick, bitte. / Moment, bitte!                     | 等一会。                           |
+| Alles klar? Ja, klar.                                        | 都听懂了吗？听懂了。               |
+| Ja, slles klar.                                              | 好的我清楚了。                     |
+| Bis gleich/bald.                                             | 待会见。                           |
+| Oh, Entschuldigung, leider habe ich kein Wasser, aber Cola.  | 抱歉，很遗憾没有水只有可乐。       |
+| Ich bin an der Reihe./ Ich bin daran.                        | 排队轮到我了。                     |
+| Bei Aldi ist es besonders bilig/teuer.                       | 在Aldi特别便宜/贵。                |
+| Da kaufe ich oft.                                            | 我经常在那买。                     |
+| Wir können zusammen gehen.                                   | 我们可以一起去。 （zusammen 一起） |
+| Das ist baer nett von dir.                                   | 你可太好了！                       |
 
-## der Termin,-e
+### Im Restaurant
 
-| 复习                                                         |      |
-| ------------------------------------------------------------ | ---- |
-| Ich möchten einen Termin machen.                             |      |
-| Ich habe einen Termin mit meinem Professor.                  |      |
-| Ich muss meine Hausarbeit mit meinem Professor besprechen.   |      |
-| Ich muss zum Arzt gehen. / Kommen Sie bitte zu mir.          |      |
-| Ich habe eine Frage/ ein Probelm.                            |      |
-| Geht es morgen um 8? Ja, es geht./Nein, das geht leider nicht. |      |
-| Wie viel Uhr / Wie spät ist es jetzt?                        |      |
-| Arbeiten Sie fleißig!                                        |      |
-| Fahren Sie nicht zu schnell/ langsam!                        |      |
-| Haben Sie doch Geduld!                                       |      |
-| Seien Sie bitte ruhig./ Sei bitte ruhig!                     |      |
+| Beispiele |                                                              |
+| --------- | ------------------------------------------------------------ |
+| Kunde     | Entschuldigen Sie bitte, ist dieser Platy noch frei?         |
+| Keller    | Tut mir leid, dieser Tisch ist reserviert. Aber der Tisch daneben ist noch frei. |
+| Kunde     | Danke. Könnte ich bitte die Speisekarte haben? Ich möchte etwas essen. |
+| Keller    | Hier, bitte. Möchten Sie schon etwas zu trinken bestellen?   |
+| Kunde     | Ja, ein Bier, bitte.                                         |
+|           |                                                              |
+| Keller    | Was möchten Sie zu essen bestellen?                          |
+| Kunde     | Ich hätte gerne das menü, bitte. Als Vorspeise die Suppe und als Hauptspeise den Schweine braten mit Knödel und Salat. |
+| Keller    | Sehr gerne.                                                  |
+|           |                                                              |
+| Keller    | Hier, Ihre Hauptspeise. Guten Appetit!                       |
+| Kunde     | Entschuldigung, könnten Sie mir bitte Salz und Pfrffer bringen? |
+| Keller    | Hier, bitte.                                                 |
+| Kunde     | Für den salat brauche ich noch Essig und Öl.                 |
+| Keller    | Kommt sofort.                                                |
+|           |                                                              |
+| Kunde     | Ich möchte Rechnung bitte.                                   |
+| Keller    | Die zahlen kommt sofort.                                     |
+| Kunde     | Kann ich auch mit Kreditkarte bezahlen?                      |
+| Keller    | Nein, bei uns können sie nur bar bezahlen. das macht 16,50 Euro. |
+| Kunde     | Hier, bitte. Das stimmt so.                                  |
+| Keller    | Vielen Dank!                                                 |
 
-## Auf der Post/ Auf dem Postamt
+## Amt, Post, Bank und Polizei 办公室、邮局、银行和警察
+
+### Auf der Post/ Auf dem Postamt
 
 | Wortschatz                            |                                |
 | ------------------------------------- | ------------------------------ |
@@ -2422,113 +2552,9 @@
 | z.H (z.Hd.) | zu Händen (für) 亲启     |
 | Zi.         | Zimmer                   |
 
-## die Einladung
+## Schule, Arbeit und Beruf 学校、工作和职业
 
-| Beispiele                                                    |                                 |
-| ------------------------------------------------------------ | ------------------------------- |
-| Ich möchte dich ins Konzert einladen.                        | 我想邀请你去音乐会。            |
-| Wann/Wo findet das Konzert statt?                            | 音乐会何时/何地举行？           |
-| Bitte kommen Sie mit Ihrer Frau.                             | 请您和您的夫人一块来。          |
-| Ich betelle/buche gleich die Karten.                         | 我马上去买票。                  |
-| Ich muss mal nachfragen.                                     | 我必须先问一下。                |
-| Ich hole Sie zu Hause ab.<br />Ich hole die Kinder von der Schule ab. | 我去您家接您。/我去学校接孩子。 |
-| Ich muss das/den Termin aufschreiben.                        | 我必须记下这个/这个约定。       |
-| Keine Anhung.                                                | 我不知道。                      |
-
-## das Geschenk, -e
-
-| Geschenke                        |                              |
-| -------------------------------- | ---------------------------- |
-| das Seidentuch, die Seidentücher | 丝巾                         |
-| der Wein                         | 酒                           |
-| die VCD, -s                      | VCD                          |
-| das Buch, die Bücher             | 书                           |
-| das Porzellan                    | 瓷器                         |
-| das Fotoalbum, die Fotoalben     | 相册                         |
-| der Tabak                        | 烟斗                         |
-| das Spielzeug                    | 玩具                         |
-| das Obst                         | 水果                         |
-| der Schmuck                      | 首饰                         |
-| die Kalligraphie, -n             | 书法                         |
-| die Blume, -n                    | 花                           |
-| die Tischdecke, -n               | 桌布                         |
-| die Torte, -n                    | 圆形蛋糕 die Geburstagstorte |
-| die Zigarette, -n                | 烟草                         |
-| der Scherenschnitt, -e           | 剪影                         |
-| der Tee                          | 茶叶                         |
-| die Kleidung                     | 衣服                         |
-| der Füller, -                    | 钢笔                         |
-| die Krawatte, -n                 | 领带                         |
-| die Konzertkarte, -n             | 音乐会门票                   |
-| die CD, -s                       | CD                           |
-| das Rollbild, -er                | 画卷                         |
-| die Uhr, -en                     | 表                           |
-| die Schkolade                    | 巧克力                       |
-
-## Vorschläge, zustimmen und ablehnen
-
-| Vorschläge                                    |      |
-| --------------------------------------------- | ---- |
-| Wir können ihr (etwas) schenken.              |      |
-| Ich habe eine Idee.                           |      |
-| Was findest du besser: (etwas) oder (etwas) ? |      |
-| Sollen wir (jemanden) ein Geschenk machen?    |      |
-| Sollen wir (jemanden) schenken?               |      |
-| Wie findest du das: ...                       |      |
-| Ich schlage vor: ...                          |      |
-
-| zustimmen                 |      |
-| ------------------------- | ---- |
-| Das geht nicht.           |      |
-| Das finde ich gut.        |      |
-| Na gut, einverstanden.    |      |
-| Ja, machen wir das.       |      |
-| Sehr gut, das machen wir! |      |
-| Das ist eine gute Idee.   |      |
-| Na prima!                 |      |
-
-| ablehenen                 |      |
-| ------------------------- | ---- |
-| Das geht nicht.           |      |
-| Das finde ich nicht gut.  |      |
-| Besser nicht.             |      |
-| Ich finde ... besser.     |      |
-| Nein, das ist langweilig. |      |
-
-## Redewendungen
-
-| Redewendungen                                                |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Komm gut nach Hause!<br />Kommen Sie gut nach Hause!<br />Kommt gut nach Hause! | 路上注意安全！<br />请您路上注意安全！<br />请你们路上注意安全！ |
-| Gute Reise!                                                  | 一路顺风                                                     |
-| Gute Besserung!                                              | 祝你早日康复!                                                |
-| Herzlichen Glückwunsch!                                      | 衷心祝贺你!                                                  |
-| Viel Erfolg!                                                 | 祝成功！                                                     |
-| Viel Spaß!                                                   | 祝愉快！                                                     |
-| Gesundheit!                                                  | 祝健康!                                                      |
-| Guten Appetit!                                               | 祝胃口好！                                                   |
-| Entschuldigung!                                              | 抱歉！                                                       |
-| Ich gratuliere!                                              | 恭喜你!                                                      |
-| Hcoh soll er leben, noch soll er leben, dreimal hoch!        | 长命百岁！                                                   |
-
-| Herzlichen Glückwunsch<br />Alles Gute<br />Alle guten Wünsche<br />Ich gratuliere dir | zu + Dative(zum/zur)<br />der-dem<br />das-dem<br />die-der<br />die-den (zu den)无缩写<br />三格形容词＋en |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| der Geburstatg                                               | Alles Gute zum Geburtstag.                                   |      |
-| die Hochzeit                                                 | Ich gratuliere die zur Hochzeit.                             |      |
-| die bestandene Deutsch-Prüfung                               | Alle guten Wünsche zur bestandenen Deutsch-Prüfung.          |      |
-| die Beförderung                                              | Herzlichen Glückunsch zur Beförderung.                       |      |
-
-| Beispiele                      |              |
-| ------------------------------ | ------------ |
-| Ich mache mnorgen die Prüfung. | Viel Erfolg. |
-|                                |              |
-|                                |              |
-|                                |              |
-|                                |              |
-|                                |              |
-|                                |              |
-
-## der Unterricht,-e
+### der Unterricht,-e
 
 | Beispiele                                                    |                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- |
@@ -2557,3 +2583,48 @@
 | 11.00    | einen Test schreiben/ eine prüfung schreiben           | 做测试/考试          |
 | 11.45    | nach Hause gehen                                       | 回家                 |
 
+### der Beruf,-e
+
+|      der Mann      |     die Männer     |       die Frau       |       die Frauen       |              |
+| :----------------: | :----------------: | :------------------: | :--------------------: | :----------: |
+|     der Lehrer     |     die Lehrer     |     die Lehrerin     |    die Lehrerinnen     |     教师     |
+|    der Arbeiter    |    die Arbeiter    |    die Arbeiterin    |   die Arbeiterinnen    |     工人     |
+|  der Schauspieler  |  die Schauspieler  |  die Schauspielerin  | die Schauspielerinnen  |     演员     |
+|     der Sänger     |    die Sägener     |    die Sägenerin     |    die Sängerinnen     |    歌唱家    |
+|   der Verkäufer    |   die Verkäufer    |   die Verkäuferin    |    die Verkäurinnen    |   杂货店主   |
+|    der Physiker    |    die Physiker    |    die Phyikerin     |    die Phyikerinnen    |   物理学家   |
+|    der Chemiker    |    die Chemiker    |    die Chemikerin    |   die Chemikerinnen    |    化学家    |
+|  der Informatiker  |  die Informatiker  |  die Informatikerin  | die Informatikerinnen  | 计算机科学家 |
+| der Programmierer  | die Programmierer  | die Programmiererin  | die Programmiererinnen |    程序员    |
+|    der Designer    |    die Designer    |    die Designerin    |   die Designerinnen    |    设计师    |
+|   der Ingenieur    |   die Ingenieure   |   die Ingenieurin    |   die Ingenieurinnen   |    工程师    |
+|  der Bauingenieur  | die Bauingenieure  |  die Bauingenieurin  | die Bauingenieurinnen  |  建筑工程师  |
+|      der Arzt      |   **die Ärzte**    |      die Ärztin      |     die Ärztinnen      |     医生     |
+|      der Koch      |   **die Köche**    |      die Köchin      |     die Köchinnen      |     厨师     |
+|  der Rechtsanwalt  | die Rechtsanwälte  |  die Rechtsanwältin  | die Rechtsanwältinnen  |     律师     |
+|     der Jurist     |    die Juristen    |     die Juristin     |    die Juristinnen     |     律师     |
+|    der Student     |   die Studenten    |    die Studentin     |    die Studentinnen    |    大学生    |
+|    der Schüler     |    die Schüler     |    die Schülerin     |    die Schülerinnen    |     学生     |
+|     der Fahrer     |     die Fahrer     |     die Fahrerin     |    die Fahrerinnen     |     司机     |
+|   der Taxifahrer   |   die Taxifahrer   |   die Taxifahrerin   |    die Taxifahrerin    |  出租车司机  |
+|    der Sekretär    |   die Sekretäre    |    die Sekretärin    |   die Sekretärinnen    |     秘书     |
+| der Krankenpfleger | die Krankenpfleger | die Krankenschwester | die Krankenschwestern  |     护士     |
+|    der Friseur     |    die Friseure    |    die Friseurin     |    die Friseurinnen    |    发型师    |
+|    der Florist     |   die Floristen    |    die Floristin     |    die Floristinnen    |    花艺师    |
+|                    |                    |                      |                        |              |
+|                    |                    |                      |                        |              |
+
+| **Q** | Was sind Sie von Beruf?        | Was machen Sie beruflich?  | Was ist dein/Ihr Beruf?         | Und was machst du in ...? |      |
+| ----- | ------------------------------ | -------------------------- | ------------------------------- | ------------------------- | ---- |
+| **A** | **Ich bin Student/Köchin/...** | **Ich bin ... von Beruf.** | **Ich arbeite bei ... als ...** |                           |      |
+
+| Er arbeite als Koch in einem Restaurant.      |
+| --------------------------------------------- |
+| **Er arbeite als Lehrer an der Universität.** |
+
+| Q     |       Was studierst du?       | Wo studieren Sie?                           |
+| ----- | :---------------------------: | ------------------------------------------- |
+| **A** | **Ich studiere Informatik. ** | **Ich studiere an der TongJi Universität.** |
+
+| Herr Müller ist der Betreuer von Li Ming / Li Mings Betreuer/ Herrn Li. |
+| ------------------------------------------------------------ |
