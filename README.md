@@ -1326,7 +1326,7 @@
 
    在一般疑问句中位于第一位
 
-   第二分词（P. Ⅱ）始终位于句末
+   第二分词（P. Ⅱ）**始终位于句末**
 
 3. 第二分词构成：
 
@@ -1341,16 +1341,21 @@
       |                arbeiten→gearbeitet                |
       |                  öffnen→geöffnet                  |
       |                  bilden→gebildet                  |
+      |                zeichnen→gezeichnet                |
       |    动词词干以-t，-d，-chn，-ffn，-gn结尾的动词    |
       |                    **[    ]t**                    |
       |                studieren→studiert                 |
       |              diskutieren→diskutiert               |
+      |            funktionieren→funktioniert             |
       |                以-ieren结尾的动词                 |
       |                 besuchen→besucht                  |
       |                 erzählen→erzählt                  |
       | 带不可分前缀的动词，如ge-，be-，er-，ver-，zer-等 |
       |                **[    ]ge[    ]t**                |
       |               einkaufen→eingekauft                |
+      |                zumachen→zugemacht                 |
+      |              vorbereiten→vorbereitet              |
+      |       zusammenarbreiten→zusammengearbeitet        |
       |              nachfragen→nachgefragt               |
       |                     可分动词                      |
 
@@ -1374,6 +1379,69 @@
    |    Früher hatte ich viel Geld.    | 我以前有很多钱。 |
    | Damals konnte er nicht schwimmen. | 当时他不会游泳。 |
 
+### Partizip Perfekt von einigen unregelmäßigen Verben:
+
+|   Infinitiv   |        Perfekt         |
+| :-----------: | :--------------------: |
+|   beginnen    |        begonnen        |
+|    bitten     |        gebeten         |
+|    bleiben    |     sein geblieben     |
+|    denken     |        gebracht        |
+|     essen     |        gegessen        |
+|    fahren     |     sein gefahren      |
+|    fallen     |     sein gefallen      |
+|    fangen     |        gefangen        |
+|    finden     |        gefunden        |
+|    fliegen    |     sein geflogen      |
+|    gebären    |        geboren         |
+|     geben     |        gegeben         |
+|     gehen     |     sein gegangen      |
+|    halten     |        gehalten        |
+|    heißen     |        geheißen        |
+|    helfen     |        geholfen        |
+|    kennen     |        gekannt         |
+|    kommen     |     sein gekommen      |
+|     aden      |        geladen         |
+|    laufen     |     sein gelaufen      |
+|    leihen     |        geliehen        |
+|     lesen     |        gelesen         |
+|    liegen     |        gelegen         |
+|     mögen     |        gemocht         |
+|    nehmen     |        genommen        |
+|     rufen     |        gerufen         |
+|   schlafen    |       geschlafen       |
+|   schlagen    |       geschlagen       |
+|   schreiben   |      geschrieben       |
+|   schwimmen   | sein/haben geschwommen |
+|     sehen     |        gesehen         |
+|     sein      |      sein gewesen      |
+|    singen     |        gesungen        |
+|    sitzen     |        gesessen        |
+|   sprechen    |       gesprochen       |
+|    stehen     |       gestanden        |
+|    steigen    |     sein gestiegen     |
+|    tragen     |        getragen        |
+|    treffen    |       getroffen        |
+|    trinken    |       getrunken        |
+|      tun      |         geten          |
+|   verlieren   |        verloren        |
+|    waschen    |       gewaschen        |
+|    werden     |     sein geworden      |
+|    wissen     |        gewusst         |
+|   abfahren    |    sein abgefahren     |
+|   bekommen    |        bekommen        |
+|   vergessen   |       vergessen        |
+|   gefallen    |        gefallen        |
+|   anfangen    |       angefangen       |
+|   einladen    |       eingeladen       |
+|  einschlafen  |   sein eingeschlafen   |
+|   aufstehen   |   sein aufgestanden    |
+|   verstehen   |       verstanden       |
+| zurückbringen |     zurückgebracht     |
+|  vorbereiten  |      vorbereitet       |
+
+
+
 ## Adjektivdelination 形容词变格
 
 ### Bei bestimmten und unbestimmten Artikeln und Possessivpronomen 形容词在定冠词、不定冠词和物主代词后的变格
@@ -1383,11 +1451,11 @@
 | Ein Mann ist alt. Ein Pullover ist grau.                     | Ein alter Mann möchte einen grauen Pullover kaufen.          |
 | Der Vater ist jung. Sein Kind ist klein. Die Geschichte ist lang. | Der junge Vater erzählt seinem kleinen Kind eine lange Geschichte. |
 
-|      |                     der                      |                      das                       |                      die                      |                   PI.                    |
-| :--: | :------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: | :--------------------------------------: |
-|  N.  |    der neue Hut<br />ein/kein/mein neuer     |    das neue Kleid<br />ein/kein/mein neues     |   die neue Hose<br />eine/keine/meine neue    |  die neuen Hüte<br />keine/meine neuen   |
-|  A.  | den neuen Hut<br />einen/keinen/meinen neuen |    das neue Kleid<br />ein/kein/mein neues     |   die neue Hose<br />eine/keine/meine neue    |  die neuen Hüte<br />keine/meine neuen   |
-|  D.  | dem neuen Hut<br />einem/keinem/meinem neuen | dem neuen Kleid<br />einem/keinem/meinem neuen | der neuen Hose<br />einer/keiner/meiner neuen | den neuen Hüten<br />keinen/meinen neuen |
+|      |                           der                            |                          das                           |                          die                          |                       PI.                        |
+| :--: | :------------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------: |
+|  N.  |      der neu**e** Hut<br />ein/kein/mein neu**er**       |    das neu**e** Kleid<br />ein/kein/mein neu**es**     |   die neu**e** Hose<br />eine/keine/meine neu**e**    |  die neu**en** Hüte<br />keine/meine neu**en**   |
+|  A.  | d**en** neu**en** Hut<br />einen/keinen/meinen neu**en** |    das neu**e** Kleid<br />ein/kein/mein neu**es**     |   die neu**e** Hose<br />eine/keine/meine neu**e**    |  die neu**en** Hüte<br />keine/meine neu**en**   |
+|  D.  |   dem neu**en** Hut<br />einem/keinem/meinem neu**en**   | dem neu**en** Kleid<br />einem/keinem/meinem neu**en** | der neu**en** Hose<br />einer/keiner/meiner neu**en** | den neu**en** Hüten<br />keinen/meinen neu**en** |
 
 说明：
 
@@ -1398,12 +1466,12 @@
 
 1. 下列形容词作定语时，词尾变化很特殊，它们不仅有词尾变化，而且形容词本身也有变化
 
-   | dunkel    | eine dunkle Hose    | die dunkle Hose     |
-   | --------- | ------------------- | ------------------- |
-   | **teuer** | **ein teures Buch** | **das teure Sakko** |
-   | **hoch**  | **ein hoher Preis** | **der hohe Preis**  |
+   | dunkel    | eine dunkle Hose    | die dunkle Hose     |                       |
+   | --------- | ------------------- | ------------------- | --------------------- |
+   | **teuer** | **ein teures Buch** | **das teure Sakko** | **ein teurer Mantel** |
+   | **hoch**  | **ein hoher Preis** | **der hohe Preis**  |                       |
 
-2. 下列以元音a结尾的形容词作定语时，它们不加任何词尾
+2. 下列**以元音a结尾**的形容词作定语时，它们不加任何词尾
 
    | rosa      | ein rosa Kleid      | das rosa Kleid     |
    | --------- | ------------------- | ------------------ |
@@ -1420,7 +1488,7 @@
 |      |        m         |          n          |         f          |         PI.         |
 | :--: | :--------------: | :-----------------: | :----------------: | :-----------------: |
 |  N   | (der) grüner Tee | (das) warmes Wasser | (die) kalte Milch  |  (die) hohe Preise  |
-|  A   | (den) grüner Tee | (das) warmes Wasser | (die) kalte Milch  |  (die) hohe Preise  |
+|  A   | (den) grünen Tee | (das) warmes Wasser | (die) kalte Milch  |  (die) hohe Preise  |
 |  D   | (dem) grünem Tee | (dem) warmem Wasser | (der) kalter Milch | (den) hohen Preisen |
 
 说明：
@@ -1430,11 +1498,74 @@
 
 ### Feagepronomen für Adjektive: Welch ... / Was für (ein...) 对形容词提问的疑问代词
 
-|      |  m   |  n   |  f   | PI.  |
-| :--: | :--: | :--: | :--: | :--: |
-|  N   |      |      |      |      |
-|  A   |      |      |      |      |
-|  D   |      |      |      |      |
+|      |                  m                  |                  n                  |                  f                  |              PI.              |
+| :--: | :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------: |
+|  N   |  Was für ein<br />welcher<br />der  |  Was für ein<br />welches<br />das  |  Was für eine<br />welche<br />die  | Was für<br />welche<br />die  |
+|  A   | Was für einen<br />welchen<br />den | Was für eines<br />welches<br />das |  Was für eine<br />welche<br />die  | Was für<br />welche<br />die  |
+|  D   | Was für einem<br />welchem<br />dem | Was für einem<br />welchem<br />dem | Was für einer<br />welcher<br />der | Was für<br />welchen<br />den |
+
+说明：
+
+1. 对名词的定语提问时，我们有两种提问方式：
+
+   Was für (ein...)... 意为“怎么的” 泛指对象提问
+
+   Welch ... 意为“哪个（些）” 特指对象提问
+
+2. Was für (ein...)... 注意ein词尾变化，和不定冠词词尾变化相同
+
+3. Welch ... 的词尾与定冠词词尾一致
+
+| Beispiele                                                    |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Welcher Regenschirm gehört dir?                              | Dieser hier.                                                 |
+| Welches Sofa gefällt Ihnen?                                  | Dieses hier.                                                 |
+| Welche Bluse steht mir?                                      | Diese hier.                                                  |
+| Welche Socken passen euch?                                   | Diese hier.                                                  |
+| Welcher Finger tut dir weh?                                  | Dieser hier.                                                 |
+| Welcher Mantel gefällt dir am besten? (gut besser am besten/ gern lieber am liebsten) | Dieser hier. Der ist schön warm.                             |
+| Welche Schuhe passen dir am besten?                          | Na, diese hier. Die anderen (Schuhe) sind viel zu groß.(此处anderen是省略Schuhe)<br />die Anderen sind da. (Anderen表示其他人) |
+
+### Bei "alle, einige, veile, manche ..." 形容词在alle, einige, veile, manche等之后的词尾变化
+
+| Beispiele                                                    |      |
+| ------------------------------------------------------------ | ---- |
+| Ich habe alle warmen Kleidungsstücke mitgebracht, aber nur einige leichte Kleidungsstücke. |      |
+
+| bei alle (wie bei dem bestimmten Artikel: die) |              |       |          |
+| :--------------------------------------------: | :----------: | ----- | -------- |
+|                   Nominativ                    | alle(= die)  | neuen | Kleider  |
+|                   Akkusativ                    | alle(= die)  | neuen | Kleider  |
+|                     Dativ                      | allen(= den) | neuen | Kleidern |
+
+说明：
+
+1. alle后面的形容词都加词尾-en
+2. 和alle变化情况相同的还有solche, beide, mache, wekche等
+
+| bei einige (wie bei Nullartikel) |         |       |          |        |
+| :------------------------------: | :-----: | :---: | :------: | ------ |
+|            Nominativ             | einige  | neue  | Kleider  | viele  |
+|            Akkusativ             | einige  | neue  | Kleider  | viele  |
+|              Dativ               | einigen | neuen | Kleidern | vielen |
+
+说明：
+
+1. einige后面的形容词词尾变化同复数零冠词的词尾变化一致
+2. 和einige变化相同的还有viele, wenige
+
+注意：
+
+viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词词尾变化同零冠词词尾一致
+
+| Achtung      |            |
+| ------------ | ---------- |
+| viel Wasser  | viel Geld  |
+| wenig Kaffee | wenig Zeit |
+
+| Beispiel                                                     |      |
+| ------------------------------------------------------------ | ---- |
+| Er trinkt viel schwarzen Kaffee. Zu viel schwarzer Kaffee ist nicht |      |
 
 
 
@@ -1546,11 +1677,21 @@
 
 说明：
 
-1. 从1到19的序数词（也包括101到119……，1001到1019……等），是在其基数词上加-t的形式构成。
+1. 从1到19的序数词（也包括101到119……，1001到1019……等），是在其基数词上加-te的形式构成。
 
-   其中der/die/das erste，der/die/das dritte，der/die/das siebte，der/die/das achte是特殊形式。
+   其中
 
-   从20开始的序数词是在其基数词上加-st的形式构成。
+   der/die/das erste
+
+   der/die/das dritte
+
+   der/die/das siebte
+
+   der/die/das achte
+
+   是特殊形式。
+
+   从20开始的序数词是在其基数词上加-ste的形式构成。
 
 2. 与基数词不同，序数词前要加上定冠词der/die/das或物主代词
 
@@ -2070,28 +2211,58 @@
 | **der Monat,-e**   | Er schwimmt jeden Monat.      |
 | **das Jahr,-e**    | Er reist jedes Jahr           |
 
-### die Saisons 季节
+### Monate 月份
+
+| der Monat, -e |       |
+| :-----------: | :---: |
+|   im Januar   | Jan.  |
+|  im Februar   | Feb.  |
+|    im März    |       |
+|   im April    |       |
+|    im Mai     |       |
+|    im Juni    |       |
+|    im Juli    |       |
+|   im August   | Aug.  |
+| im September  | Sept. |
+|  im Oktober   | Okt.  |
+|  im November  | Nov.  |
+|  im Dezember  | Dez.  |
+
+|      | Fragen                             |
+| :--: | ---------------------------------- |
+|  Q   | Der wievielte ist heute?           |
+|  Q   | Welches Datum haben wir heute?     |
+|  Q   | Welches Datum ist heute?           |
+|  A   | Heute ist 05.06. (der fünfte Juni) |
+|  Q   | Wann haben Sie Geburtstag?         |
+|  A   | Am 20.04 (zwangzigsten April)      |
+
+### Jahreszahlen 年
+
+| Man schreibt | Man liest                      |
+| ------------ | ------------------------------ |
+| 1632         | sechzehnhundertzweiunddreißig  |
+| 1743         | siebzehnhundertdreiundvierzig  |
+| 1854         | achtzehnhundertvierundfünfzig  |
+| 1976         | neunzehnhundertsrchsundsiebzig |
+| 1987         |                                |
+| 1998         |                                |
+| 2001         |                                |
+| 2009         |                                |
+| 2012         |                                |
+| 2020         |                                |
+
+| im Jahr(e) 2002 |      |
+| --------------- | ---- |
+|                 |      |
+|                 |      |
+|                 |      |
+
+### Jahreszeiten 季节
 
 | im Frühling | im Sommer | im Herbst | im Winter |
 | :---------: | :-------: | :-------: | :-------: |
 |     春      |    夏     |    秋     |    冬     |
-
-### Datum und Monate 日期和月份
-
-| der Monat, -e |
-| :-----------: |
-|   im Januar   |
-|  im Februar   |
-|    im März    |
-|   im April    |
-|    im Mai     |
-|    im Juni    |
-|    im Juli    |
-|   im August   |
-| im September  |
-|  im Oktober   |
-|  im November  |
-|  im Dezember  |
 
 ### 介词搭配
 
@@ -2470,6 +2641,23 @@
 
 ### Im Restaurant
 
+| Essen beschreiben und bewerten |         |
+| :----------------------------: | :-----: |
+|              süß               |   甜    |
+|             salzig             |   咸    |
+|             bitter             |   苦    |
+|             sauer              |   酸    |
+|             scharf             |   辣    |
+|          würzig - fad          | 重口-淡 |
+|           zart - zäh           |  嫩-老  |
+|          fett - mager          |  肥-瘦  |
+|      durch - nicht durch       |  熟-生  |
+
+| nach dem Essen fragen                                        | Essen beschreiben und bewerten                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Wie ist ...?<br />Wie schmeckt ... ?<br />schmeckt es Ihnen / dir? | Der Braten ist zart./zäh.<br />Der Braten ist etwas fad./ etwas salzig.<br />Der Braten ist sehr fett./sehr mager.<br />Der Braten ist zu salzig./ zu fett. |
+| Wie ist ...?<br />Wie schmeckt ... ?<br />schmeckt es Ihnen / dir? | Das Steak schmecht / ist ausgezeichnet.<br />... sehr lecker / sehr gut.<br />... lecker / gut.<br />... nicht so lecker/ gut.<br />... scheußlich.<br />Das Steak ist o.k.<br />Es geht. |
+
 | Beispiele |                                                              |
 | --------- | ------------------------------------------------------------ |
 | Kunde     | Entschuldigen Sie bitte, ist dieser Platy noch frei?         |
@@ -2494,6 +2682,139 @@
 | Keller    | Nein, bei uns können sie nur bar bezahlen. das macht 16,50 Euro. |
 | Kunde     | Hier, bitte. Das stimmt so.                                  |
 | Keller    | Vielen Dank!                                                 |
+
+### Im cafe
+
+| Dialog |                                                              |
+| ------ | ------------------------------------------------------------ |
+| +      | Hallo, wir geht's?                                           |
+| -      | Danke, gut, und dir?                                         |
+| +      | Jetzt sehr gut. Was nimmst du? Trinkst du was?               |
+| -      | Ja, gerne - äh - was trinkst du?                             |
+| +      | Einen Campari mit Orangensaft. Du auch?                      |
+| -      | Das kenne ich nicht, aber o.k, ich probiere es.              |
+| +      | Möchtest du auch was essen?                                  |
+| -      | Ja, ich hab einen Bärehunger. Was gibt es denn?              |
+| +      | Die haben ganz tolle Sandwichs mit Salami, Käse usw.         |
+| -      | Gute Idee, das nehme ich auch.                               |
+| +      | Das Kino beginnt erst um neun. Wir haben also noch viel Zeit. |
+
+### Bestellen 点餐
+
+| im cafe nach Wünschen fragen                              | seine Wünsche sagen                 |
+| --------------------------------------------------------- | ----------------------------------- |
+| Was nimmst/möchtest du?                                   | Ich möchte/nehme ... .              |
+| Was möchten/nehmen Sie?                                   | Ein Bier, bitte                     |
+| Trinkst/Isst/Möchtest du?<br />Trinken/Essen/Möchten Sie? | Ja, gerne. <br />Nein, lieber ... . |
+
+### Zahlen 结账
+
+| Bitte zahlen! |                                              |
+| ------------- | -------------------------------------------- |
+| Kunde         | Zahlen bitte!                                |
+| Kellner       | Zusammen?                                    |
+| Kunde         | Ja, zusammen bitte./ Nein, ich zahle selbst. |
+| Kellner       | Das macht 20,90.                             |
+| Kunde         | Aha ... machen Sie 22 Euro.                  |
+| Kellner       | Danke! Und 8 Euro zurück!                    |
+
+### Kleidung 衣服
+
+| Kleidungsstücke                 |      |
+| ------------------------------- | ---- |
+| der Anzug, die Anzüge           |      |
+| das Sakko, -s                   |      |
+| der Mantel, die Mäntel          |      |
+| das Kleid, -er                  |      |
+| der Pullover, - / der Pulli, -s |      |
+| die Bluse, -n                   |      |
+| das Hemd, -en                   |      |
+| das T-Shirt, -s                 |      |
+| das Polo-Shirt, -s              |      |
+| die Jacke, -n                   |      |
+| die Hose, -en                   |      |
+| eine kurze Hose                 |      |
+| die Jeans                       |      |
+| der Rock, die Röcke             |      |
+| die Unterwäsche                 |      |
+| die Krawatte, -n                |      |
+| der (Leder-)Gürtel, -           |      |
+| der Schuh, -e                   |      |
+| der Stiefel, -                  |      |
+| die Socke, -n                   |      |
+| der Strumpf, die Strümpfe       |      |
+| der Handschuh, -e               |      |
+| der Schal, -s                   |      |
+| der Hut, die Hüte               |      |
+
+| fragen, was gefällt / nicht gefällt     | so kann man antworten                                        |
+| --------------------------------------- | ------------------------------------------------------------ |
+| Wie gefällt Ihnen/dir das T-shirt?      | Das gefällt mir (sehr) gut./ Das gefällt mir (gar) nicht / überhaupt nicht. |
+| Wie finden Sie / findest du den Mantel? | Den finde ich schön/schick/altmodisch/hässlich/cool.         |
+| Was ziehen Sie / ziehst du gern an?     | Ich ziehe gern Hosen an./ Ich trage gern .../ Ich ziehe am liebsten Röcke |
+
+| nach Kleidung fragen                                       |                                             | so kann man antworten                                        |
+| ---------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| Tragen Sie gern / Trägst du gern<br />Mögen Sie / Magst du | Blusen / Jeans / T-Shirts / Mäntel / Röcke? | Ja, sehr gern.<br />Nein, ich trage lieber T-Shirts./ich mag liber Hosen. |
+
+| Die Kundin / Der Kunde sagt das                              |                        | Verkäufer                                                  |                      |
+| ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------------- | -------------------- |
+| Ja, danke.                                                   |                        | Kommen Sie zurecht?                                        |                      |
+| Ich suche ein Kleid / einen Anzug / eine Hose.               |                        | Welche Größe/ Farbe denn? / In welcher (D) Größe/ Farbe?   |                      |
+| Kann ich Ihnen helfen?                                       |                        |                                                            |                      |
+| Kann ich das anprobieren?                                    |                        | Ja, sehr gern/ natürlich./Wollen Sie das anprobieren?      |                      |
+| Wo ist die Umkaidekabine?                                    |                        |                                                            |                      |
+| Haben Sie den Rock in Größe 40?/ Ich möchte eine Hose in Größe 34. |                        | Die Grüße haben wir leider nicht.                          |                      |
+| Das steht mir nicht.                                         |                        |                                                            |                      |
+| Heben Sie die Hose in Grün?                                  |                        | Grün steht Ihnen sehr gut / nicht so gut.                  |                      |
+| Wie gefällt Ihnen das?                                       | 你觉得怎么样？         | Es passt/ steht Ihnen gut/ ausgezeichinet!                 |                      |
+| Wie steht mir das?                                           | 我穿着合适吗？         | Das Kleid passt/ Ihnen nicht. Das ist mir zu klein / groß. |                      |
+| Das nehme ich.                                               |                        |                                                            |                      |
+|                                                              |                        | Das ist voll im Trend/ Das ist in.                         | 现在很流行。         |
+|                                                              |                        | Die Jeans ist im Angebot.                                  | 这条牛仔裤在打折。   |
+|                                                              |                        | Das Kleid passt gut zu deinen Haar.                        | 裙子和你的头发很搭。 |
+| Preiwert/ günstig/ im Sonderangebot                          | 物美价廉               | billig                                                     | 便宜                 |
+| toll / super                                                 | 棒                     | Winterjacke ist im Moment günstig.                         | 冬装夹克正在打折     |
+| Genauso eine Jacke habe ich den ganzen Winter gesucht.       | 这件夹克我找了一个冬天 | Soll das ein Witz sein?                                    | 你在开玩笑吗？       |
+| Was meinst du?/ Wie findest du?                              | 你觉得怎么样？         |                                                            |                      |
+| Die sieht wirklich super aus.(aussehen)                      | 它看起来真的很棒。     |                                                            |                      |
+| Wir guchken dort mal.                                        | 我们去那边看一下       | Guck mal!                                                  | 请看看一下           |
+| Wo finde ich Winterhjacken für Kinder?                       |                        | Im zweiten Stock./ In der zweiten Etage.                   |                      |
+
+### Farben 颜色
+
+| Wichtige Farben sind |      |
+| :------------------: | :--: |
+|         rot          | 红色 |
+|         gelb         | 黄色 |
+|         blau         | 蓝色 |
+|         grün         | 绿色 |
+|        braun         | 棕色 |
+|       schwarz        | 黑色 |
+|         weiß         | 白色 |
+|         grau         | 灰色 |
+
+| Andere Faren sind |          |
+| :---------------: | :------: |
+|      violett      | 紫罗兰色 |
+|       lila        |   紫色   |
+|       rosa        |   玫红   |
+|      orange       |   橘色   |
+
+| Viele Farben zusammen sind |      |
+| :------------------------: | :--: |
+|            bunt            | 彩色 |
+
+### Muster 图案
+
+| Muster                      |      |
+| --------------------------- | ---- |
+| Die Hose ist gestreift.     |      |
+| Der Mantel ist kariert.     |      |
+| Die Krawatte ist gepunktet. |      |
+| Der Rock ist geblümt.       |      |
+| Der Pullover ist gemustert. |      |
+|                             |      |
 
 ## Amt, Post, Bank und Polizei 办公室、邮局、银行和警察
 
@@ -2628,3 +2949,12 @@
 
 | Herr Müller ist der Betreuer von Li Ming / Li Mings Betreuer/ Herrn Li. |
 | ------------------------------------------------------------ |
+
+### Lebenslauf
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+
