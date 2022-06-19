@@ -1440,7 +1440,119 @@
 | zurückbringen |     zurückgebracht     |
 |  vorbereiten  |      vorbereitet       |
 
+## Präteritum 过去时
 
+### Regelmäßige Verben 规则动词的过去时
+
+| Beispiele                                                    |                                          |
+| ------------------------------------------------------------ | ---------------------------------------- |
+| Go Tai lebt in Kaifeng und reist nach München. (Präsens)     | 高泰生活在开封，他去慕尼黑旅行。         |
+| Gao Tai lebte in Kaifeng. 1987 reiste er nach München. (Präteritum) | 高台曾生活在开封，1987年他去慕尼黑旅行。 |
+
+|      |  reisen  |  arbeiten   |
+| :--: | :------: | :---------: |
+| ich  |  reiste  |  arbeitete  |
+|  du  | resitest | arbeitetest |
+|  er  |          |             |
+| sie  |  reiste  |  arbeitete  |
+|  es  |          |             |
+| wir  | reisten  | arbeiteten  |
+| ihr  | reistet  | arbeitetet  |
+| sie  | reisten  | arbeiteten  |
+| Sie  | reisten  | arbeiteten  |
+
+说明：
+
+1. 规则动词过去时的构成：动词词干后加上相应的过去式人称词尾，单数第一人称与单数第三人称的过去时形式相同。
+
+2. 规则动词过去式人称词尾：
+
+   |         |       |
+   | :-----: | :---: |
+   |   ich   |  -te  |
+   |   du    | -test |
+   |   er    |       |
+   |   sie   |  -te  |
+   |   es    |       |
+   |   wir   | -ten  |
+   |   ihr   | -tet  |
+   | sie/Sie | -ten  |
+
+3. 动词词干以-t，-d，-ffn，-chn，-gn结尾的动词过去时人称词尾：
+
+   |         |        |
+   | :-----: | :----: |
+   |   ich   |  -ete  |
+   |   du    | -etest |
+   |   er    |        |
+   |   sie   |  -ete  |
+   |   es    |        |
+   |   wir   | -eten  |
+   |   ihr   | -etet  |
+   | sie/Sie | -eten  |
+
+   与arbeiten词尾变位形式相同的动词还有：
+
+   |   Verben    |
+   | :---------: |
+   |  heiraten   |
+   |   mieten    |
+   | übernachten |
+   |    baden    |
+   |   bilden    |
+   |    reden    |
+   |   schaden   |
+   |   öffnen    |
+   |   rechnen   |
+   |   regnen    |
+
+### Inregelmäßige Verben 不规则动词的过去时
+
+| Beispiele                                     |      |                                                   |                      |
+| --------------------------------------------- | :--: | ------------------------------------------------- | -------------------- |
+| Gao Tai gefällt die kleidung nicht. (Präsens) |  →   | Gaotai gefiel die Kleidung nicht. (Präteritum)    | 高泰不喜欢这种衣服。 |
+| Er bringt ein Silberschiffchen mit. (Präsens) |  →   | Er brachte ein Silberschiffchen mit. (Präteritum) | 他带去一个银元宝。   |
+
+|         | tragen | geben |  leihen  |  bringen  |  kennen  |
+| :-----: | :----: | :---: | :------: | :-------: | :------: |
+|   ich   |  trug  |  gab  | **lied** |  brachte  |  kannte  |
+|   du    | trugst | gabst |  liehst  | brachtest | kanntest |
+|   er    |        |       |          |           |          |
+|   sie   |  trug  |  gab  | **lieh** |  brachte  |  kannte  |
+|   es    |        |       |          |           |          |
+|   wir   | trugen | gaben |  liehen  | brachten  | kannten  |
+|   ihr   | trugt  | gabt  |  lieht   | brachtet  | kanntet  |
+| sie/Sie | trugen | gaben |  liehen  | brachten  | kannten  |
+
+说明：
+
+1. 不规则动词过去时的构成：动词词干须换元音字母，动词词干后加上相应人称词尾，第一和第三人称单数没有词尾，例如sprechen的过去时变位形式为：
+
+   |         | sprechen |
+   | :-----: | :------: |
+   |   ich   |  sprach  |
+   |   du    | sprachst |
+   |   er    |          |
+   |   sie   |  sprach  |
+   |   es    |          |
+   |   wir   | sprachen |
+   |   ihr   | spracht  |
+   | sie/Sie | sprachen |
+
+2. 混合变化动词过去时既要换词干元音字母，动词词干后还要加上相应的人称词尾形式，其人称词尾形式与规则动词过去时人称词尾形式相同，例如bringen的过去时变位形式为：
+
+   |         |  bringen  |
+   | :-----: | :-------: |
+   |   ich   |  brachte  |
+   |   du    | brachtest |
+   |   er    |           |
+   |   sie   |  brachte  |
+   |   es    |           |
+   |   wir   | brachten  |
+   |   ihr   | brachtet  |
+   | sie/Sie | brachten  |
+
+3. 过去时通常用来叙述过去发生的事情，时间意义上与现在完成时相同。区别在于过去时用于叙述体语篇，如长篇小说、童话、寓言，即文学语言或书面语言。而现在完成时往往用于交际语言中，如日常口语或书信往来。
 
 ## Adjektivdelination 形容词变格
 
@@ -1567,7 +1679,607 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 | ------------------------------------------------------------ | ---- |
 | Er trinkt viel schwarzen Kaffee. Zu viel schwarzer Kaffee ist nicht |      |
 
+## Komparation der Adjektive 形容词变级
 
+### Der Positiv 原级
+
+| Beispiele                                                    |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Herr Fisch ist 20 Jahre alt. Ich bin auch 20 Jahre alt.      | Er ist **so** alt **wie** ich.                               |
+| Frau Schön hat eine schöne Figur. Frau Hübsch hat auch eine schöne Figur. | Frau Schön hat eine **genauso** schöne Figur **wie** Frau Hübsch. |
+| Frau Schön liest gern Zeitungen. Frau Schön liest auch gern Zeitschriften. | Frau Schön liest **ebenso** gern Zeitungen **wie** Zeitschrifen. |
+| Es ist in Shanghai kalt. Es ist in Hainan nicht kalt.        | Es ist in Hainan **nicht** so kalt **wie** in Shanghai.      |
+
+说明：
+
+用形容词原级进行比较有肯定和否定两种形式：
+
+1. 肯定形式的结构是so(genauso/ebenso) + 形容词原级 + wie，表示“与……一样”
+2. 否定形式的结构是nicht so + 形容词原级 + wie，表示“与……不一样”
+3. 被比较的两个对象在原句中所充当的成分是一致的
+
+### Regelmäßige Komparation der Adjektive 形容词的规则变级
+
+#### 1. als Prädikativ oder Adverbialbestimmung 作表语或状语
+
+| als Prädikativ                              |      |
+| ------------------------------------------- | ---- |
+| Der Hase <u>ist</u> klein.                  |      |
+| Der Hase <u>ist</u> kleiner als das Schaf.  |      |
+| Der Schaf <u>ist</u> kleiner als das Pferd. |      |
+| Der Hase <u>ist</u> am kleinsten.           |      |
+
+| als Adverbialbestimmung                        |      |
+| ---------------------------------------------- | ---- |
+| Das Schaf <u>läuft</u> schnell.                |      |
+| Der Hase <u>läuft</u> schneller als das Schaf. |      |
+| Der Pferd <u>läuft</u> am schnellsten.         |      |
+
+说明：
+
+1. 在上面的例句中，Klein和schnell是原级形式
+2. kleiner和schneller是比较级形式
+3. 用比较级对人或物进行比较时，其结构是：比较级 + als + 被比较的对象
+4. 形容词最高级用在对三个或三个以上的人或事物进行比较，排名第一或最后的都可以用最高级表达
+5. 被比较的两个对象在原句中所充当的成分也是一致
+6. 用比较级或最高级作表语/状语： Er wird größer.
+7. immer + 比较级 = 比较级 + und + 比较级 （越来越）
+8. 比较级可以用viel， etwas， ein bisschen等程度来修饰
+
+形容词按规则变级的4种类型：
+
+|    原级    |   比较级    |       最高级       |
+| :--------: | :---------: | :----------------: |
+|   billig   |  billiger   |   am billigsten    |
+|  schnell   |  schneller  |   am schnellsten   |
+|  fleißig   |  fleißiger  |   am fleißigsten   |
+|    voll    |   voller    |    am vollsten     |
+|     -      |      -      |         -          |
+|    lang    | l**ä**nger  |  am l**ä**ngsten   |
+|    jung    | j**ü**nger  |  am j**ü**ngsten   |
+|    laut    |   lauter    |    am lautesten    |
+|  schlank   |  schlanker  |   sm schlanksten   |
+|     -      |      -      |         -          |
+|    alt     |  **ä**lter  |  am ält**e**sten   |
+|    heiß    |   heißer    |  am heiß**e**sten  |
+|    kurz    | k**ü**rzer  |  am kürz**e**sten  |
+|   hübsch   |  hübscher   | am hünsch**e**sten |
+|     -      |      -      |         -          |
+| dunk**el** | dunk**ler** |   am dunkelsten    |
+| teu**er**  | teu**rer**  |    am teuersten    |
+
+说明：
+
+1. 形容词比较级的构成是：形容词原级 + 词尾-er
+
+2. 形容词最高级的构成是：形容词原级 + 词尾-st
+
+3. 最高级作表语或状语时，必须在其前面使用am，在最高级的词尾添加-en
+
+4. **单音节**形容词，若词干元音为a/o/u时，须线变音为ä/ö/ü，然后再加相应的词尾，但是形容词voll和schlank的变化是例外，它们在变级时不需要变音：voll→voller→am vollsten；schlank→schlanker→am schlanksten
+
+   **数音节就是数元音的个数**
+
+5. 形容词原级以-t，-ß，-z，-sch，-s等结尾时，因为发音关系，其最高级的形式必须在最高级词尾-st前面加上-e，但是groß的变化时例外：groß→größer→am größten
+
+6. 形容词原级以-el结尾时，因为发音关系，变成比较级时先去掉原级词尾中的-e，然后加上比较级词尾
+
+   形容词teuer变成比较级时先去掉原级词尾中的-e，再加上比较级词尾→teurer
+
+#### 2. als Attribut 作定语
+
+| Beispiele                                 |      |
+| ----------------------------------------- | ---- |
+| Tianjin ist eine große Stadt.             |      |
+| Beijing ist eine größe Stadt als Tianjin. |      |
+| Shanghai ist die größte Stadt.            |      |
+|                                           |      |
+| China hat eine große Fläche.              |      |
+| Kanada hat eine größere Fläche als China. |      |
+| Russland hat die größte Fläche.           |      |
+
+说明：
+
+1. 形容词的比较级作定语时，只需要再比较级形式后再加相应形容词词尾
+2. 最高级作定语时，最高级前须用定冠词（在一定的上下文也可以用物主代词），最高级形容词后需加上相应的形容词词尾
+
+### Unregelmäßige Komparation der Adjektive und einiger Adverbien 形容词及一些副词的不规则变级
+
+| Beispiele                                                    |      |
+| ------------------------------------------------------------ | ---- |
+| Der Berliner Fernsehturm ist **hoch**.                       |      |
+| Der Shanghaier Fernsehturm ist **höher** als der Berliner Fernsehturm. |      |
+| Der **höchste** Fernsehturm ist aber in Toronto.             |      |
+
+形容词及一些副词的不规则变级形式：
+
+|    原级    |     比较级     |                 最高级                  |
+| :--------: | :------------: | :-------------------------------------: |
+|    gut     |     besser     |     am besten / der, die, das beste     |
+|    hoch    |     höher      |   am höchsten / der, die, das höchste   |
+|   nah(e)   |     näher      |   am nächsten / der, die, das nächste   |
+|    viel    |      mehr      |    am meisten / der, die, das meiste    |
+|    gern    |     lieber     |   am liebsten / der, die, das liebste   |
+| oft/häufig | öfter/häufiger | am häufigsten / der, die, das häufigste |
+
+说明：
+
+mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可数名词前需根据名词的格添加相应的词尾，在不可数名词前则不需加词尾：
+
+| Beispiele                                                    |      |
+| ------------------------------------------------------------ | ---- |
+| Hans hat **viel** Geld, aber Maria hat **mehr** Geld.        |      |
+| Susanne hat **wenig** Geld, aber ich habe noch **weniger** Geld. |      |
+| Hans hat **viele** Bücher gelesen, aber Maria hat **mehr** Bücher gelesen. |      |
+| Susanne hat **wenige** Bücher gelesen, aber ich habe noch **weniger** Bücher gelesen. |      |
+
+## Lokale Präpositionen 方位介词
+
+### aus, von, nach, zu, bei, gegenüber + D
+
+#### 1. aus/von + D 回答woher的问题
+
+| aus                                                |                            |
+| -------------------------------------------------- | -------------------------- |
+| 从……里出来，从……出去，强调从一个相对封闭的空间出来 |                            |
+| Hans kommt jetzt **aus** dem Klassenzimmer.        | 汉斯现在正从教室里走出来。 |
+| Er trinkt Bier **aus** einer Flasche.              | 他从瓶子里喝啤酒。         |
+| 表示出生地，国籍                                   |                            |
+| Wang Dali kommt **aus** China.                     | 王大力来自中国。           |
+| 表示原材料                                         |                            |
+| Die Tasche ist aus Leder.                          | 这个包由皮革制成。         |
+| 表示来源                                           |                            |
+| Die Tasche ist **aus** Italien.                    | 这个包来自意大利。         |
+
+| von                                                          | Achtung: vom = von dem |
+| ------------------------------------------------------------ | ---------------------- |
+| 从某人那里来                                                 |                        |
+| Er kommt von seinem Freund.                                  | 他从朋友那里过来。     |
+| 从……出发点来，强调从……方向来，不强调从一个相对封闭的空间出来 |                        |
+| Mein Vater kommt vom Bahnhof.                                | 我父亲从火车站过来。   |
+| 离开/脱离一个平面的物体；把……从一个平面上取下                |                        |
+| Sie isst Salat vom Teller.                                   | 她从盘子里吃沙拉。     |
+| Das Bild fällt von der Wand.                                 | 这幅画从墙上掉下来。   |
+| 固定搭配                                                     |                        |
+| Mein Vater kommt sehr spät von der Arbeit.<br />von der Schule/von der Uni/ vom Unterreicht | 我父亲下班回来很晚。   |
+
+#### 2. nach/zu + D，回答wohin的问题
+
+| nach                                                         | 向……，到……，往……去         |
+| ------------------------------------------------------------ | -------------------------- |
+| 与不带冠词的国名、地名连用                                   |                            |
+| Wang Dali fliegt nach Deutschland/Irak.<br />in die USA/in die Niederlande/in die Schweitz/in die Türkei/ in die Ukraine | 王大力飞去德国。           |
+| 与某些副词及表示东南西北方向的名词连用                       |                            |
+| Gehen Sie an der nächsten Kreuzung nach rechts/links/vorne/hinten/oben/unten. | 您在下一个十字路口向右拐。 |
+| Das Zimmer geht nach Süden/Osten/Norden/Westen.              | 这个房间朝南/东/北/西。    |
+
+| zu                                                           | 向……，到……，往……去 Achtung: zum = zu dem; zur = zu der |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
+| 去某人处                                                     |                                                        |
+| Klaus geht zu Hans.                                          | Klaus去Hans那。                                        |
+| 去某地方                                                     |                                                        |
+| Herr Zhang geht zur Universität.<br />zur Post/zur Schule/zum Supermartk/zur Bank/zum Flughafen | 张先生去大学。                                         |
+| 去办某事                                                     |                                                        |
+| Herr Pöppelmann geht jeden Tag sehr früh zur Arbeit.         | 佩普珥先生每天都很早去上班。                           |
+
+说明：
+
+1. 与带冠词的国名连用时，用介词in表示方向，支配第四格，回答wohin的问题
+
+   Wang Dali fährt morgen in die Schweiz. 王大力明天去瑞士。
+
+2. **==zu Hause，nach Hause，von zu Hause==** 都属于固定用法，分别表示在家、回家、从家里来
+
+   | Beispiele                                                 |                                |
+   | --------------------------------------------------------- | ------------------------------ |
+   | Er will den ganzen Tag zu Hause Schweiz.                  | 他向整天待在家里。             |
+   | Jetzt ist er wieder nach Hause gefahren.                  | 现在他又坐车回家了。           |
+   | Vor einer Stunde ist Hans von zu Hause ins Büro gekommen. | 汉斯一小时前从家里来到办公室。 |
+   | Ich hole Sie von zu Haus ab.                              | 我从家里接你。                 |
+
+#### 3. bei/gegenüber + D, 回答wo的问题
+
+| bei                                          | 在……那里 Achtung: beim = bei dem |
+| -------------------------------------------- | -------------------------------- |
+| 在某人处                                     |                                  |
+| Monika und ihr Sohn sind bei dem/ beim Arzt. | Monika和她的儿子在医生那里看病   |
+| Der Student wohnt bei seinen Eltern.         | 这个大学生住在父母那             |
+| 在公司、银行等单位工作                       |                                  |
+| Monika arbeitet bei Siemens.                 | Monika在西门子工作               |
+
+| gegenüber                                                    | 在……对面             |
+| ------------------------------------------------------------ | -------------------- |
+| **支配名词时，可前置或后置**                                 |                      |
+| Das Kaufhaus liegt gegenüber der Post.<br />oder: Das Kaufhaus liegt der Post gegenüber. | 百货大楼位于邮局对面 |
+| 支配人称代词时，必须后置                                     |                      |
+| Er wohnt mir gegenüber.                                      | 他住在我对面         |
+
+### durch, gegen, um, entlang, bis
+
+#### 1. durch, gegen, um + A
+
+| durch                   | 穿过，周游，支配第四格 |
+| ----------------------- | ---------------------- |
+| Er geht durch den Wald. | 他穿过森林             |
+| Er reist durch China.   | 他周游中国             |
+
+| gegen                    | 朝，向，对；逆，支配第四格 |
+| ------------------------ | -------------------------- |
+| Er läuft gegen die Wand. | 他朝墙撞去                 |
+
+| um                          | 支配第四格     |
+| --------------------------- | -------------- |
+| 转过拐角；在拐角处          |                |
+| Das Auti fährt um die Ecke. | 小汽车转过拐角 |
+| 围绕，环绕                  |                |
+| Wir sitzen um den Tisch.    | 我们围桌而坐   |
+
+#### 2. entlang, bis
+
+| entlang                                                      | 沿着，顺着，后置时支配第四格，前置时支配第三格 |
+| ------------------------------------------------------------ | ---------------------------------------------- |
+| Die Passantin geht die Bahnhofsstaße entlang.<br />oder: Die Passantin geht entlang der Bahnhofsstraße. | 行人沿着火车站走                               |
+
+| bis                                                          | 到……为止，直到，支配第四格 |
+| ------------------------------------------------------------ | -------------------------- |
+| 与无冠词的地名连用时，单独使用，通常无格数形式               |                            |
+| Der Zug fährt bis Berlin.                                    | 这列火车行驶至柏林         |
+| 有冠词的名词时，与另一个介词联合使用，支配格取决于另一个介词 |                            |
+| Wir gehen zu Fuß bis zum Bahnhof.                            | 我们步行直至火车站         |
+| Das Hochwasser reicht bis an den Bauch.                      | 洪水已经涨到半身高         |
+
+### an, auf, in, vor, hinter, über, neben, zwischen
+
+以上九个变位介词（静三动四）
+
+在表示目的地时，支配第四格，回答wohin的问题。
+
+而在表示地点范围时，支配第三格，回答wo的问题
+
+| Beispiele |                               |                      |
+| :-------: | ----------------------------- | -------------------- |
+|     Q     | Wohin fliegt der Vogel?       | 这只鸟飞向哪里？     |
+|     A     | Der Vogel fligt in den Käfig. | 这只鸟飞进鸟笼。     |
+|     Q     | Wo fliegt der Vogel?          | 这只鸟在哪里飞翔？   |
+|     A     | Der Vogel fliegt im Käfig.    | 这只鸟在鸟类里飞翔。 |
+
+说明：
+
+1. 这九个介词通常与以下动词连用：
+
+   |   stellen - stehen   |
+   | :------------------: |
+   | **stellen - stehen** |
+   |  **legen - liegen**  |
+   | **setzen - sitzen**  |
+   |      **hängen**      |
+   |     **stecken**      |
+
+   以上动词中hängen, stecken既可以用作及物动词也可以当不及物动词使用，其中stecken用作及物和不及物时的变位形式一致，而hämgen的现在时变位形式一致，过去式和第二分词的形式如下：及物时为hängte, gehängt；不及物时为hing, gehangen
+
+   变位介词与及物动词stellen, legen, setzen, hängen和stecken连用时，支配第四格，与不及物动词stellen, legen, setzen, hängen和stecken连用时，支配第三格
+   
+2. | Wohin? A                                                     | Wo? D                                                        |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | Der Mann setzt das kleine Mädchen **an** den Tisch.          | Der Mann sitzt **an** dem Tisch.                             |
+   | Er legt das Buch **auf** den Tisch.                          | Das Buch liegt **auf** dem Tisch.                            |
+   | Er legt das Buch **in** die Schublade.                       | Das Buch liegt **in** der Schublade.                         |
+   | Er legt das Buch **vor** den Fernseher.                      | Das Buch liegt **vor** dem fernseher.                        |
+   | Er setllt den staubsauger **hinter** die Tür.                | Der Staubsauger steht **hinter** der Tür.                    |
+   | Er hängt die Lampe **über** den Tisch.                       | Die Lampe hängt **über** dem Tisch.                          |
+   | Er stellt die Tasche **unter** den Tisch.                    | Die Tasche steht **unter** dem Tisch.                        |
+   | Er stellt den Stuhl **neben** einen anderen Stuhl.           | Der Stuhel steht **neben** einem anderen Stuhl.              |
+   | Er stellt den Stuhl **zwischen** einen Tisch und einen Schrank. | Der Stuhl steht **zwischen** einem Tisch und eeinem Scharank. |
+
+| Achtung |            |
+| :-----: | :--------: |
+|   am    |   an dem   |
+|   im    |   in dem   |
+| hinters | hinter das |
+|  übers  |  über das  |
+|   ans   |   an das   |
+|   ins   |   in das   |
+| nebens  | neben das  |
+|  aufs   |  auf das   |
+|  vors   |  vor das   |
+| unters  | unter das  |
+
+#### an
+
+|  an  |                                          |                                  |
+| :--: | ---------------------------------------- | -------------------------------- |
+|      | 紧靠在……上，紧挨着……旁边                 |                                  |
+|  Q   | Wo sitzt der Mann?                       | 这位男士坐哪里？                 |
+|  A   | Der Mann sitzt an dem Tisch.             | 这位男士坐在桌旁。               |
+|      | 到……旁边去                               |                                  |
+|  Q   | Wohin setzt der Mann das kleine Mädchen? | 这位男士把这个小女孩安坐到哪里？ |
+|  A   | Der Mann setzt es an den Tisch.          | 这位男士把她安坐到桌旁。         |
+
+#### auf
+
+| auf  |                                 |                  |
+| :--: | ------------------------------- | ---------------- |
+|      | 在……上面，在一个平面上          |                  |
+|  Q   | Wo liegt das Buch?              | 书在哪里？       |
+|  A   | Das Buch liegt auf dem Tisch.   | 书在桌上。       |
+|      | 放到……上面，放到一个平面上      |                  |
+|  Q   | Wohin legt er das Buch?         | 他把书放到哪里？ |
+|  A   | Er legt das Buch auf den Tisch. | 他把书放到桌上。 |
+
+#### in
+
+|  in  |                                    |                    |
+| :--: | ---------------------------------- | ------------------ |
+|      | 在……里                             |                    |
+|  Q   | Wo liegt das Buch?                 | 书在哪里？         |
+|  A   | Das Buch liegt vor dem Fernseher.  | 书在抽屉里。       |
+|      | 放到……里面                         |                    |
+|  Q   | Wohin legt er das Buch?            | 他把书放到哪里？   |
+|  A   | Er legt das Buch in die Schublade. | 他把书放到抽屉里。 |
+
+#### vor
+
+| vor  |                                     |                        |
+| :--: | ----------------------------------- | ---------------------- |
+|      | 在……前面                            |                        |
+|  Q   | Wo liegt das Buch?                  | 书在哪里？             |
+|  A   | Das Buch liegt vor dem Fernseher.   | 书在电视剧前面。       |
+|      | 放到……前面                          |                        |
+|  Q   | Wohin legt er das Buch?             | 他把书放到哪里？       |
+|  A   | Er legt das Buch vor den Fernseher. | 他把书放到电视剧前面。 |
+
+#### hinter
+
+| hinter |                                           |                        |
+| :----: | ----------------------------------------- | ---------------------- |
+|        | 在……后面，在……背后                        |                        |
+|   Q    | Wo steht der Staubsauger?                 | 吸尘器在哪里？         |
+|   A    | Der Staubsauger stehet hinter der Tür.    | 吸尘器在门后面。       |
+|        | 到……后面；把……放到……后面                  |                        |
+|   Q    | Wohin stellt er den Staubsauger?          | 他把吸尘器放到哪里？   |
+|   A    | Er stellt den Staubsauger hinter die Tür. | 他把吸尘器放到门后面。 |
+
+#### über
+
+| über |                                    |                      |
+| :--: | ---------------------------------- | -------------------- |
+|      | 在……上方                           |                      |
+|  Q   | Wo hängt die Lampe?                | 灯挂在那里？         |
+|  A   | Die Lampe hängt über dem Tisch.    | 灯挂在桌子上方。     |
+|      | 到……上方                           |                      |
+|  Q   | Wohin hängt er die Lampe?          | 他把灯挂到哪里？     |
+|  A   | Er hängt die Lampe über den Tisch. | 他把灯挂到桌子上方。 |
+
+#### unter
+
+| unter |                                       |                      |
+| :---: | ------------------------------------- | -------------------- |
+|       | 在……下方，在……底下                    |                      |
+|   Q   | Wo steht die Tasche?                  | 包在哪里？           |
+|   A   | Die Tasche steht unter dem Tisch.     | 包在桌子下方。       |
+|       | 到……下面；到……底下                    |                      |
+|   Q   | Wohin stellt er die Tasche_           | 他把包放到哪里？     |
+|   A   | Er stellt die Tasche unter den Tisch. | 他把包放到桌子底下。 |
+
+#### neben
+
+| neben |                                              |                              |
+| :---: | -------------------------------------------- | ---------------------------- |
+|       | 在……旁边                                     |                              |
+|   Q   | Wo steht der Stuhl?                          | 椅子在哪里？                 |
+|   A   | Der Stuhl steht neben dem snderen Stuhl.     | 椅子在另一把椅子旁边。       |
+|       | 到……旁边；把……放到……旁边                     |                              |
+|   Q   | Wohin stellt er den Stuhl?                   | 他把椅子放到哪里？           |
+|   A   | Er stellt den Stuhl neben den anderen Stuhl. | 他把椅子放到另一把椅子旁边。 |
+
+#### zwischen
+
+| zwischen |                                                             |                                            |
+| :------: | ----------------------------------------------------------- | ------------------------------------------ |
+|          | 在……（两者）之间，在……中间                                  |                                            |
+|    Q     | Wo steht der Stuhl?                                         | 椅子在哪里？                               |
+|    A     | Der Stuhl steht zwischen einem Tisch und einem Schrank.     | 椅子在（一张）桌子和（一个）橱柜之间。     |
+|          | 到……之间去；到……中间去                                      |                                            |
+|    Q     | Wohin stellt er den Stuhl?                                  | 他把椅子放到哪里？                         |
+|    A     | Er stellt den Stuhl zwischen einen Tisch und einen Schrank. | 他把椅子放到（一张）桌子和（一个）橱柜中间 |
+
+## Temporale Präpositionen 表示时间含义的介词
+
+### an
+
+| an               | 在……时候，支配第三格，回答wann的提问             |                         |
+| ---------------- | ------------------------------------------------ | ----------------------- |
+| 与Tag连用        | Am Dienstag haben wir Videounterricht.           | 星期二我们有录像课。    |
+| 与Datum连用      | Er ist am 20.8.1961 geboren.                     | 他出生于1961年8月20日。 |
+| 与Tagezeit连用   | Am Nachmittag haben wir keinen Deutachuntrricht. | 下午我们没有德语课。    |
+| 与Wochenende连用 | Am Wochenende machen wir oft einen Ausflug.      | 周末我们经常郊游。      |
+
+### zu
+
+| zu                                                           | 在……时；在……（一段时间内），支配第三格，回答wann的提问 |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
+| a）与节日连用，当与kirchliche Feiertage（宗教节日）连用时，zu后面不加冠词 |                                                        |
+| Zu Weihnachten/Zu Ostern bekommen die Kinder viele Geschenke. | 孩子们在圣诞节/复活节的时候得到许多礼物。              |
+| Zum Frühlingsfest/Zum Geburstag bekommen die Kinder viele Geschenke. | 孩子们在春节/生日的时候得到许多礼物。                  |
+| b）也可与Anfang/Ende连用，表示持续一段时间，zu后面不加冠词。 |                                                        |
+| Zu Anfang/Ende des Jahres bekommt die Firma Bosch meistens sehr viele Aufträge. | 博世公司通常在年初/年末时候有很多订单。                |
+| c）与Zeit连用，表示一个时间段，zu后面加冠词                  |                                                        |
+| Zur Zeit des Otto von Bismarck war Destschland militärisch am stärksten. | 奥托·冯·俾斯曼时代的德国在军事上时最强大的。           |
+
+### vor
+
+| vor                                                       | 在……之前，支配第三格，回答wann的提问 |
+| --------------------------------------------------------- | ------------------------------------ |
+| Vor dem Fahren dürfen die Autofahrer keinen Wein trinken. | 驾驶员开车前不准喝酒。               |
+
+### bei
+
+| bei                                                    | 当……时，在……期间，支配第三格，回答wann的提问 |
+| ------------------------------------------------------ | -------------------------------------------- |
+| Beim Fahren dürfen die Autofahrer keinen Wein trinken. | 驾驶员开车时不准喝酒。                       |
+
+### nach
+
+| nach                                                     | 当……之后，支配第三格，回答wann的提问 |
+| -------------------------------------------------------- | ------------------------------------ |
+| Erst nach dem Fahren können die Autofahrer Wein trinken. | 驾驶员开完车后才可以喝酒。           |
+
+### in
+
+| in                                                           |                                         |
+| ------------------------------------------------------------ | --------------------------------------- |
+| 1. 在……（时间）内；在……期间，支配第三格，回答wann的提问      |                                         |
+| a）与Jahr, Monat, Jahrezeit, Woche, Jahrhundert连用          |                                         |
+| Im letzten Jahr machte sie eine Urlaubsreise nach Österreich. | 她去年度假时旅行去了奥地利。            |
+| Im Oktober fliege ich nach Deutschland und beginne mit meinem Studium an der TU München. | 我10月份飞往德国，并在TUM开始我的学业。 |
+| Im Herbst mache ich Urlaub in Spanien.                       | 我秋天去西班牙度假。                    |
+| In der übernächsten Woche machen wir einen Test in Deutsch.  | 我们再一下周做一次德语测验。            |
+| Im 20. Jahrhundert hat sich China sehr stark verändert.      | 中国在21世纪发生了巨大变化。            |
+| b）与Nacht连用                                               |                                         |
+| In der Nacht läuft ein Student um den Sportplatz.            | 深夜里有一位学生绕着操场跑步。          |
+| 2. 在……之后，支配第三格，回答wann的提问                      |                                         |
+| In einer Stunde beginnt das Fußballspiel im Fernsehen.       | 电视里的足球比赛一小时后开始。          |
+
+说明：
+
+​	in和nach都可以表达在……之后的意思
+
+1. in是从说话开始计算的，只能与时间单位搭配，例如：
+
+   | Beispiele                                       |                   |
+   | ----------------------------------------------- | ----------------- |
+   | Der Unterricht ist in ein paar Minuten zu Ende. | 几分钟后下课。    |
+   | Der Chef kommt in 5 Minuten zurück.             | 上司5分钟后回来。 |
+
+2. nach表示时间顺序，可指过去、现在或将来的某时某刻，例如：
+
+   | Beispiele                                                    |                                                              |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | Gestern Abend war ich im Kino, aber nach etwas 10 Minuten ging ich wieder nach Haus zurück, denn der Film war sehr langweilig. | 昨天晚上我去看电影了，但大约过了10分钟后我就回家了，因为那部电影太无聊了。 |
+   | Im Deutschunterricht hören die Kursteilnehmer einen Text. Nach dem Hören müssen sie 2 Fragen beantworten. | 学员们在德语课上听一篇文章，听完之后必须回答两个问题。       |
+   | Nach dem Unterricht gehen die Studenten in die Mensa essen.  | 课后学生们去食堂吃饭。                                       |
+
+### zweischen
+
+| zwishen                                           |                                |
+| ------------------------------------------------- | ------------------------------ |
+| Sein Freund kommt zwischen 14. 00 und 14. 15 Uhr. | 他的朋友14点和14点15分之间来。 |
+
+### gegen
+
+| gegen                                      | 将近，大约，支配第四格，gegen后面不加冠词，回答wann的提问 |
+| ------------------------------------------ | --------------------------------------------------------- |
+| Frau Müller geht gegen 10.00 Uhr zum Arzt. | 穆勒女士大约10点去看医生。                                |
+
+### um
+
+| um                                                           |                                            |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| a）与钟点连用，在……时刻，支配第四格，um后面不加冠词，回答wann的提问 |                                            |
+| Der Unterricht endet um 11.30 Uhr.                           | 课11点30分结束。                           |
+| b）表示不确定的时间，在……时刻，支配第四格，um后面不加冠词，回答wann的提问 |                                            |
+| Jürgen ist ein fleißiger Schüler, erst um Mitternacht geht er schlafen. | 约根是一位勤奋的学生，他子夜时才上床睡觉。 |
+
+### seit
+
+| seit                                                | 自从；从……（时间）起，从……以来（直到现在），句子一般用现在时，支配第三格，回答seit wann的提问 |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| Seit September lerne ich in der Grundstufe Deutsch. | 9月份以来我在初级班学习德语。                                |
+
+### bis
+
+| bis                                               | 直到……，支配第四格，回答bis wann的提问 |
+| ------------------------------------------------- | -------------------------------------- |
+| a）单独使用，bis后面不加冠词                      |                                        |
+| Bis Januar lerne ich in der Grundstufe Deutsch.   | 我在初级班学习德语直到一月为止。       |
+| b）与其他介词连用，支配格取决于跟它连用的那个介词 |                                        |
+| Er lernt jeden Tag bis in die tiefe Nacht.        | 他每天学习到深夜。                     |
+| Bis vor zwei Wochen hörte er mit dem Rauchen auf. | 直到两周前他才戒烟。                   |
+
+### von ... bis ...
+
+| von ... bis ...                                              | 从……时间起，到……时间为止，回答von wann bis wann的提问 |
+| ------------------------------------------------------------ | ----------------------------------------------------- |
+| a）与Monat，Wochentage以及副词连用，不加冠词                 |                                                       |
+| Von September bis Januar lerne ich in der Mittelstufe Deutsch. | 9月至1月我在中级班学习德语。                          |
+| Von Montag bis Freitag lernen wir Deutsch.                   | 我们周一至周五学习德语。                              |
+| Von morgens bis abends lernen wir Deutsch.                   | 我们从早到晚学习德语。                                |
+| b）与Datum，Tageszeit连用，加冠词，须另配其他介词联合使用    |                                                       |
+| Das neue Semester dauert vom 20. Februar bis zum 30. Juni.   | 新学期2月20日开学，6月30日结束。                      |
+| Vom Morgen bis zum Abend sitzt er über den Büchern.          | 他从早到晚看书学习。                                  |
+
+### ab
+
+| ab                                                       |                                        |
+| -------------------------------------------------------- | -------------------------------------- |
+| Ab dem 20. Februar lerne ich in der Mittelstufe Deutsch. | 从2月20日其我将在中级班学习德语。      |
+| Ab sofort/heute/jetzt lerne ich noch fleißiger Deutsch.  | 我马上/今天/现在会更加努力地学习德语。 |
+
+## Andere Präpositionen 其他介词
+
+### mit
+
+| mit  | 支配第三格                                                   |                                                    |
+| :--: | ------------------------------------------------------------ | -------------------------------------------------- |
+|      | 1. 表示使用地工具，手段等                                    |                                                    |
+|      | Heute reisen viele Leute gern mit dem flugzeug.              | 当今许多人喜欢乘坐飞机旅行。                       |
+|      | 2.和……一起；跟……，同……                                       |                                                    |
+|  Q   | Ich möchte Herrn Hoffmann sprechen.                          | 我想跟豪夫曼先生谈话。                             |
+|  A   | Rufen Sie bitte später an! Er hat jetzt eine wichtige Besprechung mit seinem Kollegen. | 请您过后再打电话来！他现在正和同事有一个重要谈话。 |
+|      | 3. 添加……，带有……                                            |                                                    |
+|  Q   | Sie wünschen?                                                | 你想要点什么？                                     |
+|  A   | Ich möchte ein Eis mit schlagsahne, bitte.                   | 我想要一份奶油冰淇淋。                             |
+
+### ohne
+
+| ohne                                                         | 不添加……，不带有……，没有……，支配第四格           |
+| ------------------------------------------------------------ | ------------------------------------------------ |
+| Sie wünschen?<br />Ich möchte ein Eis ohne Schlagsahne, bitte. | 你想要点什么？<br />我想要一份不放奶油的冰淇淋。 |
+| Deutsche können ohne Visum in Europa reisen.                 | 德国人没有签证可以在欧洲（各国）旅游。           |
+
+### für
+
+| für                                                          | 支配第四格                                         |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| 表示目的，为了……                                             |                                                    |
+| Wie lernen für das Studium in Deutschland Deutsch.           | 我们学习德语是为了在德国上大学。                   |
+| 表示对象，对…而言，适合于……                                  |                                                    |
+| Es ist für ihn sehr schwer, Deutsch zu lernen.               | 德语对他而言很难学。                               |
+| Für einen neuen Anzug braucht man eine neue Krawatte und ein paar neue Lederschuhe. | 一套新西装需要配上一条新领带和一双新皮鞋。         |
+| 表示代表……，代替……做某事                                     |                                                    |
+| Da ich keine Zeit habe, muss Herr Li für mich eine Geschäftsreise nach Beijing machen. | 因为我没有时间，所以李先生不得不代替我去北京出差。 |
+| 表示报仇，等值交换，花……钱买下某物                           |                                                    |
+| Er hat das moderne Kleider für 600 Euro gekauft.             | 马克思花600欧买下了这件时髦的连衣裙。              |
+
+### außer
+
+| außer                                             | 除了，除……之外，支配第三格   |
+| ------------------------------------------------- | ---------------------------- |
+| Wir arbeiten täglich außer samstags und sonntags. | 除了周六和周日我们每天上班。 |
+| Außer dir liebe ich niemand.                      | 除了你我不爱任何人。         |
+| Außer Deutsch lerne ich noch English.             | 除了德语我还学习英语。       |
+
+### zu
+
+| zu                                                           | 表示目的，用途，为了……，用来……，支配第三格 |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| Zum Essen komme ich immer, aber zur Arbeit komme ich selten. | 我总是来吃饭，但是很少来工作。             |
+| Das Wasser zum Trinken wird immer knapper                    | 饮用水将越来越短缺。                       |
+
+说明：
+
+​	zu和für都有表达目的的意思，zu回答wozu，zu welchem Zweck的提问；für回答wofür的提问。
+
+1. 用zu的句中，介词通常与动名词连用，强调动作，例如
+
+   Ich kaufe Buntstifte zum Zeichnen. 我买彩笔为了画画。
+
+2. für
+
+   | Beispiele                                              |                                    |
+   | ------------------------------------------------------ | ---------------------------------- |
+   | Wir lernen für das Studium in Deutschland Deutsch.     | 我们学德语是为了在德国的学业。     |
+   | Wir brauchen eine Klimaanlage für unser Klassenzimmer. | 我们需要为我们的教室安上一台空调。 |
 
 # Notizen
 
@@ -1990,6 +2702,25 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 ## Körper und Gesundheit 身体和健康
 
 ## Wohnen und Hausarbeit 生活和家务
+
+### Die Wohnung
+
+| Beispiele                                                    |      |
+| ------------------------------------------------------------ | ---- |
+| Ich wohne in einer Wohnung im Hochhaus/im Studentenwohnheim/in einem Reihenhaus/in einer Villa/in einem Einfamilienhaus. (DIe Wohnform, -en) |      |
+| Das Zimmer ist dunkel/hell/ruhig/laut/gemütlich.             |      |
+| Ich möchte eine Wohnung mieten./ICh suche eine Wohnung.      |      |
+| Ich habe gehört, Sie haben ein Zimmer frei.                  |      |
+| Wie viel kostet das Zimmer?/Wie hoch ist die Miete?          |      |
+| Wie viele Zimmer hat die Wohnung?<br />Die Wohnung hat 2 Zimmer, eine Küche, ein Bad, einen Balkon, eine Terrasse, einen Keller und eine Garage. |      |
+| Wie viele Personen wohnen hier?                              |      |
+| Wie groß ist das Zimmer?<br />Das Zimmer ist 20 qm.          |      |
+| Wann kann ich einziehen?                                     |      |
+| Ab wann ist das Zimmer frei?<br />Ab nächstem Monat.         |      |
+| Ich vermiete die Wohnung an eine Studentin,<br />Ich schicke an ihn das Paket.<br />Ich schreibe an sie einen Brief. |      |
+|                                                              |      |
+
+
 
 ## Natur, Wetter und Jahreszeiten 自然、天气和季节
 
