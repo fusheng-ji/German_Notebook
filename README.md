@@ -871,6 +871,79 @@
 
    用doch回答时，答句中无否定词
 
+## Genitiv 第二格
+
+### Genitiv bei Artikeln und Possessivepronomen 冠词和物主代词的第二格
+
+|      |              定冠词               |              不定冠词               |              物主代词               |
+| :--: | :-------------------------------: | :---------------------------------: | :---------------------------------: |
+|  m   | das Büro ==**des**== Lehrer==s==  | das Büro ==**eines**== Lehrer==s==  | das Büro ==**meines**== Lehrer==s== |
+|  n   | die Schule ==**des**== Kinde==s== | die Schule ==**eines**== Kinde==s== | die Schule ==**ihres**== Kind==es== |
+|  f   |     die Uhr ==**der**== Frau      |     die Uhr ==**einer**== Frau      |     die Uhr ==**seiner**== Frau     |
+| PI.  |  die Taschen ==**der**== Frauen   |                                     | die Taschen ==**unserer**== Frauens |
+
+说明：
+
+1. 名词第二格一般用作前一个名词的定语，说明所属关系。提问用wessen（谁的）或welch-e（哪个，哪些）
+2. 第二格名词除了冠词要变化外，阳性以及中性单数名词词尾须加-s或-es
+
+| Beispiele |                                                              |                          |
+| :-------: | ------------------------------------------------------------ | ------------------------ |
+|     Q     | Wessen Einkommen ist hoch?                                   | 谁的收入高？             |
+|     A     | Das Einkommen des Fußballspielers ist hoch.                  | 足球运动员的收入高。     |
+|     Q     | Welche Studenten spielen gut Volleyball?                     | 哪些大学生排球打得好？   |
+|     A     | Die Studenten der Qinghua-Universität spielen gut Volleyball. | 清华大学学生排球打得好。 |
+
+注意：
+
+1. 加词尾-es
+
+   1. 以-s，-ß，-x，-z结尾的阳性和中性单数名词
+
+      das Haus → des Haus==es==
+
+      der Fleiß → des Fleiß==es==
+
+   2. 阳性和中性单音节单数名词
+
+      das Kind → des Kind==es==
+
+      der Arzt → des Arzt==es==
+
+      das Buch → des Buch==es==
+
+      der Marsch → des Marsch==es==
+
+2. 弱变化阳性单数名词第二格与第三、四格变法相同，均加词尾-n或-en
+
+   der Herr → des Herr==n==
+
+   der Student → des Student==en==
+
+   der Bauer → des Bauer==n==
+
+3. 以-ismus结尾的外来阳性名词不加任何词尾
+
+   der Sozialismus → des Sozialismus
+
+   der Kapitalismus → des Kapitalismus
+
+### Genitiv bei Namen 人名的第二格
+
+人名或带有称呼的名词第二格经常放在被修饰的名词前面，此时在第二格的人名后也要加-s，并去掉被修饰名词的冠词:
+
+| Beisp |      |      |
+| ----- | ---- | ---- |
+|       |      |      |
+|       |      |      |
+|       |      |      |
+
+注意：
+
+当人名的最后一个字母为-s，-ß，-x，-z时，不加-s，只需要在人名后加**==’==**即可
+
+
+
 ## Verbstellung im Satz 变位动词在句中的位置
 
 ### Aussagesatz陈述句
@@ -1804,7 +1877,7 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 
 说明：
 
-mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可数名词前需根据名词的格添加相应的词尾，在不可数名词前则不需加词尾：
+==mehr和weniger作定语时无需另加词尾==，viel和wenig作定语时，在可数名词前需根据名词的格添加相应的词尾，在不可数名词前则不需加词尾：
 
 | Beispiele                                                    |      |
 | ------------------------------------------------------------ | ---- |
@@ -2096,15 +2169,15 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 
 ### zu
 
-| zu                                                           | 在……时；在……（一段时间内），支配第三格，回答wann的提问 |
-| ------------------------------------------------------------ | ------------------------------------------------------ |
-| a）与节日连用，当与kirchliche Feiertage（宗教节日）连用时，zu后面不加冠词 |                                                        |
-| Zu Weihnachten/Zu Ostern bekommen die Kinder viele Geschenke. | 孩子们在圣诞节/复活节的时候得到许多礼物。              |
-| Zum Frühlingsfest/Zum Geburstag bekommen die Kinder viele Geschenke. | 孩子们在春节/生日的时候得到许多礼物。                  |
-| b）也可与Anfang/Ende连用，表示持续一段时间，zu后面不加冠词。 |                                                        |
-| Zu Anfang/Ende des Jahres bekommt die Firma Bosch meistens sehr viele Aufträge. | 博世公司通常在年初/年末时候有很多订单。                |
-| c）与Zeit连用，表示一个时间段，zu后面加冠词                  |                                                        |
-| Zur Zeit des Otto von Bismarck war Destschland militärisch am stärksten. | 奥托·冯·俾斯曼时代的德国在军事上时最强大的。           |
+| zu                                                           | 在……时；在……（一段时间内），支配第三格，回答wann的提问     |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| a）与节日连用，当与kirchliche Feiertage（宗教节日）连用时，zu后面不加冠词 |                                                            |
+| Zu Weihnachten/Zu Ostern bekommen die Kinder viele Geschenke. | 孩子们在圣诞节/复活节的时候得到许多礼物。                  |
+| Zum Frühlingsfest/Drachenbootfest/<br />Mondfest/Nationalfeiertag/Geburstag bekommen die Kinder viele Geschenke. | 孩子们在春节/端午节/中秋节/国庆节/生日的时候得到许多礼物。 |
+| b）也可与Anfang/Ende连用，表示持续一段时间，zu后面不加冠词。 |                                                            |
+| Zu Anfang/Ende des Jahres bekommt die Firma Bosch meistens sehr viele Aufträge. | 博世公司通常在年初/年末时候有很多订单。                    |
+| c）与Zeit连用，表示一个时间段，zu后面加冠词                  |                                                            |
+| Zur Zeit des Otto von Bismarck war Destschland militärisch am stärksten. | 奥托·冯·俾斯曼时代的德国在军事上时最强大的。               |
 
 ### vor
 
@@ -2133,7 +2206,7 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 | Im letzten Jahr machte sie eine Urlaubsreise nach Österreich. | 她去年度假时旅行去了奥地利。            |
 | Im Oktober fliege ich nach Deutschland und beginne mit meinem Studium an der TU München. | 我10月份飞往德国，并在TUM开始我的学业。 |
 | Im Herbst mache ich Urlaub in Spanien.                       | 我秋天去西班牙度假。                    |
-| In der übernächsten Woche machen wir einen Test in Deutsch.  | 我们再一下周做一次德语测验。            |
+| In der übernächsten/nächste Woche machen wir einen Test in Deutsch. | 我们下下周/下一周做一次德语测验。       |
 | Im 20. Jahrhundert hat sich China sehr stark verändert.      | 中国在21世纪发生了巨大变化。            |
 | b）与Nacht连用                                               |                                         |
 | In der Nacht läuft ein Student um den Sportplatz.            | 深夜里有一位学生绕着操场跑步。          |
@@ -2210,18 +2283,19 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 
 ### ab
 
-| ab                                                       |                                        |
+| ab                                                       | 从现在、将来的时间开始                 |
 | -------------------------------------------------------- | -------------------------------------- |
 | Ab dem 20. Februar lerne ich in der Mittelstufe Deutsch. | 从2月20日其我将在中级班学习德语。      |
 | Ab sofort/heute/jetzt lerne ich noch fleißiger Deutsch.  | 我马上/今天/现在会更加努力地学习德语。 |
+| ab sofort / ab nächsten Monat/Jahr                       |                                        |
 
 ## Andere Präpositionen 其他介词
 
-### mit
+### mit D
 
 | mit  | 支配第三格                                                   |                                                    |
 | :--: | ------------------------------------------------------------ | -------------------------------------------------- |
-|      | 1. 表示使用地工具，手段等                                    |                                                    |
+|      | 1. 表示使用的工具，手段等                                    |                                                    |
 |      | Heute reisen viele Leute gern mit dem flugzeug.              | 当今许多人喜欢乘坐飞机旅行。                       |
 |      | 2.和……一起；跟……，同……                                       |                                                    |
 |  Q   | Ich möchte Herrn Hoffmann sprechen.                          | 我想跟豪夫曼先生谈话。                             |
@@ -2230,16 +2304,16 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 |  Q   | Sie wünschen?                                                | 你想要点什么？                                     |
 |  A   | Ich möchte ein Eis mit schlagsahne, bitte.                   | 我想要一份奶油冰淇淋。                             |
 
-### ohne
+### ohne A
 
 | ohne                                                         | 不添加……，不带有……，没有……，支配第四格           |
 | ------------------------------------------------------------ | ------------------------------------------------ |
 | Sie wünschen?<br />Ich möchte ein Eis ohne Schlagsahne, bitte. | 你想要点什么？<br />我想要一份不放奶油的冰淇淋。 |
 | Deutsche können ohne Visum in Europa reisen.                 | 德国人没有签证可以在欧洲（各国）旅游。           |
 
-### für
+### für A
 
-| für                                                          | 支配第四格                                         |
+| für                                                          | 支配第四格 用wofür提问                             |
 | ------------------------------------------------------------ | -------------------------------------------------- |
 | 表示目的，为了……                                             |                                                    |
 | Wie lernen für das Studium in Deutschland Deutsch.           | 我们学习德语是为了在德国上大学。                   |
@@ -2251,7 +2325,7 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 | 表示报仇，等值交换，花……钱买下某物                           |                                                    |
 | Er hat das moderne Kleider für 600 Euro gekauft.             | 马克思花600欧买下了这件时髦的连衣裙。              |
 
-### außer
+### außer D
 
 | außer                                             | 除了，除……之外，支配第三格   |
 | ------------------------------------------------- | ---------------------------- |
@@ -2259,16 +2333,16 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 | Außer dir liebe ich niemand.                      | 除了你我不爱任何人。         |
 | Außer Deutsch lerne ich noch English.             | 除了德语我还学习英语。       |
 
-### zu
+### zu D
 
-| zu                                                           | 表示目的，用途，为了……，用来……，支配第三格 |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| Zum Essen komme ich immer, aber zur Arbeit komme ich selten. | 我总是来吃饭，但是很少来工作。             |
-| Das Wasser zum Trinken wird immer knapper                    | 饮用水将越来越短缺。                       |
+| zu                                                           | 表示目的，用途，为了……，用来……，支配第三格 用wozu，zu welchem Zweck提问 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Zum Essen komme ich immer, aber zur Arbeit komme ich selten. | 我总是来吃饭，但是很少来工作。                               |
+| Das Wasser zum Trinken wird immer knapper                    | 饮用水将越来越短缺。                                         |
 
 说明：
 
-​	zu和für都有表达目的的意思，zu回答wozu，zu welchem Zweck的提问；für回答wofür的提问。
+​	zu和für都有表达目的的意思，zu回答**wozu，zu welchem Zweck**的提问；für回答**wofür**的提问。
 
 1. 用zu的句中，介词通常与动名词连用，强调动作，例如
 
@@ -2280,6 +2354,136 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
    | ------------------------------------------------------ | ---------------------------------- |
    | Wir lernen für das Studium in Deutschland Deutsch.     | 我们学德语是为了在德国的学业。     |
    | Wir brauchen eine Klimaanlage für unser Klassenzimmer. | 我们需要为我们的教室安上一台空调。 |
+
+## Reflexive Verben 反身动词
+
+### Reflexiv gebrauchte Verben
+
+| Beispiele            |                |
+| -------------------- | -------------- |
+| Sie wäscht das Kind. | 她给孩子洗澡。 |
+| Sie wäscht sich.     | 她给自己洗澡。 |
+
+| Reflexivpronomen |  A   |  D   |
+| :--------------: | :--: | :--: |
+|       ich        | mich | mir  |
+|        du        | dich | dir  |
+|    er/sie/es     | sich | sich |
+|       wir        | uns  | uns  |
+|       ihr        | euch | euch |
+|       sie        | sich | sich |
+|       Sie        | sich | sich |
+
+说明：
+
+1. 所谓的假反身动词是指动词既可以用反身代词，也可以用其他名词或代词，作第四格宾语。这类动词用反身动词作宾语时，称之为假反身动词。
+2. 当宾语与句子中的主语是同一个人或同一个物时，我们使用反身代词。反身代词只有第三格和第四格两种形式。
+
+| Verben wie (sich) waschen |      |
+| ------------------------- | ---- |
+| (sich) anmelden           |      |
+| (sich) erinnern           |      |
+| (sich) ärgern             |      |
+| (sich) entschuldigen      |      |
+| (sich) freuen             |      |
+| (sich) langweilen         |      |
+| (sich) informieren        |      |
+| (sich) interessieren      |      |
+| (sich) kämmen             |      |
+| (sich) rasieren           |      |
+| (sich) setzen             |      |
+
+#### Reflexivpronomen im Dativ  + Akkusativobjekt 
+
+### Reflexive Verben
+
+### Reziproke Verben
+
+## Verben mit Präpositionen 与介词搭配的动词
+
+| Beispiele                                                    |                                                    |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| Herr Gu hat Herrn Schmidt zum Essen eingeladen.              | 顾先生邀请了施密特先生吃饭。                       |
+| Am Abend wartet Herr Gu vor dem Restaurant auf ihn.          | 晚上顾先生在饭店门口等他。                         |
+| Sie unterhalten sich über Leben und Studium in Deutschland.  | 他们讨论关于德国的生活和学习。                     |
+| Herr Schmidt spricht viel von seinen Töchtern.               | 施密特谈起他女儿们的许多事。                       |
+| Am späten Abend verabschieden sie sich. Herr Schmidt bedankt sich bei Herrn Gu für das gute Essen. | 深夜他们相互道别。施密特先生感谢顾先生的可口饭菜。 |
+
+说明： 德语中许多动词可支配不同的介词，而有相当一部分动词必须和固定的介词连用
+
+### Verben mit Dativpräpositionen 接三格
+
+| Verben mit Dativpräpositionen              |                                                         | Beispiele |
+| ------------------------------------------ | ------------------------------------------------------- | --------- |
+| helfen jm. (D) bei D                       | 帮助                                                    |           |
+| anfangen mit etw.                          | 开始                                                    |           |
+| aufhören mit etw.                          | 停止                                                    |           |
+| beginnen mit etw.                          | 开始                                                    |           |
+| sich beschäftigen mit etw.                 | 从事于，忙于                                            |           |
+|                                            |                                                         |           |
+| sich erkundigen bei jm. (D) nach etw.      | 打听                                                    |           |
+| fragen jn. (A) nach etw.                   | 提问                                                    |           |
+| sich sehnen nach etw.                      | 思念                                                    |           |
+| suchen nach etw. / jm.                     | 找                                                      |           |
+|                                            |                                                         |           |
+| erzählen jm. (D) von etw. / jm. & über jn. | 讲述                                                    |           |
+| reden von etw. / jm. & über jn.            | 谈论                                                    |           |
+| sich verabschieden von jm.                 | 分别                                                    |           |
+| sprechen von etw. / jm. & über jn.         | 聊天                                                    |           |
+|                                            |                                                         |           |
+| einladen jn. (A) zu etw.                   | 邀请 ins Kino/Theater/Konzert zur Party/ auf eine Party |           |
+| gratulieren jm. (D) zu etw.                | 祝贺 zum Geburstag/ zur Hochzeit                        |           |
+
+### Verben mit Akkusativpräpositionen 接四格
+
+| Verben mit Akkusativpräpositionen       |                | Beispiele                                          |
+| --------------------------------------- | -------------- | -------------------------------------------------- |
+| achten auf etw. / jn.                   | 注意           |                                                    |
+| antworten jm. (D) auf etw.              | 回答           |                                                    |
+| sich freuen auf etw.                    | 期待未发生的事 |                                                    |
+| sich vorbereiten auf etw.               | 准备           |                                                    |
+| warten auf etw. / jn.                   | 等待           |                                                    |
+|                                         |                |                                                    |
+| denken an etw. / jn.                    | 想             |                                                    |
+| sich erinnern an etw. / jn.             | 回忆           |                                                    |
+|                                         |                |                                                    |
+| sich bedanken bei jm. (D) für etw.      | 感谢           |                                                    |
+| sich interessieren für etw. / jn.       | 感兴趣         |                                                    |
+| sich entschuldigen bei jm. (D) für etw. | 道歉           |                                                    |
+| diskutieren mit jm. (D) über etw.       | 讨论           |                                                    |
+| erzählen jm. (D) über etw.              | 讲述           |                                                    |
+| sich freuen über etw.                   | 期待已发生的事 |                                                    |
+| sich informieren bei jm. über etw.      | 了解           |                                                    |
+| sprechen über                           | 谈起           |                                                    |
+| sich unterhalten mit jm. (D) über etw.  | 聊天           |                                                    |
+|                                         |                |                                                    |
+| sich kümmern um etw. / jn.              | 关心           |                                                    |
+| bitten jn. (A) um etw.                  | 请求           |                                                    |
+| es geht um etw.                         | 关于           | Worum geht es? 这篇课文讲的是什么？Es geht um (+A) |
+
+## Konjunktionen
+
+|  Ⅰ   |  Ⅱ   |           |     0     |  Ⅰ   |  Ⅱ   |      |
+| :--: | :--: | :-------: | :-------: | :--: | :--: | :--: |
+|  N   |  V   | entweder  |  , oder   |  N   |  V   |      |
+|  N   |  V   |   zwar    |  , aber   |  N   |  V   |      |
+|  N   |  V   | nicht nur | , sondern |  N   |  V   | auch |
+
+| Ⅰ    | Ⅱ    |       | 0      | Ⅰ    | Ⅱ    |      |
+| ---- | ---- | ----- | ------ | ---- | ---- | ---- |
+| N    | V    | weder | , noch | V    | N    |      |
+
+| Ⅰ         | Ⅱ    | Ⅲ    | 0         | Ⅰ    | Ⅱ    |      |
+| --------- | ---- | ---- | --------- | ---- | ---- | ---- |
+| Entweder  | V    | N    | , oder    | N    | V    |      |
+| Zwar      | V    | N    | , aber    | N    | V    |      |
+| Nicht nur | V    | N    | , sondern | N    | V    | auch |
+
+| Ⅰ     | Ⅱ    | Ⅲ    | Ⅰ      | Ⅱ    | Ⅲ    |
+| ----- | ---- | ---- | ------ | ---- | ---- |
+| Weder | V    | N    | , noch | V    | N    |
+
+
 
 # Notizen
 
@@ -2700,6 +2904,8 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 | **A** | **Ja, ich lese gerne Liebesromane.**                         |                          |
 
 ## Körper und Gesundheit 身体和健康
+
+
 
 ## Wohnen und Hausarbeit 生活和家务
 
@@ -3180,6 +3386,68 @@ mehr和weniger作定语时无需另加词尾，viel和wenig作定语时，在可
 | Ich finde ... besser.                                        |      |
 | Das ist zu einfach.                                          |      |
 | Nein, das ist langweilig.                                    |      |
+
+### Reiseziele
+
+| Mit welchem Verkehrsmittel fahren Sie?<br />Womit fahren Sie? |      |
+| ------------------------------------------------------------ | ---- |
+| mit dem Fahrrad                                              |      |
+| mit dem Zug/ der Bahn                                        |      |
+| mit dem Auto                                                 |      |
+| mit dem Bus                                                  |      |
+| mit dem Motorrad                                             |      |
+| mit der Starßebahn                                           |      |
+| mit dem Flug                                                 |      |
+| mit der U-Bahn                                               |      |
+| mit dem Schiff                                               |      |
+
+### Reisevorbereitung
+
+| Was brauchen Sie für eine Urlaubsreise? |      |
+| --------------------------------------- | ---- |
+|                                         |      |
+|                                         |      |
+|                                         |      |
+
+| Was müssen Sie vor jeder Urlaubsreise machen? |      |
+| --------------------------------------------- | ---- |
+|                                               |      |
+|                                               |      |
+|                                               |      |
+
+| Wo übernachten Sie? |      |
+| ------------------- | ---- |
+|                     |      |
+|                     |      |
+|                     |      |
+
+### Wegbeshraibung
+
+### Nach dem Weg fragen
+
+| Fragen                                                     |      |
+| ---------------------------------------------------------- | ---- |
+| Entschuldigen Sie bitte! Wie koome ich an besten zur ... ? |      |
+| Können Sie mir sagen, wie komme ich zum ... ?              |      |
+| Verzeihung! Können Sie mir sagen, wo ist ... ?             |      |
+| Bin ich hier richtig? Ich möchte zur ... gehen.            |      |
+
+| 😀                                                            |      |
+| ------------------------------------------------------------ | ---- |
+| Das ist ganz einfach. Gehen Sie ...                          |      |
+| Moment, ich muss mal überlegen. Gehen Sie ...                |      |
+| Am besten gehen Sie ...                                      |      |
+| Ganz in der Nähe ist ...                                     |      |
+| 😟                                                            |      |
+| Tut mir Leit, das weiß ich auch nicht.                       |      |
+| Leider bin ich auch fremd hier.                              |      |
+| Das kann ich Ihnen leider auch nicht sagen.                  |      |
+| Ich kenne mich hier nicht gut aus. Fragen Sie lieber andere. |      |
+
+| Beispiele                                  |      |
+| ------------------------------------------ | ---- |
+| Ist das weit? Nein. 5 Minuten zu Fuß.      |      |
+| Vielen Dank. Kein Problem./ Keine Ursache. |      |
 
 ## Essen, Trinken und Einkaufen 吃饭、喝酒和购物
 
