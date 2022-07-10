@@ -1,3 +1,21 @@
+# German keyboard layout
+
+![](images/550px-KB_Germany.png)
+
+| German label                          | English equivalent      |
+| ------------------------------------- | ----------------------- |
+| Steuerung (Strg)                      | Ctrl (Control)          |
+| Alternative Grafik (Alt Gr)           | Alt Gr                  |
+| Einfügen (Einfg)                      | Insert (Ins)            |
+| Entfernen (Entf)                      | Delete (Del)            |
+| Bild auf/Bild nach oben (Bild↑)       | Page Up (PgUp)          |
+| Bild ab/Bild nach unten (Bild↓)       | Page Down (PgDn)        |
+| Position eins (Pos1)                  | Home ("Position one")   |
+| Ende (Ende)                           | End (end)               |
+| Drucken / Systemabfrage (Druck/S-Abf) | Print Screen            |
+| Rollen                                | Scroll Lock ("to roll") |
+| Pause/Unterbrechen (Pause/Untbr)      | Pause                   |
+
 # Phonetik
 
 1. 元音在下列情况下发长音
@@ -207,22 +225,6 @@
 | [ismus]     |      |      |
 
 # Grammatik
-
-## Verben
-
-## Nomen und Artikel
-
-## Adjektive
-
-## Pronomen
-
-## Präpositionen
-
-## Fragen
-
-## Satzstellung
-
-## Konjunktionen
 
 ## Personalpronomen im Nominativ (N) und Konjugation der Verben im Präsens 人称代词第一格和动词现在时变位
 
@@ -932,15 +934,29 @@
 
 人名或带有称呼的名词第二格经常放在被修饰的名词前面，此时在第二格的人名后也要加-s，并去掉被修饰名词的冠词:
 
-| Beisp |      |      |
-| ----- | ---- | ---- |
-|       |      |      |
-|       |      |      |
-|       |      |      |
+| Beispiele                                           |                                                  |
+| --------------------------------------------------- | ------------------------------------------------ |
+| Julian - die Schwester → Julian**s** Schwester      | Julians Schwester ist eine bekannte Schwimmerin. |
+| Frau Huber - der Freund → Frau huber**s** Freund    | Frau Hubers Freund ist Fußballspieler.           |
+| Herr Müller - der Sohn → Herr**n** Müller**s** Sohn | Herrn Müllers Sohn spielt Tennis nur aus Spaß.   |
+
+以上的几种形式同样也可以通过介词von来表达：
+
+| Beispiele                 |
+| ------------------------- |
+| die Schwester von Julian  |
+| der Freund von Frau Huber |
+| der Sohn von Herrn Müller |
 
 注意：
 
 当人名的最后一个字母为-s，-ß，-x，-z时，不加-s，只需要在人名后加**==’==**即可
+
+| Beispiele |
+| --------- |
+| Nils      |
+|           |
+|           |
 
 
 
