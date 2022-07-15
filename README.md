@@ -880,7 +880,7 @@
 |      |              定冠词               |              不定冠词               |              物主代词               |
 | :--: | :-------------------------------: | :---------------------------------: | :---------------------------------: |
 |  m   | das Büro ==**des**== Lehrer==s==  | das Büro ==**eines**== Lehrer==s==  | das Büro ==**meines**== Lehrer==s== |
-|  n   | die Schule ==**des**== Kinde==s== | die Schule ==**eines**== Kinde==s== | die Schule ==**ihres**== Kind==es== |
+|  n   | die Schule ==**des**== Kind==es== | die Schule ==**eines**== Kinde==s== | die Schule ==**ihres**== Kind==es== |
 |  f   |     die Uhr ==**der**== Frau      |     die Uhr ==**einer**== Frau      |     die Uhr ==**seiner**== Frau     |
 | PI.  |  die Taschen ==**der**== Frauen   |                                     | die Taschen ==**unserer**== Frauens |
 
@@ -952,13 +952,32 @@
 
 当人名的最后一个字母为-s，-ß，-x，-z时，不加-s，只需要在人名后加**==’==**即可
 
-| Beispiele |
-| --------- |
-| Nils      |
-|           |
-|           |
+| Beispiele                                             |
+| ----------------------------------------------------- |
+| Nils' Arbeit gefällt ihm nicht.                       |
+| Hans Groß' Frau ist kein.                             |
+| Max' Vater ist Sportler.                              |
+| Franz' Schwester möchte eine Reise nach China machen. |
 
+### Adjektiv - Deklinationen im Genitiv 形容词变格
 
+| m                               | n                                | f                                     | PI.                                        |
+| ------------------------------- | -------------------------------- | ------------------------------------- | ------------------------------------------ |
+| das Spiel des neuen Spielers    | die Übungen des alten Buches     | der Sieg der bekannten Mannschaft     | die Meinungen der berufsätigen Frauen      |
+| das Spiel eines neuen Spielers  | die Übungen eines alten Buches   | der Sieg einer bekannten Mannschaft   |                                            |
+| das Spiel meines neuen Spielers | die Übungen unseres alten Buches | der Sieg unserer bekannten Mannschaft | die Meinungen unserer berufstätigen Frauen |
+| der Preis schwarzen Tees        | der Preis frischen Wassers       | der Preis frischer Milch              | die Meinungen berufstätiger Frauen         |
+
+说明：第二格形容词词尾在零冠词的阴性及复数名词前的变化是-er，其他均是-en
+
+### Präpositionen: trotz, wegen, während, statt / anstatt 介词
+
+|             Beispiele             |                                                              |
+| :-------------------------------: | ------------------------------------------------------------ |
+|          trotz<br />尽管          | Es regnet sehr stark. Aber er geht spazieren. → <br />Trotz des starken Regens geht er spazieren. |
+|          wegen<br />由于          | Die Sportlerin war schwer krank. Sie durfte nicht Tennis spielen. → <br />Wegen ihrer schweren Krankheit durfte sie nicht Tennis spielen. |
+|      während<br />在...期间       | Die Touristen machen Urlaub. Sie haben vieles gesehen und erlebt. → <br />Die Touristen haben während des Urlaubs vieles gesehen und erlebt. |
+| statt / anstatt<br />不...而是... | Er möchte ein Radio kaufen, findet aber kein gutes Radio. Er kauft einen billigen Fernseher. → <br />Statt eines Radios kauft er einen billigen Fernseher. |
 
 ## Verbstellung im Satz 变位动词在句中的位置
 
@@ -2409,11 +2428,71 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 | (sich) rasieren           |      |
 | (sich) setzen             |      |
 
-#### Reflexivpronomen im Dativ  + Akkusativobjekt 
+#### Reflexivpronomen im Dativ  + Akkusativobjekt 作第三和第四格宾语的反身代词
 
-### Reflexive Verben
+| Beispiele                             |                      |
+| ------------------------------------- | -------------------- |
+| Die Mutter wäscht dem Kind die Hände. | 这位妈妈给孩子洗手。 |
+| Die Mutter wäscht sich die Hände.     | 这位妈妈洗自己的手。 |
 
-### Reziproke Verben
+说明：
+
+当句子中出现双宾语时，一般我们可套用“人三物四”的口诀：反身代词时间接宾语，用第三格，物时直接宾语，用第四格
+
+| Verben wie (sich) wtwas waschen: |      |
+| -------------------------------- | ---- |
+| (sich) etwas bestellen           |      |
+| (sich) etwas kochen              |      |
+| (sich) etwas kämmen              |      |
+| (sich) etwas holen               |      |
+| (sich) etwas kaufen              |      |
+| (sich) etwas leihen              |      |
+| (sich) etwas putzen              |      |
+| (sich) etwas wünschen            |      |
+
+### Reflexive Verben 反身动词（真反身动词）
+
+| Beispiel                                     |                          |
+| -------------------------------------------- | ------------------------ |
+| Er hat sich verspätet und muss sich beeilen. | 他迟到了，必须加快赶路。 |
+
+说明：
+
+真反身动词时由动词和反身代词构成，他们是不可分的整体。这类动词我们称之为真反身动词。
+
+| Verben wie sich verspäten: |
+| -------------------------- |
+| sich auskennen             |
+| sich erkundigen            |
+| sich verlieben             |
+| sich bedanken              |
+| sich umsehen               |
+| sich bewerben              |
+| sich verabreden            |
+| sich erholen               |
+| sich verlaufen             |
+
+### Reziproke Verben 交互反身动词
+
+| Beispiel                                                     |      |                                                              |
+| ------------------------------------------------------------ | :--: | ------------------------------------------------------------ |
+| Die Mutter wäscht das Kind und das Kind wäscht die Mutter.<br />母亲帮孩子洗，孩子帮母亲洗。 |  →   | Die Mutter und das Kind waschen sich. (rezprok, immer im Plural)<br />母亲和孩子相互洗。 |
+
+说明：
+
+使用交互反身动词时，主语为复数
+
+| Verben wie sich waschen (reziprok): |      |
+| ----------------------------------- | ---- |
+| sich anrufen                        |      |
+| sich lieben                         |      |
+| sich unterhalten                    |      |
+| sich begrüßen                       |      |
+| sich streiten                       |      |
+| sich verabreden                     |      |
+| sich kennen                         |      |
+| sich treffen                        |      |
+| sich verstehen                      |      |
 
 ## Verben mit Präpositionen 与介词搭配的动词
 
@@ -2429,55 +2508,60 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 
 ### Verben mit Dativpräpositionen 接三格
 
-| Verben mit Dativpräpositionen              |                                                         | Beispiele |
-| ------------------------------------------ | ------------------------------------------------------- | --------- |
-| helfen jm. (D) bei D                       | 帮助                                                    |           |
-| anfangen mit etw.                          | 开始                                                    |           |
-| aufhören mit etw.                          | 停止                                                    |           |
-| beginnen mit etw.                          | 开始                                                    |           |
-| sich beschäftigen mit etw.                 | 从事于，忙于                                            |           |
-|                                            |                                                         |           |
-| sich erkundigen bei jm. (D) nach etw.      | 打听                                                    |           |
-| fragen jn. (A) nach etw.                   | 提问                                                    |           |
-| sich sehnen nach etw.                      | 思念                                                    |           |
-| suchen nach etw. / jm.                     | 找                                                      |           |
-|                                            |                                                         |           |
-| erzählen jm. (D) von etw. / jm. & über jn. | 讲述                                                    |           |
-| reden von etw. / jm. & über jn.            | 谈论                                                    |           |
-| sich verabschieden von jm.                 | 分别                                                    |           |
-| sprechen von etw. / jm. & über jn.         | 聊天                                                    |           |
-|                                            |                                                         |           |
-| einladen jn. (A) zu etw.                   | 邀请 ins Kino/Theater/Konzert zur Party/ auf eine Party |           |
-| gratulieren jm. (D) zu etw.                | 祝贺 zum Geburstag/ zur Hochzeit                        |           |
+| Verben mit Dativpräpositionen              |              | Beispiele                                                    |
+| ------------------------------------------ | :----------: | ------------------------------------------------------------ |
+| helfen jm. (D) bei D                       |     帮助     | Er hilft mir oft bei meinen Hausaufgaben.                    |
+| anfangen mit etw.                          |     开始     | Wann können wir mit der Diskussion anfangen?                 |
+| aufhören mit etw.                          |     停止     | Herr Lambertz möchte mit dem Rauchen aufhören.               |
+| beginnen mit etw.                          |     开始     | Um Viertel vor acht beginnen wir mit dem Unterricht.         |
+| sich beschäftigen mit etw.                 | 从事于，忙于 | Sie beschäftigt sich mit klassischer Musik.                  |
+|                                            |              |                                                              |
+| sich erkundigen bei jm. (D) nach etw.      |     打听     | Vor dem Bahnhof erkundigt sich eine Frau bei einem Passanten nach dem Weg. |
+| fragen jn. (A) nach etw.                   |     提问     | Der Mann fragt eine Dame nach dem Weg.                       |
+| sich sehnen nach etw.                      |     思念     | Er sehnt sich nach seiner Heimat.                            |
+| suchen nach etw. / jm.                     |      找      | Ich suche nach meinem Buch. Hilf mir doch!                   |
+|                                            |              |                                                              |
+| erzählen jm. (D) von etw. / jm. & über jn. |     讲述     | Eva erzählt uns viel von Adam.                               |
+| reden von etw. / jm. & über jn.            |     谈论     | Alle reden von ihrer Reise nach Aachen.                      |
+| sich verabschieden von jm.                 |     分别     | Die Kinder veravschieden sich von ihren Eltern.              |
+| sprechen von etw. / jm. & über jn.         |     聊天     | Auf der Partz haben wir von Hans gesprochen.                 |
+|                                            |              |                                                              |
+| einladen jn. (A) zu etw.                   |     邀请     | Darf ich Sie zum Essen einladen?<br />ins Kino/Theater/Konzert <br />zur Party<br />auf eine Party |
+| gratulieren jm. (D) zu etw.                |     祝贺     | Wir gratulieren ihm zum Geburtstag.<br />zum Geburstag/ zur Hochzeit |
+| sich treffen mit jm. (D)                   |              |                                                              |
+| sich verabreden mit jm. (D)                |              |                                                              |
+| sich entspannen mit jm. (D)                |              |                                                              |
 
 ### Verben mit Akkusativpräpositionen 接四格
 
-| Verben mit Akkusativpräpositionen       |                | Beispiele                                          |
-| --------------------------------------- | -------------- | -------------------------------------------------- |
-| achten auf etw. / jn.                   | 注意           |                                                    |
-| antworten jm. (D) auf etw.              | 回答           |                                                    |
-| sich freuen auf etw.                    | 期待未发生的事 |                                                    |
-| sich vorbereiten auf etw.               | 准备           |                                                    |
-| warten auf etw. / jn.                   | 等待           |                                                    |
-|                                         |                |                                                    |
-| denken an etw. / jn.                    | 想             |                                                    |
-| sich erinnern an etw. / jn.             | 回忆           |                                                    |
-|                                         |                |                                                    |
-| sich bedanken bei jm. (D) für etw.      | 感谢           |                                                    |
-| sich interessieren für etw. / jn.       | 感兴趣         |                                                    |
-| sich entschuldigen bei jm. (D) für etw. | 道歉           |                                                    |
-| diskutieren mit jm. (D) über etw.       | 讨论           |                                                    |
-| erzählen jm. (D) über etw.              | 讲述           |                                                    |
-| sich freuen über etw.                   | 期待已发生的事 |                                                    |
-| sich informieren bei jm. über etw.      | 了解           |                                                    |
-| sprechen über                           | 谈起           |                                                    |
-| sich unterhalten mit jm. (D) über etw.  | 聊天           |                                                    |
-|                                         |                |                                                    |
-| sich kümmern um etw. / jn.              | 关心           |                                                    |
-| bitten jn. (A) um etw.                  | 请求           |                                                    |
-| es geht um etw.                         | 关于           | Worum geht es? 这篇课文讲的是什么？Es geht um (+A) |
+| Verben mit Akkusativpräpositionen       |                | Beispiele                                                    |
+| --------------------------------------- | -------------- | ------------------------------------------------------------ |
+| achten auf etw. / jn.                   | 注意           | Achten Sie bitte auf den Verkehr!                            |
+| antworten jm. (D) auf etw.              | 回答           | Leider kann ich nicht auf deine Frage antworten.             |
+| sich freuen auf etw.                    | 期待未发生的事 | Die Studenten Freuen sich schon auf die Sommerferien.        |
+| sich vorbereiten auf etw.               | 准备           | Auf die Reise müssen wir uns gut vorbereiten.                |
+| warten auf etw. / jn.                   | 等待           | Wir dürfen noch nicht gehen. Wir müssen auf sie warten.      |
+| sich entscheiden für etwas (A)          |                |                                                              |
+|                                         |                |                                                              |
+| denken an etw. / jn.                    | 想             | Er denkt oft an seinen kranken Vater.                        |
+| sich erinnern an etw. / jn.             | 回忆           | Sie erinnern sich gern an ihre Kindheit.                     |
+|                                         |                |                                                              |
+| sich bedanken bei jm. (D) für etw.      | 感谢           | Eva bedankt sich bei Adam für die Blumen.                    |
+| sich interessieren für etw. / jn.       | 感兴趣         | Die Männer interessieren sich sehr für Fußball.              |
+| sich entschuldigen bei jm. (D) für etw. | 道歉           | Er entschuldigt sich bei ihr für seine Verspätung.           |
+|                                         |                |                                                              |
+| diskutieren mit jm. (D) über etw.       | 讨论           | Im Unterricht diskutieren die Studenten über Deutschland.    |
+| erzählen jm. (D) über etw.              | 讲述           | Er erzählt viel über die Reise durch Deutschland.            |
+| sich freuen über etw.                   | 期待已发生的事 | Wir freuen uns über deinen langen Brief.                     |
+| sich informieren bei jm. über etw.      | 了解           | Man kann sich beim DAAD über das Stipendium informieren.     |
+| sprechen über                           | 谈起           | Er spricht gern über sein Leben an der Universität.          |
+| sich unterhalten mit jm. (D) über etw.  | 聊天           | Wang Dali unterhält sich mit Sabine über seine erste Reise nach Deutschland. |
+|                                         |                |                                                              |
+| sich kümmern um etw. / jn.              | 关心           | Die Mutter kümmert sich um ihr Kind.                         |
+| bitten jn. (A) um etw.                  | 请求           | Sie bittet mich um Hilfe.                                    |
+| es geht um etw.                         | 关于           | Worum geht es? 这篇课文讲的是什么？Es geht um (+A)           |
 
-## Konjunktionen
+## Konjunktionen 连词
 
 |  Ⅰ   |  Ⅱ   |           |     0     |  Ⅰ   |  Ⅱ   |      |
 | :--: | :--: | :-------: | :-------: | :--: | :--: | :--: |
@@ -2499,7 +2583,47 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 | ----- | ---- | ---- | ------ | ---- | ---- |
 | Weder | V    | N    | , noch | V    | N    |
 
+## Wortbildung 构词法
 
+### Suffixe "-ung" und "-tion" bei Fremdwörtern
+
+| Substantiv (Verbstamm + Endung) |        Verb         |        |
+| :-----------------------------: | :-----------------: | :----: |
+|   die Beschäftig**ung**, -en    | (sich) beschäftigen | 原生词 |
+|    die Ausstell**ung**, -en     |     ausstellen      | 原生词 |
+|    die Informa**tion**, -en     |     informieren     | 外来词 |
+
+### Suffixe "-heit" und "-keit"
+
+| Substantiv (Adjektiv + Endung) |  Verb   |
+| :----------------------------: | :-----: |
+|         die Gesundheit         | gesund  |
+|        die Berühmtheit         | berünmt |
+|        die Wichtigkeit         | wichtig |
+
+## Nabensatz
+
+### Nabensatz mit "weil" und "da" (Kausalsatz) 
+
+| Kausalsatz                          | Ⅰ    | Ⅱ    | ...        | Ende |
+| ----------------------------------- | ---- | ---- | ---------- | ---- |
+| Ich kann Herrn Weber nicht anrufen, | weil | er   | im Ausland | ist. |
+| Er muss im Bett bleiben,            | weil | er   | Fieber     | hat. |
+
+说明：
+
+1. 在例句中，主句前置，从句后置，主句和从句之间用逗号分开
+2. 从句语序：连词weil置于首位，第二位紧跟主语，变为动词置于句末，其他句子成分置于主语和变位动词之间。
+
+| Ⅰ       | Ⅱ    | ...              | Ende  | Ⅰ     | ...  |            |
+| ------- | ---- | ---------------- | ----- | ----- | ---- | ---------- |
+| Weil/Da | sie  | zu Hause bleiben | will, | kommt | sie  | nicht mit. |
+|         |      |                  |       |       |      |            |
+|         |      |                  |       |       |      |            |
+
+
+
+### Hauptsatz mit "deshalb"
 
 # Notizen
 
