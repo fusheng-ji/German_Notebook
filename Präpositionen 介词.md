@@ -223,3 +223,29 @@
 | <u>*ab/hängen von etw. D / jm. D 依赖于，取决于*</u>         |
 | Viele june Leute hängen finaziell **von** ihren Eltern ab. (ab/hängen von etw. D / jm. D) 依赖于，取决于 |
 
+## Präpositionen nur mit Akkusativ 四格介词
+
+### für + nur Akkusativ
+
+| Beispiele                                                    |
+| ------------------------------------------------------------ |
+| <u>*für 对...而言*</u>                                       |
+| **Für mich/ Mir** ist dieses Auto zu teuer.<br />zu = too 太（过分）负面的<br />第三格可以描述人的感受，所以Für mich可以被Mir替代<br />Mir ist es kalt. |
+| **Für mich/ Mir** ist es egal.<br />这件事对我来说无所谓。   |
+| **Für ihn** ist dieses Fahrrad nicht so praktisch.           |
+| Das ist **für die meisten Leute** sehr wichtig.<br />die meisten + 复数 = 大多数<br />Das ist **den meisten Leuten** sehr wichtig. = Den meisten ist das sehr wichtig. |
+| <u>*für + jn. A / etw. A 为了...（目的）    der Zweck 目的*</u> |
+| **Für meine Familie** arbeite ich sehr hart.                 |
+| **Für ihre Kinder** steht sie jeden Tag sehr fürh auf.       |
+| **Für dieses Fahrrad** muss ich mehr Geld sparen.<br />Geld sparen 节约钱<br />ersparen etw. A 节约下（表省钱的结果）<br />lernen / erlernen / verlernen / auslernen<br />学习/学会/荒废/学完<br />Man lernt nie aus. 学无止境。 |
+| **Für eine größere Wohnung** muss er mehr Geld sparen.       |
+| Was hast du **für deine Freundin** gemacht?                  |
+| <u>*für 表示赞成，支持*</u>                                  |
+| Wir sind **für deinen Vorschlag**.<br />stimmen für etw. A / jn. A 投票给.../ 支持 |
+| Viele Menschen haben **für den neuen Präsidenten** gestimmt. |
+| Die meisten Studenten haben **für dieses neue Gesetz** gestimmt. |
+| Er spricht sich **für meine Ansicht** aus. (aus/sprechen sich A für etw. A) 主张，赞成，支持<br />die Ansicht 观点，看法 |
+| Wir sprechen uns **für eine fridliche Lösung** aus.<br />我们主张一个和平的解决方案。 |
+| <u>*für 表示因果关系*</u>                                    |
+| Er war **für den Diebstahl** festgenommen worden.<br />他因为偷窃被抓。<br />die Diebstahl 偷窃行为<br />stahl是动词stehlen的过去式 |
+
