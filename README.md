@@ -970,7 +970,7 @@
 
 说明：第二格形容词词尾在零冠词的阴性及复数名词前的变化是-er，其他均是-en
 
-### Präpositionen: trotz, wegen, während, statt / anstatt 介词
+### Präpositionen: trotz, wegen, während, statt / anstatt 支配第二格的介词
 
 |             Beispiele             |                                                              |
 | :-------------------------------: | ------------------------------------------------------------ |
@@ -2601,29 +2601,328 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 |        die Berühmtheit         | berünmt |
 |        die Wichtigkeit         | wichtig |
 
-## Nabensatz
+## Nabensatz 从句
 
-### Nabensatz mit "weil" und "da" (Kausalsatz) 
+### Nabensatz mit "weil" und "da" (Kausalsatz) 由weil和da引导的原因从句
 
-| Kausalsatz                          | Ⅰ    | Ⅱ    | ...        | Ende |
-| ----------------------------------- | ---- | ---- | ---------- | ---- |
-| Ich kann Herrn Weber nicht anrufen, | weil | er   | im Ausland | ist. |
-| Er muss im Bett bleiben,            | weil | er   | Fieber     | hat. |
+连词weil和da意为“因为”， 由其引导的从句称为原因从句，原因从句和其主句一起表达了一种原因和结果的逻辑关系，从句表达原因，主句表达结果。
+
+| Hauptsatz |      |                            | Nebensatz |      |            |      |
+| --------- | ---- | -------------------------- | --------- | ---- | ---------- | ---- |
+| Ⅰ         | Ⅱ    | Ⅲ                          | Ⅰ         | Ⅱ    | ...        | Ende |
+| Ich       | kann | Herrn Weber nicht anrufen, | weil      | er   | im Ausland | ist. |
+| Er        | muss | im Bett bleiben,           | weil      | er   | Fieber     | hat. |
 
 说明：
 
 1. 在例句中，主句前置，从句后置，主句和从句之间用逗号分开
 2. 从句语序：连词weil置于首位，第二位紧跟主语，变为动词置于句末，其他句子成分置于主语和变位动词之间。
 
-| Ⅰ       | Ⅱ    | ...              | Ende  | Ⅰ     | ...  |            |
-| ------- | ---- | ---------------- | ----- | ----- | ---- | ---------- |
-| Weil/Da | sie  | zu Hause bleiben | will, | kommt | sie  | nicht mit. |
-|         |      |                  |       |       |      |            |
-|         |      |                  |       |       |      |            |
+| Nebensatz |            |                  |       | Hauptsatz |      |                    |
+| --------- | ---------- | ---------------- | ----- | --------- | ---- | ------------------ |
+| Ⅰ         | Ⅱ          | ...              | Ende  | Ⅰ         | ...  |                    |
+| Weil/Da   | sie        | zu Hause bleiben | will, | kommt     | sie  | nicht mit.         |
+| Weil/Da   | er         | kein Geld        | hat,  | kann      | er   | kein Auto kaufen.  |
+| Weil/Da   | Herr Weber | im Ausland       | ist,  | kann      | ich  | ihn nicht anrufen. |
+| Weil/Da   | er         | Fieber           | hat,  | muss      | er   | im Bett bleiben.   |
+
+说明：
+
+1. 在上面例句中，从句前置，主句后置；从句主句之间必须用逗号分开
+2. 从句中的语序与后置从句一致，从句后直接跟主句中的变位动词，第二位是主语，其他句子成分置于主语后
+3. 由连词weil引导的从句既可前置，也可后置，是说话人要告诉对方的新信息
+4. 由连词da引导的从句一般都置于主句前，导致双方已知的原因
+
+### Hauptsatz mit "deshalb"  deshalb连接两个主句
+
+| Hauptsatz  |      |                          | Hauptsatz |       |                     |                                    |
+| ---------- | ---- | ------------------------ | --------- | ----- | ------------------- | ---------------------------------- |
+| Ⅰ          | Ⅱ    | ...                      | Ⅰ         | Ⅱ     | ...                 |                                    |
+| Li Ling    | ist  | noch nicht 20 Jahre alt. | Dashalb   | darf  | sie nicht heiraten. | 李玲还不满20岁，所以她不可以结婚。 |
+| Der Mantel | ist  | zu lang,                 | dashalb   | passt | er ihr nicht.       | 这件大衣太长，所以不适合她。       |
+
+说明：
+
+1. 连词deshalb意为“因此”或“所以”，所以只能连接两个主句
+2. deshalb句只能后置，表达结果，前面句子表达原因
+3. 两个句子之间一般用句号分开，deshalb要大写
+4. 如果两个句子之间的因果关系被认为非常紧密时，也可以用逗号，但deshalb要小写
+5. deshalb引导的主句，变位动词直接置于deshalb之后，然后是主语及其他句子成分
+
+### Nebensatz mit "wenn / falls" (Konditionalsatz) 由wenn或falls引导的条件从句
+
+连词wenn和falls意为“如果”，由它们引导的从句称为条件从句。条件从句和它的主句一起表达一种条件和结果的逻辑关系，从句表达条件，主句表达结果
+
+| Hauptsatz |         |                    | Nebensatz |      |        |       |
+| --------- | ------- | ------------------ | --------- | ---- | ------ | ----- |
+| Ⅰ         | Ⅱ       | Ⅲ                  | Ⅰ         | Ⅱ    | Ⅲ      | Ende  |
+| Ich       | besuche | dich,              | wenn      | ich  | Zeit   | habe. |
+| Sie       | geht    | gern einkaufen,    | wenn      | sie  | Geld   | hat.  |
+| Herr Liu  | möchte  | nach Xi'an fahren, | wenn      | er   | Urlaub | hat.  |
+
+说明：
+
+1. 上述例句中主句前置，从句后置，主从句之间用逗号隔开
+2. 从句中的语序：连词wenn置于首位，第二位紧跟主语，变位动词置于句末，其他句子成分置于主语和变位动词之间
+
+| Nebensatz  |          |        |       | Hauptsatz |      |                    |
+| ---------- | -------- | ------ | ----- | --------- | ---- | ------------------ |
+| Ⅰ          | Ⅱ        | Ⅲ      | Ende  | Ⅰ         | Ⅱ    | Ⅲ                  |
+| Wenn/Falls | ich      | Zeit   | habe, | besuche   | ich  | dich.              |
+| Wenn/Falls | sie      | Geld   | hat,  | geht      | sie  | gern einkaufen.    |
+| Wenn/Falls | Herr Liu | Urlaub | hat,  | möchte    | er   | nach Xi'an fahren. |
+
+说明：
+
+1. 上述例句中，从句前置，主句后置，主从句之间也必须用逗号分开
+2. 从句中的语序与后置从句一致
+3. 从句后直接跟主句中的变位动词，第二位是主语，其他句子成分置主语之后
+4. 由连词falls引导的从句一般都置于主句前
+5. 由连词wenn引导的从句既可前置，也可后置
+
+### Nbensatz mit "obwohl" (Konzessivsatz) 由obwohl引导的让步从句
+
+连词obwohl意为“虽然”或“尽管”，由它们引导的从句称为让步从句，让步从句和它们的主句一起表达转折关系
+
+| Hauptsatz                           | Nebensatz |      |                         |        |
+| ----------------------------------- | --------- | ---- | ----------------------- | ------ |
+|                                     | Ⅰ         | Ⅱ    | Ⅲ                       | Ende   |
+| Ich habe eine Verabredung mit ihr,  | obwohl    | ich  | keine Zeit              | habe.. |
+| Herr Liu kann Deutsch gut sprechen, | obwohl    | es   | sehr schwei             | ist.   |
+| Er ist nicht mitgekommen,           | obwohl    | ich  | ihn mehrmals eingeladen | habe.  |
+
+说明：
+
+1. 上述例句中，主句前置，从句后置，主从句之间用逗号分开
+2. 从句中的语序是：连词obwohl置于首位，第二位紧跟主语，变位动词置于句末，其他句子成分置于主语和变位动词之间
+
+| Nebensatz |         |                |       | Hauptsatz |      |                           |
+| --------- | ------- | -------------- | ----- | --------- | ---- | ------------------------- |
+| Ⅰ         | Ⅱ       | Ⅲ              | Ende  | Ⅰ         | Ⅱ    | ...                       |
+| Obwohl    | ich     | keine Zeit     | habe, | habe      | ich  | eine Verabredung mit ihr. |
+| Obwohl    | Deutsch | sehr schwer    | ist,  | kann      | Herr | Liu es but sprechen.      |
+| Obeohl    | ich     | ihn eingeladen | habe, | ist       | er   | nicht mitgekommen.        |
+
+说明：
+
+1. 在上述例句中，从句前置，主句后置，主从句之间也须用逗号分开
+2. 从句中的语序与后置从句一致
+3. 从句后直接跟主句中的变位动词，第二位是主语，其他句子成分置于主语之后
+
+### Hauptsatz mit "trotzdem" trotzdem连接两个主句
+
+| Hauptsatz                         | Hauptsatz                                   |
+| --------------------------------- | ------------------------------------------- |
+| Ich habe keine Zeit.              | Trotzdem habe ich eine Verabredung mit ihr. |
+| Deutsch ist schwer.               | Trotzdem kann Herr Liu es gut sprechen.     |
+| Ich habe ihn mehrmals eingeladen, | trotzdem ist er nicht mitgekommen.          |
+
+说明：
+
+1. trotzdem意为“尽管如此，仍然...”，只能连接两个主句
+2. 带有trotzdem的句子必须后置，它和前一个句子是转折关系
+3. 两个句子一般用句号分开，Trotzdem首字母一般要大写
+4. 如果两个句子之间的关系被认为非常紧密是，也可以用逗号，但trotzdem要小写
+5. trotzdem引导的是主句，变位动词直接置于trotzdem之后，然后是主语及其他句子
+
+### Nebensatz mit "um ... zu" und "damit" (Finalsatz) 由"um ... zu"和"damit"引导的目的从句
+
+| Beispiele                                                    |      |                                                              |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| Warum fährt Wang Dali nach Deutschland?<br />Er möchte an der TU Darmstadt studieren. | →    | Wang Dali fährt nach Deutschland, um an der TU Darmstadt zu studieren. |
+| Warum melden die Eltern ihren Sohn zu einem Französischkurs an.<br />Ihr Sohn soll Französisch lernen. | →    | Die Eltern melden ihren Sohn zu einem Französischkurs an, damit er Französisch lernt. |
+| Wozu leiht die Studentin von der Bank 10000 Euro?<br />Sie kann ihr Studium in Deutschland finanzieren. | →    | Die Studentin leiht von der Bank 10000 Euro, um ihr Studium in Deutschland finanzieren zu können. |
+| Warum raucht Peter nie im Schlafzimmer?<br />Seine Frau muss nicht passiv rauchen. | →    | Peter raucht nie im Schlafzimmer, damit seine Frau nicht passiv rauchen muss. |
+
+说明：
+
+1. 目的从句由um...zu（为了……）或damit（为了/以便……）引导，对目的从句的提问一般用wozu，mit welcher Absicht，yu welchem Zweck。如果主从句中的行为主体一致时，通常用um...zu结构；如果主从句中的行为主体不一致时，则必须用damit结构
+2. 在目的从句和um...zu结构中不可使用情态助动词wollen，möchten和sollen， 因为连词damit和um...zu本身就有“为了”的意思
+
+### um ... zu 与 zu + Infinitiv um ... zu与简单不定式结构的区别
+
+目的从句um ... zu与zu + Infinitiv的区别在于：目的从句um ... zu是主句的状语，不受主句动词的支配。zu + Infinitiv是受主句动词支配的一个成分，如充当主句的主语、表语、宾语或介词宾语。
+
+| Beispiele                                                    |
+| ------------------------------------------------------------ |
+| Er hat vor, in Deutschland in seinem Studienfach weiter zu studieren. |
+| Er lernt Deutsch, um sich auf sein Studium in Deutschland vorzubereiten. |
+
+## Infinitiv 不定式
+
+### Infinitiv mit "zu" 带zu不定式
+
+| Beispiele                                                    |
+| ------------------------------------------------------------ |
+| Kinder haben große Lust **<u>zu</u>** spielen.               |
+| Kinder haben keine Lust, Hausaufgaben **<u>zu</u>** machen.  |
+| Kinder haben keine Lust, mit dem Unterrricht an**<u>zu</u>**fangen. |
+| Ich hoffe, ihn **<u>zu</u>** sehen, **<u>zu</u>** sprechen und mit ihm ins Kino **<u>zu</u>** gehen. |
+
+说明：
+
+1. 带zu不定式分简单不定式和扩展不定式两种，简单不定式前无须加逗号
+2. 扩展不定式前须加逗号
+3. 可分动词带zu不定式中zu置于可分前缀与基本动词中间
+4. 当在zu不定式句中有两个及两个以上动词时，zu都不能省略，须置于各个不定式前
+
+### Infinitiv mit zu / dass-Satz 带zu不定式结构与dass句的区别
+
+| Beispiele                                                    |      |                                                              |
+| ------------------------------------------------------------ | :--: | ------------------------------------------------------------ |
+| Birgit kann die Prüfung bestehen. Das hofft Birgit.          |  →   | Birgit hofft, die Prüfung bestehen zu können.                |
+| Birgit soll an der Prüfung teilnehmen. Das schlagen die Eltern Birgit vor. |  →   | Die Eltern schlagen Birgit vor, an der Prüfung teilzunehmen. |
+| Die Eltern sollen für sie einen Computer kaufen. Darum bittet Birgit die Eltern. |  →   | Birgit bittet die Eltern, für sie einen Computer zu kaufen.  |
+| Alle Schüler müssen die Prüfung bestehen. Es ist für alle Schüler wichtig. |  →   | Es ist (für alle Schüler) wichtig, die Prüfung zu bestehen.<br />oder<br />Die Prüfung zu bestehen, ist (für alle Schüler) wichtig. |
+| Birgit kann die Prüfung bestehen. Das hoffen die Eltern.     |  →   | Die Eltern hoffen, dass Birgit die Prüfung bestehen kann.    |
+
+说明：
+
+1. 不定式行为主体与主句的主语一致时，往往用不定式结构
+2. 不定式行为主体与主句的主语不一致，但是与主句的第三格或第四格宾语一致时，也可用不定式结构
+3. 在“es ist + 形容词/分词/名词”这类句型中，不定式行为主体是“大家”（alle），可以省略；否则不定式行为主体必须以第三格或für + 第四格形式放在主句中，如Es ist mir wichtig, ... zu + Inf. / Es ist für mich wichtig, ... zu + Inf.
+4. 若从句中的行为主体没在主句中提及，则不能用不定式结构，只能用dass从句
+
+### Verben, Adjektive und Nomen in Verbindung mit Infinitiv mit "zu" （一部分）与带zu不定式连用的动词、形容词、第二分词以及名词
+
+|          Verben          |
+| :----------------------: |
+|         anfangen         |
+|         aufhören         |
+|         beginnen         |
+|       bitten (um)        |
+|         erlauben         |
+| sich freuen (auf / über) |
+|          hoffen          |
+|        raten (zu)        |
+|        verbieten         |
+|       versprechen        |
+|        versuchen         |
+|         vorhaben         |
+|       vorschlagen        |
+|        vorgessen         |
+|        empfehlen         |
+|     sich gewöhnen an     |
+|     sich kümmern um      |
+
+| Adjektive + sein |
+| :--------------: |
+|       gut        |
+|      leicht      |
+|     möglich      |
+|    notwendig     |
+|     schlecht     |
+|      schön       |
+|      schwer      |
+|      üblich      |
+|     wichtig      |
+
+|  Nomen + haben  |
+| :-------------: |
+|      Zeit       |
+|      Lust       |
+|      Angst      |
+|  die Hoffnung   |
+| die Möglichkeit |
+|   die Pflicht   |
+|   den Wunsch    |
+
+|      Verbindung      |
+| :------------------: |
+| Es ist erlaubt, ...  |
+| Es ist verboten, ... |
+
+说明：
+
+1. 与一些动词连用时，带zu不定式是主句的宾语
+
+   Jeder Student hofft, die Prüfung zu bestehen/bestehen zu können. （作宾语）
+
+2. 与一些形容词连用时，带zu不定式是主句的主语
+
+   Es ist notwendig, den armen Menschen zu helfen. （作主语）
+
+3. 与一些第二分词连用时，带zu不定式也是主句的主语
+
+   Es ist verboten, im Klassenzimmer zu rauchen. （作主语）
+
+4. 与一些抽象名词连用是，带zu不定式是改名词的定语
+
+   Das Kind hat Angst, alleine in einem dunklen Zimmer zu schlafen. （作定语）
+
+### Zeitform in Infinitivkonstruktionen mit zu 带zu不定式结构中的时态
+
+动词不定式是指动词未经变位的动词（原形）形式，按其结构可分为现在时和完成时不定式两种，其中现在时不定式使用较多
+
+| 现在时不定式                                     | 完成时不定式                                                 |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| Die Kinder haben heute Zeit, Fußball zu spielen. | Es ist eine Voraussetzung für Ärzte, Medizin studiert zu haben. |
+
+## Vorgangspassiv 过程被动态：werden (+ von ...) + Partizip Ⅱ
+
+|   Person    | Wortform |
+| :---------: | :------: |
+|     ich     |  werde   |
+|     du      |  wirst   |
+| er, sie, es |   wird   |
+|     wir     |  werden  |
+|     ihr     |  werdet  |
+|  sie, Sie   |  werden  |
+
+### Gebrauch des Vorgangspassivs 过程被动态的应用
+
+| Beispiele                                    |      |                                                              |
+| -------------------------------------------- | :--: | ------------------------------------------------------------ |
+| Man arbeitet samstags nicht.                 |  →   | Es wird samstags nicht gearbeitet./ Samstags wird nicht gearbeitet. |
+| Man massiert dem Mann (A).                   |  →   | Der Mann (N) wird massiert.                                  |
+| Frau Schün (N) massiert dem Mann (A).        |  →   | Der Mann (N) wird (von Frau Schön (D)) massiert.             |
+| Er (N) schneidetz mir (D) oft die Haare (A). |  →   | Mir (D) werden oft die Haare (N) (von ihm (D)) geschnitten.  |
+| Man hilft dem Kind (D).                      |  →   | Dem Kind (D) wird geholfen.                                  |
+| Frau Schmidt (N) hilft dem Kind (D).         |  →   | Dem Kind (D) wird (von Frau Schmidt (D)) geholfen.           |
+| Man wartet lange auf den Bus.                |  →   | Es wird lange auf dem Bus gewartet. / Auf den Bus wird lange gewartet. |
+
+说明:
+
+1. 构成: werden (+ von ... / durch ...) + 第二分词, werden是被动态的助动词,必须按主语的人称形式变位,置于句子的第二位,实义动词必须以第二分词形式置于句末
+2. 主动句改写为被动句时需要注意:
+   1. 主动句中的man在被动句中必须略去,因为它不含任何信息
+   2. 主动句的第四格宾语在被动句中要改写为第一格主语
+   3. 主动句中的主语在被动句中一般用介词von + 第三格的形式改写,有时也用介词durch + 第四格的形式改写.两种形式在表达意义上基本没有区别.如果要强调行为主体只是行为的执行者,即他们背后还有给他们任务的委托者,或强调行为主体只是行为的手段或方式,即在其背后还有真正的行为人,这时可采用durch + 第四格的形式.
+      1. Die Zeitung wurde <u>**durch den Briefträger**</u> zugestellt.
+      2. Der Patinent wurde **<u>durch eine neue Therapie</u>** geheilt.
+   4. 主动句中的其他句子成分在被动句中不发生任何变化
+   5. 用不及物动词（不能支配第四个宾语的动词）构成的被动句，没有主语，可以使用es充当形式主语，但必须置于句首；如果句首置放了其他句子成分，es则不能再用，谓语动词按照第三人称单数变位
+3. 下列动词不能用在被动句中：
+   1. 一部分及物动词：haben, besitzen, bekommen, erhaltern, enthalten, kennen, wissen, erfahren, kosten, wiegen等
+   2. 绝大多数用sein构成完成时的不及物动词
+   3. 所有的反身动词
+   4. 所有表示天气现象的dong
+
+### Zeitformen des Vorgangspassivs 过程被动态的时态
+
+|   Person    | Wortform |
+| :---------: | :------: |
+|     ich     |  wurde   |
+|     du      | wurdest  |
+| er, sie, es |  wurde   |
+|     wir     |  wurden  |
+|     ihr     |  wurdet  |
+|  Sie, sie   |  wurden  |
+
+| Beispiele                                                    |      |                                                              |
+| ------------------------------------------------------------ | :--: | ------------------------------------------------------------ |
+| **Präsens - 现在时 - werden + P. Ⅱ**                         |      |                                                              |
+| Der Arzt operiert Herrn Zhang.                               |  →   | Herr Zhang wird (vom Arzt) operiert.                         |
+| **Präteritum - 过去时 - wurde ... + P. Ⅱ**                   |      |                                                              |
+| Der Arzt operierte Herrn Zhang.                              |  →   | Herr Zhang wurde (vom Arzt) operiert.                        |
+| **Perfekt - 现在完成时 - sein + P. Ⅱ + worden**              |      |                                                              |
+| Der Arzt hat Herrn Zhang operiert.                           |  →   | Herr Zhang ist (vom Arzt) operiert worden.                   |
+| **Plusquamperfekt - 过去完成时 - war ... + P. Ⅱ + worden**   |      |                                                              |
+| Nachdem der Arzt Herrn Zhang operiert hatte, wurde er wieder gesund. |  →   | Nachdem Herr Zhang (vom Arzt) operiert worden war, wurde er wieder gesund. |
 
 
 
-### Hauptsatz mit "deshalb"
+
 
 # Notizen
 
