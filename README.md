@@ -2896,7 +2896,7 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
    1. 一部分及物动词：haben, besitzen, bekommen, erhaltern, enthalten, kennen, wissen, erfahren, kosten, wiegen等
    2. 绝大多数用sein构成完成时的不及物动词
    3. 所有的反身动词
-   4. 所有表示天气现象的dong
+   4. 所有表示天气现象的动词
 
 ### Zeitformen des Vorgangspassivs 过程被动态的时态
 
@@ -2920,7 +2920,83 @@ viel和wenig在不可数名词前无词尾变化， 而它们后面的形容词�
 | **Plusquamperfekt - 过去完成时 - war ... + P. Ⅱ + worden**   |      |                                                              |
 | Nachdem der Arzt Herrn Zhang operiert hatte, wurde er wieder gesund. |  →   | Nachdem Herr Zhang (vom Arzt) operiert worden war, wurde er wieder gesund. |
 
+### Vorgangspassiv mit Modalverben 带情态助动词的过程被动态
 
+| Beispiele                                                 |                                |
+| --------------------------------------------------------- | ------------------------------ |
+| 现在时：情态助动词现在时 + P. Ⅱ + werden                  |                                |
+| Heute können Telefonrechnungen bargeldlos bezahlt werden. | 如今可以不用现金支付电话费了。 |
+| 过去时：情态助动词过去时 + P. Ⅱ + werden                  |                                |
+| Früher mussten Telefonrechnungen bar bezahlt werden.      | 以前电话费必须用现金支付。     |
+
+说明：
+
+带情态助动词的过程被动态常用现在时态和过去时态
+
+当主动句改成被动句时，主动句中的情态助动词wollen必须转换成sollen，如：
+
+| Beispiel                                                    |      |                                                              |
+| ----------------------------------------------------------- | :--: | ------------------------------------------------------------ |
+| Eine amerikanische Bank will ein Büro in Shanghai eröffnen. |  →   | Ein Büro soll (von einer amerikanischen Bank) in Shanghai eröffnet werden. |
+
+### Vorgangspassiv mit Modalverben im Nebenstaz und im Infinitiv mit zu 带情态助动词的过程被动态在从句和带zu不定式中的构成形式
+
+#### 1. Nbensatz 从句
+
+| Beispiele | 连词…… + P. Ⅱ + werden + 情态助动词                          |
+| --------- | ------------------------------------------------------------ |
+| 主动态    | Der Arzt sagt, dass man den Patienten sofort operieren muss. |
+| 被动态    | Der Arzt sagt, dass der Patient sofort operiert werden muss. |
+
+#### 2. Infinitiv mit zu 带zu的不定式
+
+| Beispiele | ……P. Ⅱ + werden + zu +情态助动词不定式                       |
+| --------- | ------------------------------------------------------------ |
+| 主动态    | Der Patient hofft, dass der Arzt ihn sofort operieren kann.  |
+| 被动态    | Der Patient hofft, sofort (vom Arzt) operiert werden zu können. |
+
+## Zustandspassiv 状态被动态
+
+| 构成   |             |
+| ------ | ----------- |
+| 现在时 | sein + P. Ⅱ |
+| 过去时 | war… + P. Ⅱ |
+
+说明：
+
+状态被动态通常是由sein的现在时或过去时加动词第二分词构成，表示一个动作的结果或一个行为所产生的状态，而不强调行为发出者。
+
+#### Zustandspassiv der Gegenwart 现在时的状态被动态
+
+| Beispiele  |                            |
+| ---------- | -------------------------- |
+| 过程被动态 | Das Fenster wird geöffnet. |
+| 状态被动态 | Das Fenster ist geöffnet.  |
+
+#### Zustandspassiv der Vergangenheit 过去时的状态被动态
+
+| Beispiele  |                                                              |
+| ---------- | ------------------------------------------------------------ |
+| 过程被动态 | Im Krieg wurden viele Städte zerstört.                       |
+| 状态被动态 | Noch in den ersten nachkriegsjahren waren viele Städte zerstört. |
+
+说明：
+
+凡是不能构成过程被动态的动词，也不能构成状态被动态。
+
+某些动词的第二分词由于词义的变迁，失去原来的分词性质而成为形容词，它们用系动词sein的表语时，与状态被动态形式相同，但并没有被动含义，如：
+
+In der Nacht vor einer Prüfung sind viele Schüler normalerweise so aufgeregt, dass sie nicht gut schlafen können.
+
+考试前一个夜里许多学生通常紧张得没法睡好觉。
+
+### Zeitengaben im Vorgangspassiv und Zustandspassiv 过程被动态和状态被动态句中得时间状语
+
+| 过程被动态-表示一个时刻，一个时间点                          | 状态被动态-表示一个时期，yi'ge                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Die Bank wird um zwei Uhr geschlossen.<br />这家银行2点关门。 | Die Bank ist von zwei bis vier Uhr geschlossen.<br />这家银行2点至4点关门。 |
+| Die Bank ist gerade geschlossen worden.<br />这家银行刚刚关门。 | Die Bank ist seit einer Woche geschlossen.<br />这家银行已关门一周时间了。 |
+| Die Bank wurde vor vier Wochen geschlossen.<br />这家银行四周前已经关门。 | Die Bank war zwei Wochen lang geschlossen.<br />这家银行曾经关闭长达两周的时间。 |
 
 
 
